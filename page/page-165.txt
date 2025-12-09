@@ -1,30 +1,23 @@
-Source: img-0319.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-165.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
 a
-
 解説
-
-VM が使用しているサービスアカウントに「Storage Object Creator) ロールを
+VM が使用しているサービスアカウントに「Storage Object Creator」ロールを
 割り当てることで、そのバケットに対してオブジェクトの新規アップロード
 のみを許可できます。これは最小権限の原則に基づいたセキュアでシンプル
 な方法です。
-
 不正解の解説
-
-b. 署名付き URL は一時的な操作には有効ですが、定期運用には類雑で自動
+b. 署名付き URL は一時的な操作には有効ですが、 定期運用には煩雑で自動
 化に不向きです。
-
-c. Cloud Build を挟むのは構成が複雑になり、YVM 主体の処理には過剰な設計
+c. Cloud Build を挟むのは構成が複雑になり、VM 主体の処理には過剰な設計
 です。
-
-d バケットを公開設定にするのは重大なセキュリティリスクとなり、内部
+d. バケットを公開設定にするのは重大なセキュリティリスクとなり、内部
 データの漏洩を招きます。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                       Page 165 of 204 @ 80%
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 165 of 204 80%
+>

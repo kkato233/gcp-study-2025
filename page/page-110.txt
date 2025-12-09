@@ -1,27 +1,23 @@
-Source: img-0150.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-110.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題4
-
 音声講義をテキストに変換するサービスを提供する「オーディオノート社」
-では、顧客がアップロードした音声ファイル (mp3/wav など) を Cloud
-Storage に保存し、自動で文字起こしを行いたいと考えています。Google の
+では、顧客がアップロードした音声ファイル (.mp3/wav など) を Cloud
+Storage に保存し、自動で文字起こしを行いたいと考えています。 Google の
 推奨に沿ったサーバーレスかつ認証対応の構成として最適なのはどれです
-かぅ
-
-a. App Engine 標準環境を使い、Cloud Storage のイベントをポーリングして
+か?
+a. App Engine 標準環境を使い、 Cloud Storage のイベントをポーリングして
 ファイル URI を Speech-to-Text API に送る
-
 b. Kubernetes クラスターでジョブを定期実行し、未処理のファイルを API に
 送信する
-
 c. Cloud Storage のファイル追加イベントをトリガーに Cloud Functions を実行
-し、Speech-to-Text API へファイル URI を送信する
-
-d. Compute Engine の cron ジョブでバケットを監視し、新ファイルを見つけ
+し、Speech-to-Text API ヘファイルURI を送信する
+>
+d. Compute Engine の cron ジョブでバケットを監視し、 新ファイルを見つけ
 たら API を呼び出す
-
-Learning reading speed.                       Page 110 of 204 @ 52%
+Learning reading speed...
+Page 110 of 204
+52%

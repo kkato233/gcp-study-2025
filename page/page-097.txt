@@ -1,35 +1,24 @@
-Source: img-0097.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-097.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 d
-
 解説
-
-Bigtable は分散型の NoSQOL データベースで、時系列データの格納に最適です。タイム
-スタンプをキーに使うことで、高速かつ整合性のある読み書きが可能で、リアルタイム
+Bigtable は分散型の NoSQL データベースで、 時系列データの格納に最適です。タイム
+スタンプをキーに使うことで、 高速かつ整合性のある読み書きが可能で、リアルタイム
 処理に適しています。
-
 不正解の解説
-
-a.ファイルベースはリアルタイム検索や更新に向いていません。
-
+a. ファイルベースはリアルタイム検索や更新に向いていません。
 b. Google Drive は共有には便利ですが、スケーラブルな時系列データ管理には不適切で
 す。
-
-c. Cloud SQL は大量の書き込み負荷に面えられず、スケール性が不足します。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
-
+c. Cloud SQL は大量の書き込み負荷に耐えられず、 スケール性が不足します。
+... ☑
+<
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-
-Learning reading speed.                                             Page 97 of 204 @ 46%
-
-Ra
-us
+Learning reading speed...
+Page 97 of 204 ⚫ 46%

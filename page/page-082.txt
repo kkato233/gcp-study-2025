@@ -1,27 +1,21 @@
-Source: img-0081.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-082.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-TM
-5
+Kindle Library
+問題40
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
 Aa
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-問題 40
-
-航空管制システムの保守を行う企業では、外部の安全監査チームに対し、GCP LOE
-査ログと機密操作ログへの閲覧権限を一時的に付与する必要があります。Google の推
-奨に従い、効率的かつ適切な方法はどれですか ぅ
-
-a. roles/logging privateLogViewer を付与し、IAM ボリシー変更ログも確認してもらうよ
+航空管制システムの保守を行う企業では、外部の安全監査チームに対し、 GCP 上の監
+査ログと機密操作ログへの閲覧権限を一時的に付与する必要があります。 Google の推
+奨に従い、効率的かつ適切な方法はどれですか?
+a. roles/logging.privateLog Viewer を付与し、 IAM ポリシー変更ログも確認してもらうよ
 う指示する
-
-b. logsreader 権限を付与し、監査チームには定期レポボートとして CSV ファイルを送付
+b.logs.reader 権限を付与し、 監査チームには定期レポートとして CSV ファイルを送付
 する
-
 c. Cloud Storage にログをアーカイブし、署名付き URL で一時アクセスを提供する
-
-d. IAM ポリシー変更権限を一時的に共有し、操作内容を自己確認させる
-
-Learning reading speed.                                             Page 82 of 204 @ 39%
+d. IAM ポリシー変更権限を一時的に共有し、 操作内容を自己確認させる
+<
+Learning reading speed...
+Page 82 of 204 39%
+... ☑

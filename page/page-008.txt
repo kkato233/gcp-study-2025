@@ -1,37 +1,28 @@
-Source: img-0005.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-008.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... ☑
+Kindle Library
 問題3
-
-ロボティクス研究所「MechaWorks」で
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+ロボティクス研究所 「MechaWorks」で
 は、新たに Google Cloud プロジェクトを
 作成し、gcloud CLI を使って物理シミュ
 レーション用の仮想マシン環境を準備し
-ようとしています。課金アカウントとの
-リンクは完了済みで、次に行うべき初期
+ようとしています。 課金アカウントとの
+リンクは完了済みで、 次に行うべき初期
 構成作業として最も適切なのはどれです
 か?
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
-
+Aa ☐
 a. VM 作成用のカスタムテンプレートを
 Cloud Storage にアップロードする。
-
 b. compute.googleapis.com API を有効にす
 る。
-
 c. フローログ出力のための Logging Sink
 を事前に作成しておく。
-
-d サービスアカウントに Cloud Scheduler
+d. サービスアカウントに Cloud Scheduler
 の実行権限を付与する。
-
-Page8of204 @ 3%
-
-Aa 0
-
+<
+Learning reading speed...
+Page 8 of 204 3%

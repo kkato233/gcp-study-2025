@@ -1,30 +1,24 @@
-Source: img-0312.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-163.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
-c
-
+C
 解説
-
-OS Login を利用することで、IAM ポリシーを通じてユーザー単位で SSH ア
-クセスを制御できます。これにより、鍵の手動管理が不要となり、アクセス
-履歴の可視化やセキュリティログとの統合も可能になります。Cloud Shell と
+OS Login を利用することで、 IAM ポリシーを通じてユーザー単位で SSH ア
+クセスを制御できます。 これにより、 鍵の手動管理が不要となり、 アクセス
+履歴の可視化やセキュリティログとの統合も可能になります。 Cloud Shell と
 の組み合わせにより、追加ツールなしで安全に接続できます。
-
 不正解の解説
-
 a. VPN サーバは構成と保守にコストがかかり、SSH アクセス制御の要件と
 しては過剰です。
-
 b. 手動での鍵管理はスケーラビリティがなく、更新漏れや誤配布のリスクが
 あります。
-
-d. TP 制限は補助的な対策にすぎず、ユーザー認証の厳密な管理には不十分
+d. IP 制限は補助的な対策にすぎず、ユーザー認証の厳密な管理には不十分
 です。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                       Page 163 of 204 @ 79%
+カテゴリ: Configuring access and security
+>
+Learning reading speed...
+Page 163 of 204
+79%

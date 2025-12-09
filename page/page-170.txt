@@ -1,23 +1,20 @@
-Source: img-0335.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-170.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 34
-
-ある写真共有アプリでは、アップロードされた写真を 30 日間は頻繁に表示
-しますが、それ以降はアーカイブとして保存され、年に 1 回程度アクセスさ
+ある写真共有アプリでは、アップロードされた写真を30日間は頻繁に表示
+しますが、それ以降はアーカイブとして保存され、年に1回程度アクセスさ
 れます。すべてのデータは単一の地理的リージョン内に保管しなければなり
-ません。コスト効率と規制違守を両立するストレージ構成はどれですか ?
-
-a- デュアルリージョンストレージを使用し、90 日後に Archive へ移行する
-b. Nearline ストレージを初期から使用し、30 日後にマルチリージョン
+ません。コスト効率と規制遵守を両立するストレージ構成はどれですか?
+a. デュアルリージョンストレージを使用し、90日後に Archive へ移行する
+b. Nearline ストレージを初期から使用し、 30 日後にマルチリージョン
 Coldline へ移行する
-
-c.リージョンストレージを使用し、30 日後に Coldline へ移行する
-
-d. Archive ストレージを最初から使用し、必要に応じて Standard に戻すライ
+c. リージョンストレージを使用し、 30日後に Coldline へ移行する
+d. Archive ストレージを最初から使用し、 必要に応じて Standard に戻すライ
 フサイクルルールを設定する
-
-Learning reading speed.                       Page 170 of 204 @ 83%
+Learning reading speed...
+Page 170 of 204
+83%
+>

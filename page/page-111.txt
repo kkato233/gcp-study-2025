@@ -1,26 +1,22 @@
-Source: img-0153.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-111.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
 解説
-
 Cloud Functions は Cloud Storage のファイル追加イベントに自動で反応し、
-サーバーレスで Speech-to-Text API を呼び出せます。リアルタイム処理が可
-能でスケーラブルかつ認証も自動管理されており、Google 推奨の構成です。
-
+サーバーレスで Speech-to-Text API を呼び出せます。 リアルタイム処理が可
+能でスケーラブルかつ認証も自動管理されており、 Google 推奨の構成です。
 不正解の解説
-
-a. App Ensine はイベント駆動に不向きで管理負荷が高いです。
-
+a. App Engine はイベント駆動に不向きで管理負荷が高いです。
 b. Kubernetes は運用コストが大きく過剰な構成です。
-
-d. Compute Engine の cron はリアルタイム性に劣り、サーバー管理が必要で
+d. Compute Engine の cron はリアルタイム性に劣り、 サーバー管理が必要で
 す。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+>
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 111 of 204 @ 53%
+Learning reading speed...
+Page 111 of 204
+53%

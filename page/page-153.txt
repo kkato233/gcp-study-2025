@@ -1,33 +1,26 @@
-Source: img-0282.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-153.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
 d
-
 解説
-
-分散型データベース (たとえば Cloud Spanner など) では、単調増加する主
-キー (例 : 自動採番や連番 ID) を使用すると、データの書き込み・読み込
-みが特定のノードに集中し、ホットスポットが発生してパフォーマンスが低
-下します。これを防ぐには、UUID やランダム化された ID を使用して、書
+分散型データベース (たとえば Cloud Spanner など)では、単調増加する主
+キー(例:自動採番や連番 ID) を使用すると、データの書き込み・読み込
+みが特定のノードに集中し、 ホットスポットが発生してパフォーマンスが低
+下します。 これを防ぐには、 UUID やランダム化された ID を使用して、書
 き込みをノード間で分散させるのが効果的です。
-
 不正解の解説
-
-a. フィルタ条件の工夫は一時的な対策にはなりますが、根本原因である主
+a. フィルタ条件の工夫は一時的な対策にはなりますが、 根本原因である主
 キーの偏りを解消できません。
-
 b. BYTES 型を文字列に変換することはストレージ効率や検索性をむしろ悪
 化させる可能性があり、本質的な解決策になりません。
-
-c-アプリケーションレベルでのキャッシュ制御は有効な戦略の一部ですが、
+c. アプリケーションレベルでのキャッシュ制御は有効な戦略の一部ですが、
 データベース構造のボトルネックは解消されません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page153of204 @ 74%
+Learning reading speed...
+Page 153 of 204
+74%
+>

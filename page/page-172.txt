@@ -1,23 +1,18 @@
-Source: img-0342.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-172.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 35
-
-グローバル物流企業である LogiFleet では、数百万台の車両から GPS やセン
-サーデータをリアルタイムで収集しています。高可用かつ耐障害性のある構
-成にしたい場合、最適なアーキテクチャ構成はどれですか ?
-
-a.IoT Core にデータ を送信し、Cloud SQL で保存・処理する
-
-b. Pub/Sub にデータをストリーミングし、Dataflow で処理後、Cloud Storage
+グローバル物流企業である LogiFleet では、数百万台の車両から GPSやセン
+サーデータをリアルタイムで収集しています。 高可用かつ耐障害性のある構
+成にしたい場合、 最適なアーキテクチャ構成はどれですか?
+a. IoT Core にデータを送信し、 Cloud SQL で保存・処理する
+b. Pub/Sub にデータをストリーミングし、 Dataflow で処理後、 Cloud Storage
 へ保存する
-
 c. BigQuery に直接ストリーミング挿入し、Cloud Functions で毎秒集計を行う
 d. Cloud Storage に直接ファイルを書き込み、Cloud Composer で定期処理を行
-
 う
-
-Learning reading speed.                       Page 172 of 204 @ 84%
+Learning reading speed...
+Page 172 of 204 84%
+>

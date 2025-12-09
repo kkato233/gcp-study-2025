@@ -1,23 +1,30 @@
-Source: img-0021.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-023.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 打 3
-
-正解                      a. 手動コピべはミスが起きやすく、非効      Q
-b                                             率な作業方法です。
-
-c. YAML 手書きによる再作成は冗長で、
-解説                                     時間がかかる上にエラーのリスクもあり
-
-gcloud iam roles copy を使えば、試験プロ     ます。
-ジェクトで定義済みのカスタムロールを     d. Terraform は再現性は高いものの、新
-コマンドーつで本番プロジェクトにコ    規構成の準備が必要で迅速なコピビーには
-ビーできます。ロールの内容を保持した    不向きです。
+... B
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+E: Aa
+正解
+b
+解説
+gcloud iam roles copy を使えば、 試験プロ
+ジェクトで定義済みのカスタムロールを
+コマンド一つで本番プロジェクトにコ
+ピーできます。ロールの内容を保持した
 まま迅速に複製できるため、最小限のス
-
-の)     テップでの移行に最適です。              カテゴリ : Configuring access and security
-
+テップでの移行に最適です。
+a. 手動コピペはミスが起きやすく、非効
+率な作業方法です。
+c. YAML 手書きによる再作成は冗長で、
+時間がかかる上にエラーのリスクもあり
+ます。
+d. Terraform は再現性は高いものの、新
+規構成の準備が必要で迅速なコピーには
+不向きです。
+カテゴリ: Configuring access and security
+<
 不正解の解説
-
-Learning reading speed.                                  Page 23 of 204 @ 10%
+Learning reading speed...
+Page 23 of 204● 10%

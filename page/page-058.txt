@@ -1,32 +1,24 @@
-Source: img-0054.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-058.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-TM
-5
-
+Kindle Library
 問題 28
-
-宇宙写真アーカイブを管理する団体 「CosmoArchive」は、最新 30 日間の天文画像を
-ウェブアプリてで提供していますが、そわれ以前の画像についてはアーカイブとして保管の
-みを行っています。 コスト削減のため、古い画像を自動的に低コストのストレージはに移
-動したいと考えています。最適な方法はどれですか ?
-
+<
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa ☐ ☑
+宇宙写真アーカイブを管理する団体 「CosmoArchive」 は、 最新 30日間の天文画像を
+ウェブアプリで提供していますが、 それ以前の画像についてはアーカイブとして保管の
+みを行っています。 コスト削減のため、古い画像を自動的に低コストのストレージに移
+動したいと考えています。 最適な方法はどれですか?
 a. 30 日以上経過したオブジェクトを Archive Storage に変更するライフサイクルルール
 を作成する。
-
 b. Pub/Sub トリガーで Storage にアップロードされた日付を記録し、定期的に手動ダウ
 ンロードしてローカル保存する。
-
-c. Cloud Logging でアクセスのないファイルを検出し、週次バッチで自動削除するスク
+c. Cloud Logging でアクセスのないファイルを検出し、 週次バッチで自動削除するスク
 リプトを実行する。
-
-d. Data Loss Prevention API で画像内のメタデータを検出し、個別に削除タイミングを設
+d. Data Loss Prevention API で画像内のメタデータを検出し、 個別に削除タイミングを設
 定する。
-
-Learning reading speed.                                             Page 58 of 204 @ 27%
-
-Ra
-us
+Learning reading speed...
+Page 58 of 204● 27%
+... ☑

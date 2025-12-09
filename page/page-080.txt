@@ -1,27 +1,22 @@
-Source: img-0079.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-080.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 39
-
-ある企業では、Compute Engine を使った新しい CUCD パイプラインを Infrastructure as
-Code (laC) で整備中です。セキュリティベストプラクティスとして、適切なパーミッ
-ション管理を行いたいと考えています。最も適切な構成はどれですか ?
-
-TM
-5
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
 Aa
-
-a.単一のサービスアカウントを環境ごとに複製し、ユーザーごとのアクセスを管理する
+ある企業では、Compute Engine を使った新しい CI/CD パイプラインを Infrastructure as
+Code (IaC) で整備中です。 セキュリティベストプラクティスとして、 適切なパーミッ
+ション管理を行いたいと考えています。 最も適切な構成はどれですか?
+a. 単一のサービスアカウントを環境ごとに複製し、ユーザーごとのアクセスを管理する
 b. Cloud Scheduler と Cloud Functions によってサービスアカウントキーを毎日ローテー
 ションし権限を制御する
-
 c. 各パイプライン専用のサービスアカウントを作成し、最小限の権限を付与。鍵ファイ
 ルは Secret Manager で管理する
-
-d サービスアカウントのキーは不要として、Compute Engine のメタデータに IAM 情報
+d. サービスアカウントのキーは不要として、 Compute Engine のメタデータに IAM 情報
 を直接書き込む
-
-Learning reading speed.                                             Page 80 of 204 @ 38%
+<
+Learning reading speed...
+Page 80 of 204.38%
+... ☑

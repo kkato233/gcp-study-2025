@@ -1,26 +1,23 @@
-Source: img-0257.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-145.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+d
 解説
-
 Windows VM の作成時にメタデータに windows-password キーを追加するこ
-とで、指定ユーザーのパスワードを事前に定義できます。これにより RDP
+とで、指定ユーザーのパスワードを事前に定義できます。 これにより RDP
 ログインが可能となり、マニュアル操作なしにユーザーのログイン環境が整
 います。
-
 不正解の解説
-
 a. Active Directory 連携は大規模環境向けで初期構築が複雑すぎます。
-
-b. IAP は Web アプリケーションの認証には有効ですが、RDP 接続の直接認
+b. IAP は Web アプリケーションの認証には有効ですが、 RDP 接続の直接認
 証には対応しません。
-
 c. Startup Script によるコマンド実行は可能ですが、タイミングやエラー処理
 が難しく、確実性に欠けます。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                       Page 145 of 204 @ 70%
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 145 of 204
+70%
+>

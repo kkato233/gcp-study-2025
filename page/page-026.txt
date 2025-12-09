@@ -1,41 +1,29 @@
-Source: img-0024.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-026.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
-問題 12
-
+... B
+Kindle Library
+問題12
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･ = Aa
+a. 新規に別ドメインでアカウントを作成
+し、元のアカウントは使用不可とするよ
+う指示する
 スマート農業の ICT 化を支援する企業
-「AgriSense」では、新入社員のアカウン
+「AgriSense」 では、新入社員のアカウン
 ト登録中に、本人がすでに同じメールア
 ドレスで個人の Google アカウントを保
-持していたことが判明しました。このま
+持していたことが判明しました。 このま
 までは組織内のアクセス管理やセキュリ
 ティポリシーの適用に支障を来す恐れが
 あります。Google の推奨に従った最適な
-対応はどれですか ?
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
-a 新規に別ドメインでアカウントを作成
-し、元のアカウントは使用不可とするよ
-う指示する
-
+対応はどれですか?
 b. 既存アカウントの引き継ぎを招待して
 組織アカウントに変換する
-
 c. Google Cloud Console で当該アカウント
-DIAM ロールをすべて削除する
-
+の IAM ロールをすべて削除する
 d. Google サポートに問い合わせてアカウ
 ントの一括上書きを依頼する
-
-Page 26 of 204 @ 11%
-
-Oo
-
-a
-き
+<
+Learning reading speed...
+Page 26 of 204 11%

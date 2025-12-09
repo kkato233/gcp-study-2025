@@ -1,32 +1,26 @@
-Source: img-0429.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-201.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-解説
-
-Cloud SQOL はフルマネージドのリレーショナルデータベースサービスで、
-
-PostgreSQL に完全対応しています。アプリケーションを大幅に変更するこ
-となく、上既存の SOL ロジックやトランザクションをそのまま活用でき、
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
+解說
+Cloud SQL はフルマネージドのリレーショナルデータベースサービスで、
+PostgreSQL に完全対応しています。 アプリケーションを大幅に変更するこ
+となく、既存の SQL ロジックやトランザクションをそのまま活用でき、
 ACID 特性や強整合性が求められるユースケースにも最適です。
-
 不正解の解説
-
-a. Memorystore : インメモリキャッシュサービスであり、永続的なトランザ
+a. Memorystore : インメモリキャッシュサービスであり、 永続的なトランザ
 クション処理やリレーション管理には不適です。
-
-b. Dataproc : Apache Hadoop や Spark 向けのサービスで、トランザクション処
+b. Dataproc: Apache Hadoop や Spark 向けのサービスで、 トランザクション処
 理ではなくビッグデータバッチ処理に特化しています。
-
-d. Pub/Sub : メッセージングシステムであり、データベースとしての利用に
-は適していません。トランザクションやリレーショナル構造はサポボートして
+>
+d. Pub/Sub : メッセージングシステムであり、 データベースとしての利用に
+は適していません。 トランザクションやリレーショナル構造はサポートして
 いません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 201 of 204 @ 98%
+Learning reading speed...
+Page 201 of 204
+98%

@@ -1,21 +1,18 @@
-Source: img-0392.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-188.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年 …
-問題33
-ある IT 企業では、多数の Google Cloud リソースを IaC (infrastructure as
-Code) で標準化・保守性向上を図りたいと考えています。どの方法が最適
-TIM?
-
-a 各サービスに対応する Python スクリプトを作成し、個別に API を叩いて
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+問題 43
+ある IT 企業では、 多数の Google Cloud リソースを IaC(Infrastructure as
+Code) で標準化 保守性向上を図りたいと考えています。 どの方法が最適
+ですか?
+a. 各サービスに対応する Python スクリプトを作成し、個別に API を叩いて
 管理する。
-
 b. すべてのリソースを Google Sheets に一覧化し、手動運用ルールを定めて
 管理する。
-
 c. Cloud Deployment Manager でテンプレートを作成する。
-
-d.毎回 Cloud Console から設定をエクスポートし、手動バハックアップを行う。
-
-Learning reading speed.                       Page 188 of 204 @ 92%
+d. 毎回 Cloud Console から設定をエクスポートし、手動バックアップを行う。
+Learning reading speed...
+Page 188 of 204 92%
+>

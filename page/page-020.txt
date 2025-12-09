@@ -1,43 +1,35 @@
-Source: img-0018.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-020.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
-問題9
-
+Kindle Library
+問題 9
+<
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+= Aa
+☐ ☑☑
 国際的な気候モニタリング機構 「ClimaS
 cope」では、各国の気象観測ステーショ
 ンから収集したオペレーションログを最
-低 3 年間保管する必要があります。これ
+低3年間保管する必要があります。 これ
 らのログは定期的に検証される可能性が
 あるものの、日常的にアクセスされるこ
-とはほとんどありません。数百の GCP
+とはほとんどありません。 数百の GCP
 プロジェクトにまたがって効率的かつ低
 コストにこの要件を満たすための最適な
-方法はどれですか ?
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
-a, Cloud Audit ログを Coldline Storage バ
+方法はどれですか?
+a. Cloud Audit Coldline Storage
 ケットにエクスポートする Sink を作成
 する。
-
-b. Cloud Logging のログを Cloud Spanner
+b. Cloud Logging Cloud Spanner
 に転送して長期アーカイブするスクリプ
 トを作成する。
-
 c. Cloud Run を使用して定期的にログを
-集約し、Filestore に保存する構成にする。
-d.Logging Agent を強化し、ログデータを
+集約し、 Filestore に保存する構成にする。
+d. Logging Agent を強化し、 ログデータを
 Redis キャッシュに保存して低頻度アク
 セスに備える。
-
-Page 20 of 204 @ 9%
-
-Oo
-
-a
-き
+Learning reading speed...
+Page 20 of 2049%
+... B
+>

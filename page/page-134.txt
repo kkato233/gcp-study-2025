@@ -1,26 +1,22 @@
-Source: img-0223.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-134.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 16
-
-ゲーム会社「Horizon Gamesj」 は、オンプレミスで運用しているマルチプレ
+ゲーム会社「Horizon Games」 は、オンプレミスで運用しているマルチプレ
 イヤーゲームサーバーが高負荷状態になったため、Google Cloud 上へ拡張す
 ることにしました。ゲームの特性上、Google Cloud とオンプレミス間でプラ
-イベート IP アドレスを用いた低遅延の通信が求められています。最適な接
+イベート IP アドレスを用いた低遅延の通信が求められています。 最適な接
 続方法はどれでしょうか?
-
-a. Google Cloud に HTTP(S) ロードバランサを構成し 、オンプレミスからトラ
+a. Google Cloud に HTTP (S) ロードバランサを構成し、 オンプレミスからトラ
 フィックを中継する
-
 b. オンプレミスから Cloud Functions を経由してバックエンドにアクセスす
 る構成をとる
-
-c.オンプレミスと Google Cloud 間に Cloud VPN を構成する
-
-d オンプレミスから Google Cloud Storage に直接アクセスし、API 経由で通
+c. オンプレミスと Google Cloud 間に Cloud VPN を構成する
+d. オンプレミスから Google Cloud Storage に直接アクセスし、API 経由で通
 信させる
-
-Learning reading speed.                       Page 134 of 204 @ 64%
+>
+Learning reading speed...
+Page 134 of 204
+64%

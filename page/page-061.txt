@@ -1,30 +1,24 @@
-Source: img-0057.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-061.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 b
-
-ut
-5
-
-Cloud SQL (MySQL) でバイナリログを有効化することで、ポイントインタイムリカバ
-リが可能になります。小規模で単ー-リージョンのアプリに適しており、コストも抑えら
+... ☑
+解説
+Cloud SQL(MySQL) でバイナリログを有効化することで、ポイントインタイムリカバ
+リが可能になります。 小規模で単一リージョンのアプリに適しており、コストも抑えら
 れます。
-
 不正解の解説
-a, Firestore はリレーショナルデータの整合性には不向きで、スナップショットも復元操
+a. Firestore はリレーショナルデータの整合性には不向きで、 スナップショットも復元操
 作が手間です。
-c. Redis はインメモリ用途であり、永続的なリレーショナルデータの保存と復元には適
+c. Redis はインメモリ用途であり、 永続的なリレーショナルデータの保存と復元には適
 していません。
-
-ノーへ       d. Bigtable は大規模データ向けで、コストと運用の面で小規模アプリには不向きです。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                               Page 61 of 204 @ 29%
-
-Ra
-us
+d. Bigtable は大規模データ向けで、コストと運用の面で小規模アプリには不向きです。
+カテゴリ: Ensuring successful operation of a cloud solution
+>
+Learning reading speed...
+Page 61 of 204● 29%

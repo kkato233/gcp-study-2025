@@ -1,49 +1,37 @@
-Source: img-0038.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-040.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+>
+Kindle Library
 問題 19
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
 衛星データ解析システムを運用する
 「OrbitalScope」では、重要な処理を行う
-Compute Engine インスタンス和群の可用性
+Compute Engine インスタンス群の可用性
 を維持するため、障害時にインスタンス
 が自動的に再作成される仕組みを導入し
-たいと考えています。要件として、
-
-HTTP ヘルスチェックを 8 秒間隔で実施
-し、2 回連続で失敗した場合に即座に修
-復が行われる必要があります。最もシン
+たいと考えています。 要件として、
+HTTP ヘルスチェックを 8秒間隔で実施
+し、2回連続で失敗した場合に即座に修
+復が行われる必要があります。 最もシン
 プルにこの要件を満たす方法はどれです
 か?
-
-a マネージドインスタンスグループを作
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
-
-Aa
-
-成 し、Autohealing 用の HTTP ヘルス
+a. マネージドインスタンスグループを作
+≡ Aa ☐ ☑
+成し、 Autohealing 用の HTTP ヘルス
 チェックを設定する。
-
 b. サードパーティ製のモニタリングエー
 ジェントを各インスタンスにインストー
-ルし、異常検知時に Pub/Sub で修復フ
+ルし、 異常検知時に Pub/Sub で修復フ
 ローを開始する。
-
-c. GKE クラスタを構成し、DaemonSet を
+c. GKE クラスタを構成し、 DaemonSet を
 使って HTTP 応答をチェックして異常時
 に Pod を再デプロイする。
-
-d. Uptime チェックを作成し、失敗検出時
-に Slack 通知を送信し、手動で再作成を
+d. Uptime チェックを作成し、 失敗検出時
+に Slack 通知を送信し、 手動で再作成を
 行う運用フローを設ける。
-
-Page 40 of 204 @ 18%
-
-Oo
-
+<
+Learning reading speed...
+Page 40 of 204.18%

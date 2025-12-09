@@ -1,24 +1,27 @@
-Source: img-0012.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-014.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 打 3
-
-問題6                             a. VPC ピアリングを構成し、別の VPC
-ドローン配送システム「SkyDrop」では、    のTP を使用する
-
-地域拠点の TP アドレスが不足しており、     b. 複数のサブネットを作成し、ルーティ
-
-新たに 15 台の制御ノードを追加する必    ングで結合する
-
-要があります。皮存のネットワーク構成 。 c.gcloud CLI を使って既存サブネットの
-
-は維持しつつ、現在のサブネット (/27) TP範囲を拡張する
-
-の TP 相渦を解消し、追加ノードと皮存  d. サブネットを切り替えるために全ノー
-
-ノード間の通信を可能にするために最適    ドの再構築を行う
-
-な対応方法はどれですか ?
-
-Learning reading speed.                               Page 14 of 204 @ 6%
+... B
+Kindle Library
+問題6
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+ドローン配送システム 「SkyDrop」 では、
+地域拠点の IP アドレスが不足しており、
+新たに 15 台の制御ノードを追加する必
+要があります。 既存のネットワーク構成
+は維持しつつ、 現在のサブネット (/27)
+の IP 枯渇を解消し、 追加ノードと既存
+ノード間の通信を可能にするために最適
+な対応方法はどれですか?
+≡ Aa ☐ ☑
+a. VPC ピアリングを構成し、 別の VPC
+の IP を使用する
+b. 複数のサブネットを作成し、ルーティ
+ングで結合する
+c.gcloud CLI を使って既存サブネットの
+IP 範囲を拡張する
+d. サブネットを切り替えるために全ノー
+ドの再構築を行う
+Learning reading speed...
+Page 14 of 2046%

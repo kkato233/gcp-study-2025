@@ -1,27 +1,20 @@
-Source: img-0096.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-096.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-mM
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 47
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 フィットネスデバイスメーカーのあなたの会社では、毎時間数千件のリアルタイムセン
-サーデータを処理しています。データは時系列順に正確に管理される必要があり、低レ
-イテンシでの読み書きが求められています。最も適切なストレージソリューションはど
-れですかぅ?
-
-a. Cloud Storage にログファイルを定期的にアップロードし、解析時に読み込む
-b.Google Drive にデータファイルを保存し、共有アクセスを設定する
-
+サーデータを処理しています。 データは時系列順に正確に管理される必要があり、低レ
+イテンシでの読み書きが求められています。 最も適切なストレージソリューションはど
+れですか?
+a. Cloud Storage にログファイルを定期的にアップロードし、 解析時に読み込む
+b. Google Drive にデータファイルを保存し、共有アクセスを設定する
 c. Cloud SQL に保存し、複数のリードレプリカで読み込み負荷を分散する
-
-d. Bigtable に保存し、タイムスタンプをキーにする
-
-Learning reading speed.                                             Page 96 of 204 @ 45%
-
-Ra
-us
+d. Bigtable に保存し、 タイムスタンプをキーにする
+<
+Learning reading speed...
+Page 96 of 204 ⚫ 45%
+... ◉

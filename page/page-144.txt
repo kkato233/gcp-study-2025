@@ -1,23 +1,19 @@
-Source: img-0254.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-144.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 21
-
 国際宇宙監視プロジェクトでは、各国の研究者が GCP 上の Windows 仮想マ
-シンに RDP でアクセスし、軌道データの解析を行つています。研究者がそ
-れぞれログインできるように、YVM 作成時に最適な方法で Windows パス
-ワードを設定する必要があります。どの設定が最も適切ですかぅ
-
+シンに RDP でアクセスし、 軌道データの解析を行っています。 研究者がそ
+れぞれログインできるように、 VM 作成時に最適な方法で Windows パス
+ワードを設定する必要があります。 どの設定が最も適切ですか?
 a. Active Directory ドメインを構成し、ユーザーを同期してログインさせる
-b.IAP (Identity-Aware Proxy)          を通し、トークンで RDP 接続を行う
-
-c. Teraform スクリプトで Startup Script を定義し、パスワード設定コマンド
+b. IAP (Identity-Aware Proxy) で認証を通し、トークンで RDP 接続を行う
+c. Terraform スクリプトで Startup Script を定義し、パスワード設定コマンド
 を実行する
-
 d. VM 作成時にメタデータにキー windows-password を追加してパスワードを
 設定する
-
-Learning reading speed.                       Page 144 of 204 @ 69%
+Learning reading speed...
+Page 144 of 204 69%
+>

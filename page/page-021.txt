@@ -1,49 +1,33 @@
-Source: img-0019.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-021.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... ☑
+Kindle Library
 正解
-
-a
-
-解説
-
-Coldline Storage は長期保管向けの Google
-Cloud ストレージクラスで、年に数回し
-かアクセスされないデータに対して最も
-コスト効率が良い選択肢です。Audit ロ
-グのエクスポート先として Coldhine
-Storage を指定すれば、維持費を抑えつ
-つコンプライアンス要件を満たすことが
-できます。
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
 不正解の解説
-
+Aa
+☐ ☑
+a
 b. Cloud Spanner はトランザクション向け
 の高性能データベースであり、ログ保存
 にはコスト過剰です。
-
+解説
+Coldline Storage は長期保管向けの Google
+Cloud ストレージクラスで、 年に数回し
+かアクセスされないデータに対して最も
+コスト効率が良い選択肢です。Audit ロ
+グのエクスポート先として Coldline
+Storage を指定すれば、維持費を抑えつ
+つコンプライアンス要件を満たすことが
+できます。
 c. Filestore はファイル共有用途であり、
 ログの長期保管には不向きです。
-
 d. Redis はメモリ常駐型で長期保存には
 適しておらず、コストも高くなります。
-
-カテゴリ : Ensuring successful operation of
-
+カテゴリ: Ensuring successful operation of
 a cloud solution
-
-Page 21 of 204 @ 9%
-
-Ra
-us
-
+>
+Learning reading speed...
+Page 21 of 204 ⚫9%

@@ -1,32 +1,24 @@
-Source: img-0064.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-068.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-TM
-5
-
+Kindle Library
 問題 33
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+Aa ☐
 健康管理アプリを提供する「フィットウェル社」は、ユーザーデータを CloudSpanner
-に、イベントログを Bigtable に保存しています。データアナリストが特定ユーザーの
-データを結合して分析したいと依頼してきました。 簡単かつ一時的な分析用途に最も効
-率的な方法はどれですか ?
-
-a クラウドファンクションズを使って CloudSpanner と Bigtable のデータを CSV 形式で
-同期しローカルで分析する
-
+に、イベントログを Bigtable に保存しています。 データアナリストが特定ユーザーの
+データを結合して分析したいと依頼してきました。簡単かつ一時的な分析用途に最も効
+率的な方法はどれですか?
+a. クラウドファンクションズを使って CloudSpanner と Bigtable のデータを CSV 形式で
+同期し、ローカルで分析する
 b. Cloud Spanner と Bigtable から Apache Beam でストリーミングデータを処理し、リア
 ルタイム分析を行う
-
-c. Bigtable のデータ を BigQuery にロードし、CloudSpanner は REST API 経由で呼び出し
+c. Bigtable のデータを BigQuery にロードし、 CloudSpanner は REST API 経由で呼び出し
 て結合する
-
-d. Cloud Storage と Bigtable を外部テーブルとして BigQuery に登録し、SQL で結合・抽
+d. Cloud Storage と Bigtable を外部テーブルとして BigQuery に登録し、 SQL で結合・抽
 出する
-
-Learning reading speed.                                             Page 68 of 204 @ 32%
-
-Ra
-us
+<
+Learning reading speed...
+Page 68 of 204 32%
+... ☑

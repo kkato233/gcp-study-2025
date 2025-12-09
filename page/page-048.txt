@@ -1,35 +1,28 @@
-Source: img-0045.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-048.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 問題 23
-
-画像投稿 SNS「SnapTagj」 では、ノード
-レベルでの不正改変防止と、外部ネット
+<
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+a. パブリックな Autopilot クラスタを作成
+する
+= Aa
+☐ ☑
+画像投稿 SNS「SnapTag」では、ノード
+レベルでの不正改変防止と、 外部ネット
 ワークから隔離されたセキュアな
 Kubernetes クラスタを構築したいと考え
-ています。Google Cloud のベストプラク
+ています。 Google Cloud のベストプラク
 ティスに従う場合、最適な選択肢はどれ
-CHM?
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
-
-Aa 0
-a.パブリックな Autopilot クラスタを作成
-する
-
+ですか?
 b. プライベートな Autopilot クラスタを
 作成する
-
 c. パブリックな Standard クラスタを作成
 し、Shielded Node を有効化する
-
-d. プライベートな Standard クラスタを作
-成し、Shielded Node を有効化する
-
-Page 48 of 204 @ 22%
-
+d. プライベートなStandard クラスタを作
+成し、 Shielded Node を有効化する
+Learning reading speed...
+Page 48 of 204● 22%
+... B

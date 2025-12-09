@@ -1,34 +1,25 @@
-Source: img-0049.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-053.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
-
 a
-
-TM
-5
-
+... ☑
+<
 解説
-
-GKE では、上既存クラスタに GPU 専用のノードプールを追加し、対象 Pod で
+GKE では、既存クラスタに GPU 専用のノードプールを追加し、 対象 Pod で
 nodeSelector を用いてそのノードにスケジューリングさせる方法が最も効率的です。こ
-れにより、他のノードへの影響を避けつつ、必要なリソースだけを追加できるため、コ
+れにより、他のノードへの影響を避けつつ、 必要なリソースだけを追加できるため、コ
 ストパフォーマンスにも優れています。
-
 不正解の解説
-b.ネームスペースの作成ではリソース要件の指定や物理 GPU の確保はできません。
-c. カスタム OS イメージの管理は運用負荷が大きく、GKE の標準機能を活かす構成では
+b. ネームスペースの作成ではリソース要件の指定や物理 GPUの確保はできません。
+c. カスタム OS イメージの管理は運用負荷が大きく、 GKE の標準機能を活かす構成では
 ありません。
->        a アノテーションだけでは GPU ノードの配置や確保は行われず、機能的に不十分です。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
-
+d. アノテーションだけでは GPU ノードの配置や確保は行われず、機能的に不十分です。
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-
-Learning reading speed.                               Page 53 of 204 @ 25%
-
-Ra
-us
+Learning reading speed...
+Page 53 of 204 25%

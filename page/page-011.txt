@@ -1,51 +1,36 @@
-Source: img-0008.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-011.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 正解
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+不正解の解説
+Aa
+☐ ☑
+... ☑
+<
 a
-
-解説
-
+解說
 この方法は、Google Cloud が推奨する閉
 域接続によるセキュアなアクセス構成で
-す。和観測拠点と VPC を VPN または
-Interconnect で接続し、Cloud Router によ
-り必要なルートをアドバタイズ、*.
+す。 観測拠点と VPC を VPN または
+Interconnect で接続し、 Cloud Router によ
+り必要なルートをアドバタイズ、 *.
 googleapis.com の名前解決を private DNS
 ゾーン経由に設定することで、セキュリ
 ティポリシーを順守しながら Cloud
 Storage ヘアクセスできます。
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
-不正解の解説
-
-b. LoRaWAN は低帯城の通信技術であり、
+b. LoRaWAN は低帯域の通信技術であり、
 大容量の観測データ送信には不適切です。
 c. パブリック経由での Pub/Sub 送信はセ
 キュリティポリシー違反であり、閉域接
 続の要件を満たしません。
-
 d. Cloud CDN は静的コンテンツ配信に用
 いられ、リアルタイムデータの送受信に
 は適していません。
-
-カテゴリ : Planning and configuring a cloud
-solution + Deploying and implementing a
-
+カテゴリ: Planning and configuring a cloud
+solution Deploying and implementing a
 cloud solution
-
-Page 11 of 204 @ 4%
-
-Ra
-us
-
+Learning reading speed...
+Page 11 of 204● 4%

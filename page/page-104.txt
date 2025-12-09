@@ -1,28 +1,23 @@
-Source: img-0103.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-104.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-              GOOGLE CLOUD 認定資格 ASSOCIATEC…        = Aa 0
-
-Ra
-us
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE C・・・
+Aa
 試験問題 2
-
+... <
 問題1
-
-南太平洋の海洋モニタリング研究チームは、GCP プロジェクト 「oceanic-
-reef-scan] で現在有効になっている API の一覧を Cloud Shell 上から確認し
-たいと考えています。対象プロジェクトの API 有効状況を取得するため
-の正しい手順はどれですか ?
-
+南太平洋の海洋モニタリング研究チームは、GCP プロジェクト「oceanic-
+reef-scan」で現在有効になっている API の一覧を Cloud Shell 上から確認し
+たいと考えています。 対象プロジェクトの API 有効状況を取得するため
+の正しい手順はどれですか?
 a. gcloud config unset account の後、 gcloud services browse を実行する
-
-(>) b.geloud api-gateway list と gcloud endpoints describe を組み合わせて確認す
+b. gcloud api-gateway list と gcloud endpoints describe を組み合わせて確認す
 る
-c. gcloud projects list でプロジェクト ID を確認し、 gcloud services list --
+c. gcloud projects list でプロジェクト ID を確認し、gcloud services list --
 project <project ID> を実行する
-d. gcloud endpoints list --global を実行し、該当プロジェクトのAPI構成を確
+d. gcloud endpoints list --global を実行し、該当プロジェクトの API 構成を確
 認する
-
-Learning reading speed.                        Page 104 of 204 @ 49%
+Learning reading speed...
+Page 104 of 204 ⚫ 49%

@@ -1,30 +1,26 @@
-Source: img-0338.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-171.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
 解説
-
-このユースケースでは、最初の 30 日間は頻繁にアクセスされるため、高性
-能なリージョン (Regional) ストレージが適しています。 その後は年に 1 回
-程度のアクセスで済むため、低コストで長期保存に優れた Coldline ストレー
-ジへ移行するのが最適です。加えて、「単一のリージョンに保存する」制約
+このユースケースでは、最初の30日間は頻繁にアクセスされるため、 高性
+能なリージョン (Regional) ストレージが適しています。 その後は年に1回
+程度のアクセスで済むため、低コストで長期保存に優れたColdline ストレー
+ジへ移行するのが最適です。 加えて、「単一のリージョンに保存する」 制約
 もリージョンストレージにより満たされます。
-
 不正解の解説
-
-a デュアルリージョンは複数地域にデータを保持するため、単二リージョン
-という規制要件に進反します。
-
-b. Nearline は月 1 回程度のアクセスを前提とするため、初期の頻繁アクセス
-には不適です。また、マルチリージョン移行も規制違反となります。
-
-d. Archive は取り出しに時間がかかるため、初期の高頻度アクセスには不向
+a. デュアルリージョンは複数地域にデータを保持するため、単一リージョン
+という規制要件に違反します。
+b. Nearline は月1回程度のアクセスを前提とするため、初期の頻繁アクセス
+には不適です。また、 マルチリージョン移行も規制違反となります。
+d. Archive は取り出しに時間がかかるため、 初期の高頻度アクセスには不向
 きで、またライフサイクルで自動的に Standard へ戻すことはできません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 171 of 204 @ 83%
+Learning reading speed...
+Page 171 of 204
+83%
+>

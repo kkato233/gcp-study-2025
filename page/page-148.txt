@@ -1,27 +1,23 @@
-Source: img-0267.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-148.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 23
-
-栄養データ分析を行う MealMetrics 社では、日次レポートを生成する仮想マ
-シン (VM) が mealmetrics-reports プロジェクト内で稼働しています。この
+栄養データ分析を行う MealMetrics 社では、 日次レポートを生成する仮想マ
+シン(VM)が mealmetrics-reports プロジェクト内で稼働しています。この
 VM から、別プロジェクトである mealmetrics-central-data の Cloud Storage バ
 ケットに毎日ファイルを保存し、分析チームが利用できるようにする必要が
-あります。安全かつ実用的な構成はどれですか ぅ
-
-a. VM で FIP サーバを構成し、ファイルを外部に転送後に GCP 外からアッ
+あります。安全かつ実用的な構成はどれですか?
+a. VM で FTP サーバを構成し、 ファイルを外部に転送後に GCP 外からアッ
 プロードする
-
-b. バケット名を VM 側のホスト名として設定し、内部 DNS 経由で直接ファ
+b. バケット名をVM側のホスト名として設定し、 内部 DNS 経由で直接ファ
 イルを送信する
-
-c. mealmetrics-central-bucket をパブリックにし、ランダムフォルダに保存す
+c. mealmetrics-central-bucket をパブリックにし、 ランダムフォルダに保存す
 る
-
-d. VM のサービスアカウントに Storage Object Creator 権限を対象バケットに
+>
+d. VM のサービスアカウントに Storage Object Creator権限を対象バケットに
 付与する
-
-Learning reading speed.                       Page 148 of 204 @ 71%
+Learning reading speed...
+Page 148 of 204
+71%

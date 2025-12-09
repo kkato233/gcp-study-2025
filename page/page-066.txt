@@ -1,33 +1,26 @@
-Source: img-0062.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-066.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-TM
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 32
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+Aa
 大手ゲーム開発会社では、複数のプロジェクトでサービスアカウントキーの安全な運用
-を検討しています。以下の要件を満たしつつ、一時的にセキュリティレベルを引き上げ
+を検討しています。 以下の要件を満たしつつ、一時的にセキュリティレベルを引き上げ
 たいと考えています。
-
 ・すべてのサービスアカウントキーは game-sa-hub プロジェクトで集中して発行・管理
-・ 個別のキーの有効期間は最長 24 時間とする
-
-この要件を最も効率的かつ推奨される方法で実現するにはどれですか ?
-
-a, キーの有効期間を 24 時間に制限するポリシーと、game-sa-hub 以外でのキー作成を禁
+・個別のキーの有効期間は最長24時間とする
+この要件を最も効率的かつ推奨される方法で実現するにはどれですか?
+a. キーの有効期間を24時間に制限するポリシーと、game-sa-hub 以外でのキー作成を禁
 止するポリシーを設定する
 b. Cloud Scheduler ジョブで日次キー削除を行い、game-sa-hub 以外でのキー発行を禁止
 する
 c. フォルダレベルのメタデータでキー使用時間を 24 時間制限し、他プロジェクトでの
-ヽ      キー生成を無効にする
-ノ       d. Stackdriver Logs-based アラートでキー作成を監視し、検出時に Slack に通知して手動
+キー生成を無効にする
+... ☑
+<
+d. Stackdriver Logs-based アラートでキー作成を監視し、 検出時に Slack に通知して手動
 で無効化する
-
-Learning reading speed.                                             Page 66 of 204 @ 31%
-
-Ra
-us
+Learning reading speed...
+Page 66 of 204 ⚫ 31%

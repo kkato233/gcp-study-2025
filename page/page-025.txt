@@ -1,47 +1,32 @@
-Source: img-0023.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-025.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 正解
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+不正解の解説
+E: Aa
+☐ ☑
 a
-
-解説
-
-Monitoring Viewer ロール は Cloud
+解說
+b. Spanner Admin はデータベースの完全
+管理権限を持つため、 機密データへのア
+クセスが可能になってしまいます。
+c. Viewer ロールでもデータの読み取りが
+可能となり、要件を満たしません。
+d. Logging Admin は権限が広すぎ、 シス
+テム内の全ログにアクセス可能で、 最小
+権限の原則に反します。
+カテゴリ: Configuring access and security
+<
+Monitoring Viewer ロールは Cloud
 Monitoring ダッシュボードへの閲覧権限
-を提供し、Spanner などのバックエンド
+を提供し、 Spanner などのバックエンド
 サービスのメトリクスを確認できます。
 一方で、データベース本体にはアクセス
 できないため、最小権限の原則に基づい
-た適切な設定です
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
-不正解の解説
-
-b. Spanner Admin はデータベースの完全
-管理権限を持つため、機密データへのア
-クセスが可能になってしまいます。
-
-c. Viewer ロールでもデータの読み取りが
-可能となり、要件を満たしません。
-
-d. Logging Admin は権限が広すぎ、シス
-テム内の全ログにアクセス可能で、最小
-権限の原則に反します。
-
-カテゴリ : Configuring access and security
-
-Page 25 of 204 @ 11%
-
-Ra
-us
-
+た適切な設定です。
+Learning reading speed...
+Page 25 of 204 11%
+... ☑

@@ -1,29 +1,23 @@
-Source: img-0048.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-052.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-TM
-5
-Aa
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 25
-
-地震予測研究機関 「SeismoLab」は、GKE クラスタ上に複数の研究グループ用ワーク
-ロードを運用しています。地質データを扱う AT 解析チームが、Nvyidia Tesla P100 GPU
-を使って深層学習を実行したいと求めています。できるだけコストを抑え、上既存のイン
-フラを活用しつつこの要件に対応する最も適切な方法はどれですか ぅ
-
-a. 既存のクラスタに GPU 対応のノードブプールを追加し、Pod に cloud.google.com/gke-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
+地震予測研究機関 「SeismoLab」 は、 GKE クラスタ上に複数の研究グループ用ワーク
+ロードを運用しています。 地質データを扱う AI 解析チームが、 Nvidia Tesla P100 GPU
+を使って深層学習を実行したいと求めています。できるだけコストを抑え、既存のイン
+フラを活用しつつこの要件に対応する最も適切な方法はどれですか?
+a. 既存のクラスタに GPU 対応のノードプールを追加し、Pod に cloud.google.com/gke-
 accelerator: nvidia-tesla-p100 の nodeSelector を設定する。
-
-b. GKE クラスタに TensorFlow 専用の新しいネームスペースを作成し、Pod 内で GPU Ail
+b. GKE クラスタに TensorFlow 専用の新しいネームスペースを作成し、 Pod 内で GPU 利
 用を指定する
-
-c. GPU ドライバを含むカスタム OS イメージを使用してクラスタを再構築する
-
+c. GPU ドライバを含むカスタムOSイメージを使用してクラスタを再構築する
 d. すべての Pod に cloud.google.com/accelerator: enabled を設定し、GPU 利用を一律で許
 可する
-
-Learning reading speed.                               Page 52 of 204 @ 24%
+<
+Learning reading speed...
+Page 52 of 204 ⚫ 24%
+... ☑

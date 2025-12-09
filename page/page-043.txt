@@ -1,20 +1,30 @@
-Source: img-0040.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-043.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 打 3
-
-正解                                               不正解の解説                                           Q
-
-で                                   a クラスタの分割は管理コストが増大し、
-効率性に欠けます。
-解説                                 b. 手動スケーリングは非効率で運用ミス
-
-GKE のノードブプールにオートスケーリ    のリスクも高まります。
-ングを設定すれば、ワークロードの増減     dす リソースを固定最大で確保すると無駄
-に応じてクラスタのノード数が自動で調    が多く、コストも増加します。
+Kindle Library
+正解
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+不正解の解説
+Aa
+☐ ☑
+C
+<
+解説
+GKE のノードプールにオートスケーリ
+ングを設定すれば、 ワークロードの増減
+に応じてクラスタのノード数が自動で調
 整されます。新しいマイクロサービスを
-追加する際にも自動的に対応でき、将来     カテゴリ : Ensuring successful operation of
-/ の    の拡張にも柔軟に備えられます。         acloud solution
-
-Learning reading speed.                                     Page 43 of 204 @ 20%
+追加する際にも自動的に対応でき、将来
+の拡張にも柔軟に備えられます。
+a. クラスタの分割は管理コストが増大し、
+効率性に欠けます。
+b. 手動スケーリングは非効率で運用ミス
+のリスクも高まります。
+d. リソースを固定最大で確保すると無駄
+が多く、コストも増加します。
+カテゴリ: Ensuring successful operation of
+a cloud solution
+Learning reading speed...
+Page 43 of 204● 20%
+... ☑

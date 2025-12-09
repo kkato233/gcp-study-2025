@@ -1,33 +1,25 @@
-Source: img-0078.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-079.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 d
-
-Cloud Spanner では、CPU 使用率が 65% を超えるとパフォーマンス低下のリスクが高ま
-り、ノード追加が推奨されます。このタイミングでのスケールアウトは、リソースズ不足
+... ☑
+解説
+Cloud Spanner では、 CPU 使用率が65% を超えるとパフォーマンス低下のリスクが高ま
+り、ノード追加が推奨されます。このタイミングでのスケールアウトは、リソース不足
 による影響を軽減し、迅速に改善を図る有効な手段です。
-
 不正解の解説
-
-a キャッシュリフレッシュは軽微な効果しかなく、根本的なスケール不足に対応できま
+a. キャッシュリフレッシュは軽微な効果しかなく、根本的なスケール不足に対応できま
 せん。
-
-b. インデックス再構築も一時的な改善にしかならず、CPU 負荷の限界解決には不十分
+b. インデックス再構築も一時的な改善にしかならず、 CPU 負荷の限界解決には不十分
 です。
-
-c. クエリパラメータ調整は最適化の一環ではありますが、CPU 高負荷時のリソース不
+c. クエリパラメータ調整は最適化の一環ではありますが、 CPU 高負荷時のリソース不
 足対応には直接効果がありません。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                                             Page 79 of 204 @ 37%
-
-Ra
-us
+カテゴリ: Ensuring successful operation of a cloud solution
+>
+Learning reading speed...
+Page 79 of 204● 37%

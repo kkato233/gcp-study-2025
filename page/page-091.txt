@@ -1,37 +1,27 @@
-Source: img-0446.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-091.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
-TEAR
+Kindle Library
+GOOGLE CLOUD ASSOCIATE CLOUD ...
+E: Aa ☐☑
+正解
 d
-
+... B
 解説
-
 ルートドメイン (techfolio.com) には CNAME レコードは使用できないため、
-A レコードでロードバランサーの IP アドレスを直接指定します。サブドメイ
+A レコードでロードバランサーの IP アドレスを直接指定します。 サブドメイ
 ン (www やhome) には CNAME レコードを使ってルートドメインを参照させ
-ることがDNS 設定のベストプラクティスです。
-
+ることが DNS 設定のベストプラクティスです。
 不正解の解説
-
-a.AAAA はIPv6 用レコードであり、TXT はテキスト情報用で、どちらもTPア
+a. AAAA は IPv6用レコードであり、 TXT はテキスト情報用で、 どちらもIPア
 ドレス指定には不適切です。
-
-b. MX はメール交換用、SRV はサービスロケーション用のレコードであり、
-
+b. MX はメール交換用、 SRV はサービスロケーション用のレコードであり、
 ウェブトラフィックのルーティングには使いません。
-
-c. PTR は逆引き用、SOA はゾーン管理用のレコードで、名前解決の直接指定
+c. PTR は逆引き用 SOA はゾーン管理用のレコードで、名前解決の直接指定
 には関係ありません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a
 cloud solution
-
-Learning reading speed.                         Page 91 of 204 @ 43%
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD …        = Aa 0
-
-us
+<
+Learning reading speed...
+Page 91 of 204 • 43%

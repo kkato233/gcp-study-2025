@@ -1,47 +1,30 @@
-Source: img-0004.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-007.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+E: Aa
 正解
 b
-
 解説
-TutorVerse のプロジェクトを Leamly の
-
+Tutor Verse のプロジェクトを Learnly の
 課金アカウントと直接リンクするだけで、
-
 すべての費用が統一された請求書として
-
-まとめられます。この操作は迅速に行え、
-
+まとめられます。 この操作は迅速に行え、
 組織構造の変更も不要で、最も効率的な
 対応策です。
-
-不正解の解説
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
-a 手動集計では請求書が統一されず、運
+a. 手動集計では請求書が統一されず、運
 用負荷が高すぎます。
-
 c. 組織間移行は複雑で時間を要し、翌月
 からの統合には間に合わない可能性があ
 ります。
-
 d. 第三の組織を作るのは過剰な対応で、
 統一請求の実現手段としては非効率です。
-
-カテゴリ : Setting up a cloud solution
-
+カテゴリ: Setting up a cloud solution
 environment
-
-Page 7 of 204 @ 2%
-
-Oo
-
-a
-き
+<
+不正解の解説
+Learning reading speed...
+Page 7 of 204 ⚫ 2%

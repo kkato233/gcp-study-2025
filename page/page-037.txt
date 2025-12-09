@@ -1,48 +1,35 @@
-Source: img-0035.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-037.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+<
+Kindle Library
 正解
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+E: Aa
 d
-
 解説
-
-パブリック TP を割り当てない設定でイ
-ンスタンスを作成すれば、そのインスタ
+パブリック IP を割り当てない設定でイ
+ンスタンスを作成すれば、 そのインスタ
 ンスはインターネット経由での送受信が
-できなくなります。VPN 接続や内部 TP
+できなくなります。 VPN 接続や内部 IP
 経由の通信は引き続き利用可能なため、
-
 安全かつ社内閉鎖的な運用が実現できま
 す。
-
-不正解の解説
-a.Cloud NAT はパブリック IP を持たない
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
 VM からの外部送信を可能にするもので、
-
 意図に反します。
-
 b. ICMP 制限は Ping などの一部トラ
-フィックに限らちられ、インターネット通信
+フィックに限られ、 インターネット通信
 の遮断には不十分です。
-
 c. ルート定義だけではパブリック IP を
 持つ限りインターネットアクセスは可能
 です。
-
-カテゴリ : Planning and configuring a cloud
-solution + Deploying and implementing a
-
+カテゴリ: Planning and configuring a cloud
+solution Deploying and implementing a
 cloud solution
-
-Page 37 of 204 @ 17%
-
-Oo
-
+>
+不正解の解説
+a. Cloud NAT はパブリック IP を持たない
+Learning reading speed...
+Page 37 of 204 17%

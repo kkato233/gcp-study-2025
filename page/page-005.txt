@@ -1,42 +1,30 @@
-Source: img-0002.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-005.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
+... B
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+E: Aa
 正解
-
-c
-
+C
 解説
 GCP コンソールで請求アカウントを新た
-
 に作成し、支払い方法を登録することで、
-
 複数プロジェクトの費用をひとつのアカ
-
-ウントで集中管理できます。これにより、
-
+ウントで集中管理できます。 これにより、
 経理処理の簡素化と予算管理の効率化が
 可能になります。
-
-不正解の解説
-
-a, 手動集計は非効率でミスが起こりやす
+a. 手動集計は非効率でミスが起こりやす
 く、公式な費用一元管理手法ではありま
 せん。
-
 b. 法人カードの配布はセキュリティ管理
 や利用制限の観点から非推奨です。
-
-d ネットワーク制御はセキュリティ強化
-策であり、請求管理とは無関係です。
-
-カテゴリ : Setting up a cloud solution
-
+d. ネットワーク制御はセキュリティ強化
+策であり、 請求管理とは無関係です。
+カテゴリ: Setting up a cloud solution
 environment
-
-Learning reading speed.                                   Page 5 of 204 @ 1%
-
-Oo
-
+<
+不正解の解説
+Learning reading speed...
+Page 5 of 204 1%

@@ -1,48 +1,34 @@
-Source: img-0046.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-049.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 正解
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+不正解の解説
+Aa
+☐ ☑
 b
-
-解説
-
+<
+... B
+解說
 Autopilot クラスタはノード管理や運用負
 荷を自動化し、さらにプライベートクラ
 スタにすることでノードへのインター
-ネット通信を遮断可能です。さらに
+ネット通信を遮断可能です。 さらに
 Shielded Node がデフォルトで有効化され
 ており、ノードの整合性保護も備わって
-います。最もセキュアかつ運用しやすい
+います。 最もセキュアかつ運用しやすい
 構成です。
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
-FRIESE Wet
-
-a パブリッククラスタではノードがイン
-ターネットに晒され、非公開要件を満た
+a. パブリッククラスタではノードがイン
+ターネットに晒され、 非公開要件を満た
 しません。
-
 c. Shielded Node は整合性保護に有効です
 が、ノードの公開状態を防ぐには不十分
 です。
-
 d. Standard クラスタは Autopilot に比べ管
-理負荷が高く、自動化による運用効率が
+理負荷が高く、 自動化による運用効率が
 得られません。
-
-カテゴリ : Configuring access and security
-
-Page 49 of 204 @ 23%
-
-Ra
-us
-
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 49 of 204● 23%

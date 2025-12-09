@@ -1,32 +1,26 @@
-Source: img-0080.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-081.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-ut
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
-
-c
-
+C
+... ☑
+解說
 パイプラインごとに専用のサービスアカウントを用意し、それぞれに必要最小限の
-IAM ロールだけを割り当てることで、リスクを分離しつつ最小権限を実現します。ま
-た、鍵 (JSON) は Secret Manager で安全に保存・複数の環境からアクセス可能にする
-ことでセキュアな運用が可能です」
-
+IAM ロールだけを割り当てることで、リスクを分離しつつ最小権限を実現します。 ま
+た、鍵(JSON) は Secret Manager で安全に保存 複数の環境からアクセス可能にする
+ことでセキュアな運用が可能です。
 不正解の解説
-a サービスアカウントの複製では頁任分離が不明瞭になり、安全なアクセス管理につな
+a. サービスアカウントの複製では責任分離が不明瞭になり、安全なアクセス管理につな
 がりません。
-b. ルーチン化されたキーのローテーションは管理が類雑でエラーの元になりやすく、推
-~     奨されません。
-ノ      d. IAM 情報をメタデータに書き込む方法はサポートされておらず、セキュリティ観点
+b. ルーチン化されたキーのローテーションは管理が煩雑でエラーの元になりやすく、推
+奨されません。
+d. IAM 情報をメタデータに書き込む方法はサポートされておらず、セキュリティ観点
 からも不適切です。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                               Page 81 of 204 @ 38%
-
-Ra
-us
+カテゴリ: Configuring access and security
+<
+Learning reading speed...
+Page 81 of 204.38%

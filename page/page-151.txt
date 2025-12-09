@@ -1,32 +1,25 @@
-Source: img-0276.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-151.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
-c
-
+C
 解説
-
-オートスケーリングを無効にし、最小・最大インスタンス数をともに1に設
-定することで、常に 1 台のインスタンスのみが稼働する状態を維持できます。
-さらに、MIG の自動修復機能を利用すれば、インスタンスに障害が発生し
-た場合にも自動で再作成され、高可用性が保たれます。
-
+オートスケーリングを無効にし、 最小最大インスタンス数をともに1に設
+定することで、 常に1台のインスタンスのみが稼働する状態を維持できます。
+さらに、MIG の自動修復機能を利用すれば、 インスタンスに障害が発生し
+た場合にも自動で再作成され、 高可用性が保たれます。
 不正解の解説
-
-a. CPU 使用率によるスケーリングは冗長性の確保には役立ちますが、「常に
-1 台のみ」という要件を満たしません。
-
+a. CPU 使用率によるスケーリングは冗長性の確保には役立ちますが、 「常に
+1台のみ」という要件を満たしません。
 b. 手動で制限する運用にはヒューマンエラーのリスクが伴い、自動化と信頼
 性の観点で適していません。
-
-d ヘルスチェックを無効にすると、障害検知と自動復旧が行われず、可用性
+d. ヘルスチェックを無効にすると、障害検知と自動復旧が行われず、可用性
 の確保ができません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
-acloud solution
-
-Learning reading speed.                       Page 151 of 204 @ 73%
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
+a cloud solution
+Learning reading speed...
+Page 151 of 204
+73%
+>

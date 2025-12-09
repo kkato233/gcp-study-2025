@@ -1,33 +1,26 @@
-Source: img-0061.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-065.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 正解
+<
 b
-
-mM
-5
-
-解説
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
+解說
 専用のサービスアカウントを新規作成し、それを該当インスタンスに割り当てます。さ
 らにそのアカウントに対して Cloud Storage のバケットまたはオブジェクト限定でアク
-セス権 (例 : roles/storage.objectViewer) を付与することで、他のインスタンスからのア
+セス権(例: roles/storage.objectViewer) を付与することで、他のインスタンスからのア
 クセスを防ぎ、セキュアかつ最小権限でアクセス制御が可能になります。
-
 不正解の解説
-a プロジェクトレベルで権限を付与すると、全インスタンスにアクセス権が波及し、要
+a. プロジェクトレベルで権限を付与すると、 全インスタンスにアクセス権が波及し、要
 件を満たしません。
-c. VM 内部では IAM 制御が効かず、ホワイトリスト化できないため、セキュリティに
-~     課題が残ります。
-ノ      d. Firewall 制御はネットワークレイヤに限定され、IAM によるストレージアクセス管理
+c. VM 内部では IAM 制御が効かず、 ホワイトリスト化できないため、セキュリティに
+課題が残ります。
+d. Firewall 制御はネットワークレイヤに限定され、 IAM によるストレージアクセス管理
 には対応できません。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                                             Page 65 of 204 @ 31%
-
-Ra
-us
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 65 of 204 ⚫ 31%
+... ☑

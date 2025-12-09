@@ -1,29 +1,22 @@
-Source: img-0303.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-160.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 29
-
-自然保護を目的としたエコ志向の旅行予約サービス「EcoJourmey」は、マイ
-クロサービスを Kubemetes クラスタ上で運用しています。ある日、次のコ
-マンドを実行した結果、一部の Pod が PENDING 状態から進まないことが判
+自然保護を目的としたエコ志向の旅行予約サービス 「EcoJourney」は、マイ
+クロサービスを Kubernetes クラスタ上で運用しています。ある日、次のコ
+マンドを実行した結果、 一部の Pod が PENDING 状態から進まないことが判
 明し、原因を特定するよう指示されました。 次にとるべき最も適切な対応は
-どれですかぅ
-
-$ kubectl get pods -1 app=ecojourney-backend
-
+どれですか?
+$kubectl get pods -1 app=ecojourney-backend
 a. 該当 Pod の起動時間を確認し、PodDisruptionBudget の影響を評価する
-
 b. Deployment が作成する ReplicaSet の世代番号を確認し、更新が反映されて
-
 いるかをチェックする
-
 c. PENDING 状態の Pod ecojourney-backend-deployment-alb2c3-x9y8z を調査し、
-PEERY —Y EMER T S
-
-d. Service Discovery で DNS 名が正しく登録されているか nslookup で検証す
+警告メッセージを確認する
+d. Service Discovery で DNS名が正しく登録されているか nslookup で検証す
 る
-
-Learning reading speed.                       Page 160 of 204 @ 77%
+>
+Learning reading speed...
+Page 160 of 204 77%

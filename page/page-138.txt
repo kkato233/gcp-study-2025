@@ -1,24 +1,21 @@
-Source: img-0235.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-138.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 18
-
 極域の気象観測ステーションでは、データ処理に仮想マシン (VM) を直接
-使用することが運用ポリシーで定められています。鶴測条件によって CPU
+使用することが運用ポリシーで定められています。 観測条件によって CPU
 負荷が大きく変動するため、それに応じて処理用 VM を動的に増減させる
-必要があります。この要件を最も適切に満たす手法はどれですか?
-
-a. loT Core と連携し、MQTT イベントに応じて VM をスケーリングさせる
-b. サードバパーティ製の自動化ツールで Stackdriver (現 Operations) をもとに
+必要があります。 この要件を最も適切に満たす手法はどれですか?
+a. IoT Core と連携し、 MQTT イベントに応じて VM をスケーリングさせる
+b. サードパーティ製の自動化ツールで Stackdriver (現 Operations) をもとに
 スケーリング設定を行う
-
 c. Cloud Functions を利用して VM インスタンスをイベント駆動で起動・停止
 させる
-
-d マネージドインスタンスグループ (MIG) で CPU 使用率に基づいたオー
+d. マネージドインスタンスグループ (MIG) で CPU 使用率に基づいたオー
 トスケーリングを設定する
-
-Learning reading speed.                       Page 138 of 204 @ 67%
+>
+Learning reading speed...
+Page 138 of 204
+67%

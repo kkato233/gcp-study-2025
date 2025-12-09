@@ -1,31 +1,23 @@
-Source: img-0060.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-064.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-TM
-5
-
+Kindle Library
 問題 31
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+Aa
 画像編集アプリを構築中の企業では、新しく立ち上げる Compute Engine インスタンス
 から、Cloud Storage 上のインストールファイルを取得できる構成を検討しています。こ
-のインスタンスのみにアクセス権を限定したい場合、最も適切な方法はどれですか ?
-
-a プロジェクトレベルでストレージ全体に読み取り権限を付与しb、インスタンス単位で
+のインスタンスのみにアクセス権を限定したい場合、 最も適切な方法はどれですか?
+a. プロジェクトレベルでストレージ全体に読み取り権限を付与し、インスタンス単位で
 制限する
-
-b. 新しいサービスアカウントを作成し、インスタンスに割り当て、Storage にアクセス
+b. 新しいサービスアカウントを作成し、インスタンスに割り当て、 Storage にアクセス
 権を付与する
-
-c. ローカル VM 上に IAM ポリシーを構成し、Storage バケット名をホワイトリスト化す
+c. ローカル VM 上に IAM ポリシーを構成し、 Storage バケット名をホワイトリスト化す
 る
-
 d. Compute Engine インスタンスのタグに対応する Firewall ルールを作成しストレージア
 クセスを制御
-
-Learning reading speed.                                             Page 64 of 204 @ 30%
-
-Ra
-us
+<
+Learning reading speed...
+Page 64 of 204 ● 30%
+... ☑

@@ -1,29 +1,23 @@
-Source: img-0418.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-197.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
 d
-
 解説
-
-Terraform を活用すれば、セキュリティポリシーに準拠した構成をコードと
-して定義・バパージョン管理でき、再利用性や自動化にも優れています。
+Terraform を活用すれば、 セキュリティポリシーに準拠した構成をコードと
+して定義・バージョン管理でき、再利用性や自動化にも優れています。
 Terraform モジュールを共有すれば、エンジニア全体が共通テンプレートに
 従って展開でき、セキュリティと効率を両立できます。
-
 不正解の解説
-
-a: 手動作業は属人化しやすく、ポリシー違反の温床になります。
-
-b: CLI 運用はミスの温床で、自動的な構成チェックや強制力がありません。
+a: 手動作業は属人化しやすく、 ポリシー違反の温床になります。
+b: CLI 運用はミスの温床で、 自動的な構成チェックや強制力がありません。
 c: 手動レビューは非効率でミスも発生しやすく、スケーラブルではありませ
 ん。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 197 of 204 @ 96%
+>
+Learning reading speed...
+Page 197 of 204
+96%

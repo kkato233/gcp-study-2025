@@ -1,23 +1,19 @@
-Source: img-0361.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-178.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 38
-
-オンラインスーパーマーケット「FEeshCart」の運用担当です。 毎晩、
+オンラインスーパーマーケット 「FreshCart」 の運用担当です。 毎晩、
 BigQuery を使って売上データを集計し、集計テーブルを上書きする夜間処
-理を実行しています。数日前から、ダッシュボードに異常な数値が表示され
-るようになりました。原因を調査するため、まずどこを確認すべきでしょう
+理を実行しています。 数日前から、 ダッシュボードに異常な数値が表示され
+るようになりました。 原因を調査するため、 まずどこを確認すべきでしょう
 か?
-
 a. Cloud Console のジョブ履歴ページでバッチ処理の実行ステータスを調べ
 る
-
 b. Cloud Logging でスケジュール処理のログエントリをフィルタリングする
 c. BigQuery のインターフェースで夜間ジョブのエラーを確認する
-
 d. Dataflow の監視インターフェースでデータフロー状況を確認する
-
-Learning reading speed.                       Page 178 of 204 @ 87%
+Learning reading speed...
+Page 178 of 204 87%
+>

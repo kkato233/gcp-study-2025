@@ -1,26 +1,21 @@
-Source: img-0415.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-196.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-問題47
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+問題 47
 ある企業では、社内セキュリティポリシーに準拠した設定のみで Google
 Cloud サービスをデプロイ・更新するよう義務付けています。エンジニアが
 その設定を守りながらクラウドサービスを展開できる仕組みとして、最も適
-切な方法はどれですか ?
-
+切な方法はどれですか?
 a. Google スプレッドシートにリソース構成情報を記録し、それを参照して
 都度手動で作成する。
-
-b. CLI ツールで手順書に沿ってサービスを構成し、実行ログを共有フォルダ
+b. CLI ツールで手順書に沿ってサービスを構成し、 実行ログを共有フォルダ
 に保存する。
-
 c. すべてのサービスを手動で構築し、レビュー担当者が設定の整合性を都度
 チェックする。
-
 d. 宣言的構成管理を実現する Terraform モジュールを作成し、コードリポジ
 トリで共有する。
-
-Learning reading speed.                       Page 196 of 204 @ 96%
+>
+Learning reading speed...
+Page 196 of 204 96%

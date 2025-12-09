@@ -1,36 +1,25 @@
-Source: img-0084.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-085.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-ut
-5
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
-
-c
-
+C
+... ☑
 解説
-
 Google Cloud ではファイアウォールルールにサービスアカウントをソース・ターゲット
-として指定できます。Tier2 には Tierl のサービスアカウントから TCP 8080 を許可、
+として指定できます。 Tier2 には Tierl のサービスアカウントから TCP 8080 を許可、
 Tier3 には Tier2 のサービスアカウントから TCP 8080 を許可するルールを作成すること
 で、必要最小限の通信だけを許可し、安全かつ効率的な構成が実現できます。
-
 不正解の解説
-
-a は IP ベースかつプロトコル制限がないため、不要な通信も許可されセキュリティリ
+a は IP ベースかつプロトコル制限がないため、 不要な通信も許可されセキュリティリ
 スクが高まります。
-
-b は外部 TP を使う構成であり、内部通信の要件から外れておりコストやリスクが増大
+b は外部 IP を使う構成であり、内部通信の要件から外れておりコストやリスクが増大
 します。
-
-dすはIP アドレスに依存する管理が炉雑で、スケーラビリティにも課題があります。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                                             Page 85 of 204 @ 40%
-
-Ra
-us
+dはIPアドレスに依存する管理が煩雑で、スケーラビリティにも課題があります。
+カテゴリ: Configuring access and security
+<
+Learning reading speed...
+Page 85 of 204 ● 40%

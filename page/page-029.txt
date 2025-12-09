@@ -1,22 +1,28 @@
-Source: img-0027.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-029.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-            GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa   0   g3
-正解                                     不正解の解説                                  Q
-b                                        a. 同一プロジェクト内の権限共有では、
+... ☑
+Kindle Library
+正解
+b
+解説
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+新しいプロジェクトを作成することで、
+IAM 権限、課金管理、監査ログなどの範
+囲を完全に分離できます。 これにより、
+各チームの責任と管理が明確になり、 セ
+キュリティやトラブル時の対応もしやす
+くなります。
+不正解の解説
+= Aa ☐ ☑
+a. 同一プロジェクト内の権限共有では、
 アクセスや操作の境界が曖昧になります。
-解説                     c タグによる分類ではアクセス制御や請
-
-新しいプロジェクトを作成することで、       求の完全分離は実現できません。
-
-TAM 権限、課金管理、監査ログなどの範    d プロジェクト ID は一意でなければな
-
-囲を完全に分離できます。これにより、      らず、同一 ID の再利用は不可能です。
-
-各チームの頁任と管理が明確になり、セ
-
-キュリティやトラブル時の対応もしやす     カテゴリ : Setting up a cloud solution
-fe      くなります。                                environment
-
-Learning reading speed.                                  Page 29 of 204 @ 13%
+c. タグによる分類ではアクセス制御や請
+求の完全分離は実現できません。
+d. プロジェクト ID は一意でなければな
+らず、同一ID の再利用は不可能です。
+カテゴリ: Setting up a cloud solution
+environment
+Learning reading speed...
+Page 29 of 204 13%

@@ -1,26 +1,23 @@
-Source: img-0395.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-189.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
 解説
-
-Cloud Deployment Manager は Google Cloud が提供する laC ツールで、YAML
-や jinja2 テンプレートを使ってリソースの構成管理ができます。再利用性が
+Cloud Deployment Manager は Google Cloud が提供する IaCツールで、YAML
+や Jinja2 テンプレートを使ってリソースの構成管理ができます。 再利用性が
 高く、環境の一貫性や保守性の向上に寄与します。
-
 不正解の解説
-a.手作業によるスクリプト管理は非効率で、再現性やミス防止の面で劣りま
+a. 手作業によるスクリプト管理は非効率で、 再現性やミス防止の面で劣りま
 す。
-
-b. スプレッドシートはドキュメント管理には使えますが、laC としての機能
+b. スプレッドシートはドキュメント管理には使えますが、 IaC としての機能
 は持ちません。
-
-d. 手動バックアップでは IaC の利点である自動構築・一貫性を活かせません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+>
+d. 手動バックアップでは IaCの利点である自動構築・一貫性を活かせません。
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 189 of 204 @ 92%
+Learning reading speed...
+Page 189 of 204
+92%

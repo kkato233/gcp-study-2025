@@ -1,31 +1,27 @@
-Source: img-0232.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-137.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
 解説
-
-App Engine は 1 プロジェクトにつき 1 つのアプリケーションしか作成でき
-すず、そのリージョンは初期作成時に固定されます。そのため、別リージョン
-で App Engine アプリを運用したい場合は、新しい GCP プロジェクトを作成
-し、そのプロジェクトで App Engin を指定リージョン (今回は asia
-northeast1) にデプロイする必要があります。
-
+App Engine は 1プロジェクトにつき1つのアプリケーションしか作成でき
+ず、そのリージョンは初期作成時に固定されます。 そのため、別リージョン
+で App Engine アプリを運用したい場合は、 新しい GCP プロジェクトを作成
+し、そのプロジェクトで App Engine を指定リージョン (今回は asia-
+northeast1)にデプロイする必要があります。
 不正解の解説
-
-a. Cloud Functions は App Engine と用途が異なり、アプリ全体の移行および地
+a. Cloud Functions は App Engine と用途が異なり、 アプリ全体の移行および地
 域指定の自由度には制限があります。
-
-b. Cloud Run は App Engine と互換性があるものの、App Engine の既存設定を
+b. Cloud Run は App Engine と互換性があるものの、 App Engine の既存設定を
 そのまま複製することはできず、別サービスとしての再設計が必要です。
-
-d. Cloud Load Balancings はリージョン間のアプリ構成自体を動的に切り替え
-ることはできず、App Engine のリージョンを後から調整することもできま
+d. Cloud Load Balancing はリージョン間のアプリ構成自体を動的に切り替え
+ることはできず、 App Engine のリージョンを後から調整することもできま
 せん。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 137 of 204 @ 66%
+Learning reading speed...
+Page 137 of 204
+66%
+>

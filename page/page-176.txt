@@ -1,28 +1,24 @@
-Source: img-0354.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-176.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年･･･
 問題 37
-
 先進的な通信制御システムを開発している「QuantumRelay 社」は、以下の
-3 つの GCP プロジェクトを保有しています : Quasar、Pulsar、Nebula。各プ
-ロジェクトには独立したマイクロサービス和群が存在し、それぞれ CPU、メ
-モリ、ディスクのリソースメトリクスを収集しています。これらを単一の
-ダッシュボードでリアルタイムに監視し、効率よくオペレーションしたいと
-考えています。最適な方法はどれですか?
-
-a. 必要な API を有効化し、Quasar プロジェクトから Nebula と Pulsar へ双方
+3つのGCP プロジェクトを保有しています: Quasar、 Pulsar Nebula。各プ
+ロジェクトには独立したマイクロサービス群が存在し、 それぞれ CPU、メ
+モリ、ディスクのリソースメトリクスを収集しています。 これらを単一の
+ダッシュボードでリアルタイムに監視し、 効率よくオペレーションしたいと
+考えています。 最適な方法はどれですか?
+a. 必要な API を有効化し、 Quasar プロジェクトから Nebula と Pulsar へ双方
 向通知を構成する
-
 b. 必要な API を有効化し、各プロジェクトに Monitoring Viewer ロールを割
 り当ててリンクさせる
-
-c. 必要な API を有効化し、Apollo プロジェクトでワークスペースを作成し、
+c. 必要な API を有効化し、 Apollo プロジェクトでワークスペースを作成し、
 Luna と Nova を追加する
-
-d. 必要な API を有効化し、各プロジェクトの Stackdriver ダッシュボード
+d. 必要な API を有効化し、各プロジェクトのStackdriver ダッシュボード
 URL をリンク集としてまとめる
-
-Learning reading speed.                       Page 176 of 204 @ 86%
+>
+Learning reading speed...
+Page 176 of 204
+86%

@@ -1,33 +1,23 @@
-Source: img-0059.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-063.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-ut
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 正解
 b
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 解説
-
 プライベートな Autopilot クラスタは、外部からのアクセスを遮断しつつ、Google Cloud
-が提供する Shielded Node 機能こより、ノードの整合性チェックを自動化できます。こ
+が提供する Shielded Node 機能により、 ノードの整合性チェックを自動化できます。 こ
 れにより、高いセキュリティと運用効率を両立できます。
-
 不正解の解説
-
 a. TLS 証明書の手動展開は大規模運用に不向きで、管理負荷とリスクが高まります。
-
 c. 起動時の手動整合性検証は自動化に欠け、タイミング次第で不整合を見逃す可能性が
 あります。
-
-d. Anthos は高度な統合基盤ですが、本要件に対してはコストや複雑性が過剰です。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                                             Page 63 of 204 @ 30%
-
-Ra
-us
+d. Anthos は高度な統合基盤ですが、 本要件に対してはコストや複雑性が過剰です。
+<
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 63 of 204.30%
+... ☑

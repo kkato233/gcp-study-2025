@@ -1,25 +1,20 @@
-Source: img-0168.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-116.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-問題7
-
-クラウドゲームの負荷調整を行うスタートアップ 「PlayScale」 は、アクセス
-が予測困難な Kubernetes ワークロードを運用しています。高い可用性を維持
-しつつ、各 Pod のリソース使用に応じた最適構成を提案で得たいと考えてい
-ます。最も適切な構成はどれですか ?
-
-a. Cluster Autoscaler を使用してノード数を自動調整し、Horizontal Pod
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+問題 7
+クラウドゲームの負荷調整を行うスタートアップ 「PlayScale」は、アクセス
+が予測困難な Kubernetes ワークロードを運用しています。 高い可用性を維持
+しつつ、各Podのリソース使用に応じた最適構成を提案で得たいと考えてい
+ます。 最も適切な構成はどれですか?
+a. Cluster Autoscaler を使用してノード数を自動調整し、 Horizontal Pod
 Autoscaler (HPA) は無効にする
-
 b. Pod リソースにベストプラクティスとして固定値を設定し、定期レビュー
 で調整する
-
-c. HPA で可用性確保、VPA を提案用に構成
-
-d. Pod 各種にオーバープロビジョニング設定を適用し、Prometheus を用いて
-手動チューーニングする
-
-Learning reading speed.                       Page 116 of 204 @ 55%
+c. HPA で可用性確保、 VPA を提案用に構成
+d. Pod 各種にオーバープロビジョニング設定を適用し、 Prometheus を用いて
+手動チューニングする
+Learning reading speed...
+Page 116 of 204 55%
+>

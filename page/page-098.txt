@@ -1,29 +1,19 @@
-Source: img-0098.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-098.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-ut
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-問題48
-
-地元農家とバイヤーをつなぐコンテナプラットフォームを構築する「ImnovaGro」は、
-
+<
+Kindle Library
+問題 48
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
+地元農家とバイヤーをつなぐコンテナプラットフォームを構築する 「InnovaGro」 は、
 Kubernetes マニフェストを用いてクラウドにサービスを展開したいと考えています。イ
-ンフラの管理を最小限に抑えつつ、自社で細かく運用制御を行いたい場合、最適な選択
-肢はどれですか ?
-
-a.Cloud Run を利用し、フルマネージド環境でデプロイする
-
+ンフラの管理を最小限に抑えつつ、 自社で細かく運用制御を行いたい場合、最適な選択
+肢はどれですか?
+a. Cloud Run を利用し、 フルマネージド環境でデプロイする
 b. GKE Standard でデプロイする
-
-c. GKE Autopilot でデプロイし、自動管理を活用する
-
+c. GKE Autopilot でデプロイし、 自動管理を活用する
 d. Cloud Functions を使ってイベント駆動でサービスを構築する
-
-Learning reading speed.                                             Page 98 of 204 @ 46%
-
-Ra
-us
+Learning reading speed...
+Page 98 of 204 ⚫ 46%

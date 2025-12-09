@@ -1,43 +1,32 @@
-Source: img-0031.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-033.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+Kindle Library
 正解
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
 d
-
 解説
-
 BigQuery の外部テーブル機能を利用すれ
 ば、Cloud Storage 上の AVRO ファイル
-に直接 SQL クエリを実行できます。こ
+に直接 SQL クエリを実行できます。 こ
 れによりデータのロード不要で分析が可
-能となり、コストと時間を大幅に節約で
+能となり、 コストと時間を大幅に節約で
 きます。
-
 不正解の解説
 a. Cloud Spanner は OLTP に最適化されて
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
-
+E: Aa
 おり、バッチ分析用途には不向きです。
-b.Firestore はドキュメント指向で、
+b. Firestore はドキュメント指向で、
 AVRO 形式や大量データ分析には適しま
 せん。
-
-c. Hadoop 環境の構築・運用は複雑でコ
+c. Hadoop 環境の構築 運用は複雑でコ
 ストがかかり、SQL 中心のユーザーには
 扱いが難しいです。
-
-カテゴリ : Planning and configuring a cloud
-solution + Deploying and implementing a
-
+カテゴリ: Planning and configuring a cloud
+solution Deploying and implementing a
 cloud solution
-
-Page 33 of 204 @ 15%
-
-Aa 0
-
+<
+Learning reading speed...
+Page 33 of 204 15%

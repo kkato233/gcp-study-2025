@@ -1,20 +1,17 @@
-Source: image.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-051.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
+正解
+C
 解説
-
 Deployment Manager テンプレートは Infrastructure as Code の代表的な手法であり、Cloud Source
 Repositories に保存することで、構成のバージョン管理・コードレビュー・共同作業が可能になり
-ます。これは Google が推奨する構成管理のベストプラクティスです。
-
+ます。 これは Google が推奨する構成管理のベストプラクティスです。
 不正解の解説
-
-a Cloud Storage はオブジェクト保存には適していますが、コードのバージョン管理には向きません。
-b.PDF 形式では再現性がなく、バージョン管理やレビューが困難です。
-
-d. Sheets による共有は視覚的な一覧には便利ですが、コードとしての管理には適していません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud solution
-
-Learning reading speed.                                      Page 51 of 204 @ 24%
+a. Cloud Storage はオブジェクト保存には適していますが、コードのバージョン管理には向きません。
+b. PDF 形式では再現性がなく、 バージョン管理やレビューが困難です。
+d. Sheets による共有は視覚的な一覧には便利ですが、 コードとしての管理には適していません。
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud solution
+Learning reading speed.
+Page 51 of 204 24%

@@ -1,27 +1,23 @@
-Source: img-0239.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-139.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-解説
-
-Compute Engine のマネージドインスタンスグループ (MIG) Clk. CPU 使
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+d
+解說
+Compute Engine のマネージドインスタンスグループ (MIG) では、CPU 使
 用率などのメトリクスに応じて自動でインスタンスを追加・削除するオート
-スケーリングが可能です。VM を直接使うという制約にも対応でき、Google
+スケーリングが可能です。 VM を直接使うという制約にも対応でき、Google
 が公式に推奨する方法です。
-
 不正解の解説
-
-a. IoT Core はデバイス管理用途であり、VM スケーリングには直接利用でき
+a. IoT Core はデバイス管理用途であり、 VM スケーリングには直接利用でき
 ません。
-
-b. サードバパーティ製ツールは不要で、GCP ネイティブ機能で十分対応でき
+b. サードパーティ製ツールは不要で、GCP ネイティブ機能で十分対応でき
 ます。
-
-c. Cloud Functions は一時的な処理には有効ですが、持続的なスケーリングに
+c. Cloud Functions は一時的な処理には有効ですが、 持続的なスケーリングに
 は不向きです。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                       Page 139 of 204 @ 67%
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 139 of 204 67%
+>

@@ -1,30 +1,26 @@
-Source: img-0389.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-187.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+a
 解説
-
 オンプレミスと Cloud Storage 間のファイル同期を定期的に行うには、gcloud
-storage コマンドを利用した同期スクリプトを作成し、cron ジョブでスケ
+storage コマンドを利用した同期スクリプトを作成し、 cron ジョブでスケ
 ジュール実行する方法が最も現実的かつシンプルです。これにより、動画が
-追加され次第、自動的に Cloud Storage へアップロードされる体制を構築で
+追加され次第、自動的に Cloud Storage ヘアップロードされる体制を構築で
 きます。
-
 不正解の解説
-
-b.Cloud SQL や App Engine はファイル転送用途には適しておらず、構成が冗
+b. Cloud SQL や App Engine はファイル転送用途には適しておらず、構成が冗
 長かつ非効率です。
-
 c. Cloud Monitoring はオンプレミスのファイルシステムの変化を直接検知す
 る機能を持ちません。
-
 d. BigQuery や Dataflow は分析やストリーム処理向けであり、ファイルの移
 動・同期には不適です。
-
-カテゴリ :Planning and configuring a cloud solution + Deploying and implementing
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-
-Learning reading speed.                       Page 187 of 204 @ 91%
+Learning reading speed...
+Page 187 of 204
+91%
+>

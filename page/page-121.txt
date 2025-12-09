@@ -1,26 +1,22 @@
-Source: img-0183.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-121.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+b
 解説
-
 gcloud container clusters get-credentials dev-environment を実行することで、新
-たに kubeconfig に dev-environment クラスタの認証情報が追加されます。そ
-の後 kubectl get nodes を実行すれば、dey 環境のノード情報が取得でき、
+たに kubeconfig に dev-environment クラスタの認証情報が追加されます。 そ
+の後 kubectl get nodes を実行すれば、 dev 環境のノード情報が取得でき、
 Autopilot クラスタでも同様に有効です。
-
 不正解の解説
-
-a クラスタ削除は誤りであり、ノード確認には全く関係ありません。
-
-c. context の切替前(      情報の取得が必要であり、prod-environment の pods
+a. クラスタ削除は誤りであり、ノード確認には全く関係ありません。
+c. context の切替前に認証情報の取得が必要であり、 prod-environment の pods
 を取得するコマンドも不適切です。
-
-d. describe はクラスタの構成情報を表示するコマンドであり、ノード状態の
+d. describe はクラスタの構成情報を表示するコマンドであり、 ノード状態の
 確認には使えません。 また get services も目的に不一致です。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                       Page 121 of 204 @ 58%
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 121 of 204 58%
+>

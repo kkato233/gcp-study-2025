@@ -1,31 +1,26 @@
-Source: img-0221.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-133.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-解説
-
-HTTP(S) ロードバランサーは、Google Cloud で提供される L7 (レイヤー 7)
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
+解說
+HTTP(S) ロードバランサーは、 Google Cloud で提供されるL7 (レイヤー7)
 ロードバランサーであり、HTTPS 通信における SSL 終端 (TLS 終了) を
-ロードバランサー側で処理することが可能です。証明書の一元管理が可能な
-ほか、URL ベースのルーティングやグローバルなトラフィック分散にも対
-応しており、Google のベストプラクティスに沿った構成です。
-
+ロードバランサー側で処理することが可能です。 証明書の一元管理が可能な
+ほか、 URL ベースのルーティングやグローバルなトラフィック分散にも対
+応しており、 Google のベストプラクティスに沿った構成です。
 不正解の解説
-
-a.各Pod で証明書を扱うと管理負荷が高まり、セキュリティやスケーラビリ
+a. 各 Pod で証明書を扱うと管理負荷が高まり、セキュリティやスケーラビリ
 ティに課題が残ります。
-
-b. Cloud DNS は名前解決の機能であり、ロードバランシングや SSL 終端の
+b. Cloud DNS は名前解決の機能であり、 ロードバランシングや SSL 終端の
 処理はできません。
-
 d. Cloud NAT は外部インターネットへのアウトバウンド接続に使用され、
-
 SSL 終端やロードバランシングには適していません。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
-acloud solution
-
-Learning reading speed.                       Page 133of204 @ 64%
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
+a cloud solution
+Learning reading speed...
+Page 133 of 204
+64%
+>

@@ -1,30 +1,22 @@
-Source: img-0088.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-088.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-mM
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-問題43
-
-写真編集サービス「スナップビクセル」は、Compute Engine の VM をカスタム VPC 内
-で運用しており、インターネット接続は禁止されています。しかし、VM から同じプロ
+Kindle Library
+問題 43
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa ☐ ☑
+写真編集サービス「スナップピクセル」は、Compute Engine の VM をカスタム VPC 内
+で運用しており、インターネット接続は禁止されています。 しかし、VM から同じプロ
 ジェクト内の Cloud Storage に保存された画像ファイルにアクセスする必要があります。
-要件を満たす適切な設定はどれですか ぅ
-
+要件を満たす適切な設定はどれですか?
 a. Cloud Storage のバケットに対して VPC Service Controls を有効化し、内部ネットワー
 クからのアクセスのみ許可する
-
 b. Cloud DNS で storage.googleapis.com の名前解決をプライベート IP にリダイレクトす
 る
-
-c.カスタム VPC のサブネットに Private Google Access を有効化する
-
-d. Cloud Router を構成し、ストレージ用トラフィックを VPN 経由で転送する
-
-Learning reading speed.                                             Page 88 of 204 @ 41%
-
-Ra
-us
+c. カスタム VPC のサブネットに Private Google Access を有効化する
+d. Cloud Router を構成し、 ストレージ用トラフィックを VPN 経由で転送する
+<
+Learning reading speed...
+Page 88 of 204 41%
+... ☑

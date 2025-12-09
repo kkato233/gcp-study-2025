@@ -1,22 +1,19 @@
-Source: img-0291.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-156.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 27
-
-世界中の自然保護団体と連携する EcoSync 連盟では、GCP 上で運用されて
-いる複数の気候監視システムについて、サービスごとのコストを部門単位で
-把握する必要があります。各クラウドサービスの利用費について、過去6 ヶ
-月分のデータ を日次・月次で集計し、部門ごとの予算管理に役立てたいと考
-えています。最も適した方法はどれですか ?
-
-請求データを Cloud Logging に送信し、ログビューアで確認する
-請求データを Cloud Monitoring に送信し、カスタムメトリクスで分析する
-Cloud Storage にエクスポートし、Google スプレッドシートで分析する
-請求データを Cloud Pub/Sub に配信し、受信側で集計スクリプトを実行す
-
-ao 5 Pp
-
-Learning reading speed.                       Page 156 of 204 @ 75%
+世界中の自然保護団体と連携する EcoSync 連盟では、 GCP 上で運用されて
+いる複数の気候監視システムについて、 サービスごとのコストを部門単位で
+把握する必要があります。 各クラウドサービスの利用費について、過去6ヶ
+月分のデータを日次・月次で集計し、部門ごとの予算管理に役立てたいと考
+えています。 最も適した方法はどれですか?
+a. 請求データを Cloud Logging に送信し、ログビューアで確認する
+b. 請求データを Cloud Monitoring に送信し、 カスタムメトリクスで分析する
+c. Cloud Storage にエクスポートし、Google スプレッドシートで分析する
+d. 請求データを Cloud Pub/Sub に配信し、受信側で集計スクリプトを実行す
+る
+Learning reading speed...
+Page 156 of 204 75%
+>

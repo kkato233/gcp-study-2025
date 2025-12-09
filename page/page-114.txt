@@ -1,32 +1,24 @@
-Source: img-0162.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-114.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題6
-
 ある企業は以下のオンプレミス資産を Google Cloud へ移行しようとしてい
 ます。
-
 ・SAN に保存された 300TB の動画
-
-+ Amazon Redshift にある分析データ
-
+・Amazon Redshift にある分析データ
 ・S3 にある 20GB の PNG 画像
-
-カスタムコードを使わず、Google のベストプラクティスに従う構成として
-最適な選択はどれですか ?
-
+カスタムコードを使わず、 Google のベストプラクティスに従う構成として
+最適な選択はどれですか?
 a. 手動で USB ドライブに動画をコピーし、ネットワーク経由で Redshift
 データをインポート、FTP で PNG を転送する
-
-b. Transfer Appliance で動画+ BigQuery Data Transfer で Redshift + Storage
-Transfer C PNG
-
-c.クラウドストレージ API を使い全データを一括アップロードする
-
-d. Dataflow を使い動画を分割して転送、Redshitt は CSV エクスポートで移
-行、PNG は手動アップロード
-
-Learning reading speed.                       Page 114 of 204 @ 54%
+b. Transfer Appliance + BigQuery Data Transfer Redshift + Storage
+Transfer PNG
+c. クラウドストレージ API を使い全データを一括アップロードする
+d. Dataflow を使い動画を分割して転送、 Redshift は CSV エクスポートで移
+行、 PNG は手動アップロード
+Learning reading speed...
+Page 114 of 204
+54%
+>

@@ -1,27 +1,24 @@
-Source: img-0133.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-105.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-解説
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
+解說
 まず gcloud projects list で対象プロジェクトの ID を確認し、続いて gcloud
 services list --project <project ID> を実行することで、そのプロジェクトで有効
-化済みの API サービス一覧を取得できます。GCP での標準的な確認手順で
+化済みの API サービス一覧を取得できます。 GCP での標準的な確認手順で
 す。
-
 不正解の解説
-
-a.アカウントのunset と browse コマンドでは、API の有効状況は確認できま
+a. アカウントのunset と browse コマンドでは、 API の有効状況は確認できま
 せん。
-
 b. api-gateway や endpoints は特定のサービス構成確認用であり、全体の API
 一覧取得には不向きです。
-
-d. endpoints list --global は有効 API の列挙ではなく、サービスの定義単位の情
+d. endpoints list --global は有効 API の列挙ではなく、 サービスの定義単位の情
 報表示に過ぎません。
-
-カテゴリ : Setting up a cloud solution environment
-
-Learning reading speed.                       Page 105 of 204 @ 49%
+カテゴリ: Setting up a cloud solution environment
+Learning reading speed...
+Page 105 of 204
+49%
+>

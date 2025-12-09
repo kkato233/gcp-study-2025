@@ -1,31 +1,22 @@
-Source: img-0071.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-074.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+Kindle Library
 問題 36
-
-衛星画像をリアルタイム配信するサービス 「SkyStream」では、バックエンドで稼働す
-る仮想マシンの処理負荷が高くなる傾向にあります。CPU 使用率が 90%を超えた際に
-即時通知を受け取り、迅速に対応できる体制を整えることが求められています。Google
-Cloud の監視機能を使って、最も適切な対応はどれですか ?
-
-a. Cloud Monitoring ワークスペースを作成し、90%。 を超えた際に通知するアラートポリ
-シーを設定。通知先に自分のメールアドレスを登録する
-
-b. Cloud Logging に保存されたログを週次で確認し、CPU 使用率の高い VM を手動で抽
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+Aa
+<
+衛星画像をリアルタイム配信するサービス 「SkyStream」 では、 バックエンドで稼働す
+る仮想マシンの処理負荷が高くなる傾向にあります。 CPU 使用率が90%を超えた際に
+即時通知を受け取り、迅速に対応できる体制を整えることが求められています。 Google
+Cloud の監視機能を使って、最も適切な対応はどれですか?
+a. Cloud Monitoring ワークスペースを作成し、 90% を超えた際に通知するアラートポリ
+シーを設定。 通知先に自分のメールアドレスを登録する
+b. Cloud Logging に保存されたログを週次で確認し、CPU 使用率の高いVM を手動で抽
 出するスプレッドシートを作成する
-
-c. VM 内にインストールしたスクリプトで CPU 使用率を監視し、Slack API で通知を送
+c. VM 内にインストールしたスクリプトで CPU 使用率を監視し、 Slack API で通知を送
 信する構成を作る
-
 d. VM に Syslog を送信し、そのログを外部のログ解析サービスに連携して監視する
-
-Learning reading speed.                                             Page 74 of 204 @ 35%
-
-Ra
-us
+Learning reading speed...
+Page 74 of 204.35%

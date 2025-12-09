@@ -1,27 +1,22 @@
-Source: img-0445.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-072.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-              GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD …        = Aa 0
-
+<
+Kindle Library
 問題 35
-「QuickTickets 社」は、us-central1-a ゾーンの Compute Engine でオンラインチ
+GOOGLE CLOUD ASSOCIATE CLOUD ... =: Aa ☑
+「QuickTickets 社」は、us-centrall-a ゾーンの Compute Engine でオンラインチ
 ケット販売サービスを運用しています。 ゾーン単位の障害発生時にもサービス
-を止めずに継続できるように、最適かつコスト効果の高い対策を検討していま
-す。最も適切な方法はどれですか ぅ
-
-a. us-centrall-c ゾーンに専用の監視 VM を設置し、障害発生時に通知を受け取
+を止めずに継続できるように、 最適かつコスト効果の高い対策を検討していま
+す。 最も適切な方法はどれですか?
+a. us-centrall-c ゾーンに専用の監視 VM を設置し、 障害発生時に通知を受け取
 る
-
 b. us-centrall-a ゾーンのマネージドインスタンスグループに冗長ノードを追加
 し、スケールアップする
-
-c. グローバル HTTP(S) ロードバランサーを使って複数リージョンにトラ
+c. グローバル HTTP (S) ロードバランサーを使って複数リージョンにトラ
 フィックを分散する
-
-d. us-centrall-b にもリソースを配置し、両ゾーンで負荷分散する
-
-Learning reading speed.                           Page 72 of 204 @ 34%
-
-Ra
-us
+d. us-centrall-b にもリソースを配置し、 両ゾーンで負荷分散する
+Learning reading speed...
+Page 72 of 204 34%
+Σ

@@ -1,25 +1,19 @@
-Source: img-0102.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-102.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-TM
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 50
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 あなたは project-alpha (VPC: alpha-vpc) と project-beta (VPC: beta-vpc) という 2 つの
 Google Cloud プロジェクトを管理しています。それぞれにフロントエンドとバックエン
-ドが配置されています。効率的かつコスト効果の高い通信手段はどれですか>ぅ
-
-a.Cloud VPN を使い、VPC 問で安全な通信を行う
-b.VPC ビアリングを構成する
-
+ドが配置されています。 効率的かつコスト効果の高い通信手段はどれですか?
+a. Cloud VPN を使い、 VPC間で安全な通信を行う
+b. VPC ピアリングを構成する
 c. Cloud Router で動的ルーティングを設定する
-
 d. Cloud Interconnect で専用線を敷設する
-
-Learning reading speed.                                  Page 102of204 @ 48%
-
-us
+<
+Learning reading speed...
+Page 102 of 204 ⚫ 48%
+... ☑

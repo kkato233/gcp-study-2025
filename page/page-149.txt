@@ -1,29 +1,23 @@
-Source: img-0270.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-149.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
 d
-
 解説
-
-VM のサービスアカウントに対して、保存先バケットに「Storage Object
-Creator] 権限を付与するのが最も安全で実用的です。これにより、VM は必
-要なファイルを書き込めますが、削除や読み取りはできず、最小権限の原則
+VM のサービスアカウントに対して、 保存先バケットに 「Storage Object
+Creator」権限を付与するのが最も安全で実用的です。これにより、VM は必
+要なファイルを書き込めますが、 削除や読み取りはできず、 最小権限の原則
 を満たした構成となります。
-
 不正解の解説
-
-a.外部サーバを経由する構成はもセキュリティ・信頼性の両面で劣ります。
-
+a. 外部サーバを経由する構成はセキュリティ 信頼性の両面で劣ります。
 b. Cloud Storage は内部 DNS で直接アドレス指定できず、この構成は機能し
 ません。
-
 c. バケットをパブリックにするのはセキュリティリスクが大きく、実運用に
 は不適切です。
-
-カテゴリ : Configuring access and security
-
-Learning reading speed.                       Page 149 of 204 @ 72%
+カテゴリ: Configuring access and security
+Learning reading speed...
+Page 149 of 204
+72%
+>

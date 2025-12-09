@@ -1,35 +1,24 @@
-Source: img-0099.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-099.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 b
-
-ut
-5
-
-解説
-
+... ☑
+解說
 GKE Standard はノードの設定やスケジューリング、ネットワークポリシーなど、詳細
-な構成と運用が可能な Kubermetes 環境です。自社でインフラのコントロールを完全に
+な構成と運用が可能な Kubernetes 環境です。 自社でインフラのコントロールを完全に
 行いたい場合に最適な選択肢です。
-
 不正解の解説
-
-a.Cloud Run は管理が容易ですが、細かなノード管理はできません。
-
-c. Autopilot は運用負荷を軽減しますが、管理権限が限定されます。
-
-d. Cloud Functions はマイクロサービスの一部に適しており、全体のプラットフォーム構
+a. Cloud Run は管理が容易ですが、 細かなノード管理はできません。
+c. Autopilot は運用負荷を軽減しますが、 管理権限が限定されます。
+d. Cloud Functions はマイクロサービスの一部に適しており、 全体のプラットフォーム構
 築には不向きです。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
-
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-
-Learning reading speed.                                             Page 99 of 204 @ 47%
-
-Ra
-us
+>
+Learning reading speed...
+Page 99 of 204 47%

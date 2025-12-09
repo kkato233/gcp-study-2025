@@ -1,51 +1,39 @@
-Source: img-0007.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-010.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
-問題4
-
+... ☑
+Kindle Library
+問題 4
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
 火山観測を専門とする研究機関では、各
 地に設置された観測拠点から得られる高
 精度データをリアルタイムでクラウド上
 の解析システムに送信する仕組みを構築
-中です。ただし、和観測拠点のネットワー
-クはセキュリティ要件上、インターネッ
-ト接続を許可されておらず、パブリック
-IP の使用も制限されています。Google
+中です。ただし、観測拠点のネットワー
+クはセキュリティ要件上、 インターネッ
+ト接続を許可されておらず、 パブリック
+IP の使用も制限されています。 Google
 Cloud の推奨構成に則り、これらの拠点
 が安全に Cloud Storage ヘアクセスできる
-ようにするには、次のうちどの構成が最
-も適切ですか ?
-
-a 自社データセンターとクラウド VPC
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
+ようにするには、 次のうちどの構成が最
+も適切ですか?
+= Aa
 を VPN または Interconnect で接続し、
 Cloud Router でカスタムルートを広告、
-* googleapis.com を private 経由で解決す
+*.googleapis.com を private 経由で解決す
 るよう DNS を構成する。
-
 b. 拠点ごとに LoRaWAN ゲートウェイを
 設置し、クラウド側で受信 API を設計し
 て直接データをアップロードする構成に
 する。
-
 c. 各拠点にエッジノードを配置し、その
 ノードから Cloud Pub/Sub を使ってデー
 タを定期的にパブリック経由で送信する。
 d. クラウド側に Cloud CDN を配置し、
 キャッシュを通じてデータの取得と送信
 を間接的に行う構成にする。
-
-Page 10 of 204 @ 3%
-
-Oo
-
-Ra
-us
-
+>
+a. 自社データセンターとクラウド VPC
+Learning reading speed...
+Page 10 of 204 ⚫ 3%

@@ -1,28 +1,23 @@
-Source: img-0135.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-106.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題2
-
-新たな地域向けニュース配信プラットフォーム「GlobePulse」 を Google
-Cloud 上で立ち上げようとしているあなたは、まず仮想マシンを使ってバッ
-クエンド API をホストしたいと考えています。現時点では、このプロジェ
-クト専用の GCP プロジェクトはまだ存在していません。Compute Engine を
-利用して VM を作成するには、どのような手順を踏むのが正しいでしょう
+新たな地域向けニュース配信プラットフォーム 「GlobePulse」 を Google
+Cloud上で立ち上げようとしているあなたは、まず仮想マシンを使ってバッ
+クエンド API をホストしたいと考えています。 現時点では、このプロジェ
+クト専用の GCP プロジェクトはまだ存在していません。 Compute Engine を
+利用して VM を作成するには、 どのような手順を踏むのが正しいでしょう
 か?
-
-a. API Gateway のデプロイ画面から VM 構成テンプレートを呼び出して仮想
+a. API Gateway のデプロイ画面からVM 構成テンプレートを呼び出して仮想
 マシンを生成する
-
-b. Cloud Shell からデフォルトプロジェクトを選択し、インスタンス作成時に
+b. Cloud Shell からデフォルトプロジェクトを選択し、 インスタンス作成時に
 Compute Engine API が自動有効化されるのを待つ
-
-c. gcloud CLI で新規プロジェクトを作成し、Compute Engine API を有効化し
-てから、対象プロジェクトで VM を作成する
-
+c. gcloud CLI で新規プロジェクトを作成し、 Compute Engine API を有効化し
+てから、対象プロジェクトでVM を作成する
 d. Artifact Registry で VM イメージを事前に作成し、それを Cloud Functions
 経由で展開する
-
-Learning reading speed.                       Page 106 of 204 @ 50%
+Learning reading speed...
+Page 106 of 204 50%
+>

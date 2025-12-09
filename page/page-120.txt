@@ -1,38 +1,26 @@
-Source: img-0180.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-120.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD ASSOCIATE CLOUD ENGINEER VOL.1 【2025...
 問題9
-
-ある企業では、prod-eny と dev-environment の 2 つの GKE クラスタ (いずれ
-も Autopilot) を運用しています。kubectl でノード一覧を確認したところ、
-prod-eny のノードしか表示されません。dev-environment クラスタのノード状
-態を確認するには、どの操作を行う必要がありますかぅ
-
+ある企業では、prod-env と dev-environment の2つのGKE クラスタ(いずれ
+も Autopilot)を運用しています。 kubectl でノード一覧を確認したところ、
+prod-env のノードしか表示されません。 dev-environment クラスタのノード状
+態を確認するには、どの操作を行う必要がありますか?
 a.
 1. gcloud container clusters delete dev-environment
-
 2. kubectl get nodes
-
 b.
-
 1. gcloud container clusters get-credentials dev-environment
-2.
-
-. kubectl get nodes
-
-2°
-
-. kubectl config set-context prod-environment
-
-. kubectl get pods
-
-. gcloud container clusters describe dev-environment
-
-Re ane
-
-. kubectl get services
-
-Learning reading speed.                       Page 120 of 204 @ 57%
+2. kubectl get nodes
+C.
+1. kubectl config set-context prod-environment
+2. kubectl get pods
+d.
+1. gcloud container clusters describe dev-environment
+2. kubectl get services
+Learning reading speed...
+Page 120 of 204
+57%
+>

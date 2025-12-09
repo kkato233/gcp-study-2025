@@ -1,20 +1,18 @@
-Source: img-0426.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-200.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 49
-
 社内業務用のトランザクション処理アプリは PostgreSQL をベースに構築さ
-れています。ACID 準拠で複数テーブル間の整合性を保つ必要があり、既存
+れています。 ACID 準拠で複数テーブル間の整合性を保つ必要があり、既存
 アプリケーションの修正を最小限にしてクラウドへ移行したいと考えていま
-す。最も適切ながデータベースはどれですかぅ
-
+す。 最も適切なデータベースはどれですか?
 a. Memorystore
 b. Dataproc
-
 c. Cloud SQL
 d. Pub/Sub
-
-Learning reading speed.                       Page 200 of 204 @ 98%
+Learning reading speed...
+Page 200 of 204
+98%
+>

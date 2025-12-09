@@ -1,23 +1,20 @@
-Source: img-0205.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-128.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-問題13
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+問題 13
 あなたはヨーロッパリージョンに展開しているフィットネスアプリ
-「FitPulse」の管理者です。Compute Engine CLI を使って操作していますが、
-毎回 --zone=europe-westl-d を入力するのは手間です。gcloud コマンドで常に
-europe-westl-d を指定しなくて済むおようにするには、最も適切な方法はどれ
-TIM?
-
+「FitPulse」の管理者です。 Compute Engine CLI を使って操作していますが、
+毎回 --zone=europe-westl-d を入力するのは手間です。 gcloud コマンドで常に
+europe-westl-d を指定しなくて済むようにするには、最も適切な方法はどれ
+ですか?
 a. gcloud init を使って新しい構成を作成し、その中でゾーンを指定する
-
-b. gcloud config set core/region europe-westl を実行し、ゾーンを関連付ける
-
+b. gcloud config set core/region europe-westl を実行し、 ゾーンを関連付ける
 c. **gcloud config コマンドでデフォルトゾーンに europe-westl-d を設定する
-** d. ~/.bashre に export CLOUDSDK_COMPUTE_ZONE=europe-west1-d を書
+** d. ~/.bashrc に export CLOUDSDK_COMPUTE_ZONE=europe-westl-d` を書
 いて環境変数として設定する
-
-Learning reading speed.                       Page 128 of 204 @ 61%
+Learning reading speed...
+Page 128 of 204
+61%
+>

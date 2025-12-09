@@ -1,27 +1,25 @@
-Source: img-0067.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-071.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-   GOOGLE CLOUD 認定資格ASSOCIATE CLOUD ENGINEER 実…  = Aa O 83
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 b
 解説
-
-「g1-ulra-96」 (仮称) のような高 vCPU 構成のマシンタイプを初めから選ぶぶことで、要
-求される 96yCPU を一台で効率よく確保できます。Google Cloud では事前定義されたマ
+「gl-ultra-96」(仮称) のような高 vCPU 構成のマシンタイプを初めから選ぶことで、要
+求される 96vCPU を一台で効率よく確保できます。 Google Cloud では事前定義されたマ
 シンタイプを利用することが、すぐに最適性能を発揮するための標準的な方法です。
-
 不正解の解説
-a 複数人台に分けた構成は運用・管理コストが増大し、パフォーマンス保証も難しいです。
-c. 小規模 VM からのスケールアップは停止を伴うため、即時の性能確保には不向きで
-
+a. 複数台に分けた構成は運用・管理コストが増大し、パフォーマンス保証も難しいです。
+c. 小規模 VM からのスケールアップは停止を伴うため、 即時の性能確保には不向きで
 す。
-d. CPU アーキテクチャ指定は性能に影響しますが、yvCPU 数とは別設定であり、即時要
-
->     件充足には不十分です。                                                  la
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
-
+d. CPU アーキテクチャ指定は性能に影響しますが、 vCPU数とは別設定であり、 即時要
+件充足には不十分です。
+... ☑
+<
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-
-Learning reading speed.                               Page 71 of 204 @ 34%
+Learning reading speed...
+Page 71 of 204 ● 34%

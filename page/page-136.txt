@@ -1,26 +1,22 @@
-Source: img-0229.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-136.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
-問題17
-
-フードデリバリーアプリ 「QuickBites」は、Google Cloud の App Engine を利
-用して us-centrall リージョンにデプロイされています。アジア    ユーザー
-増加により、asia-northeastt リージョンからもアプリを提供したいと考えて
-います。どのように対応すべきでしょうかぅ
-
-a. Cloud Functions に移行し、トラフィックの発生元に応じて地域を切り替え
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+問題 17
+フードデリバリーアプリ「QuickBites」 は、 Google Cloud の App Engine を利
+用して us-centrall リージョンにデプロイされています。 アジア圏のユーザー
+増加により、 asia-northeast1 リージョンからもアプリを提供したいと考えて
+います。どのように対応すべきでしょうか?
+a. Cloud Functions に移行し、 トラフィックの発生元に応じて地域を切り替え
 る構成にする
-
 b. App Engine アプリを Cloud Run に再デプロイし、マルチリージョン構成を
 設定する
-
 c. 新しい GCP プロジェクトを作成し、そこで App Engine アプリケーション
-を asia-northeastl にデプロイする
-
-d. Cloud Load Balancing でリージョン間の分散を構成し、App Engine の配置
+を asia-northeast1 にデプロイする
+d. Cloud Load Balancing でリージョン間の分散を構成し、 App Engine の配置
 リージョンを自動調整する
-
-Learning reading speed.                       Page 136 of 204 @ 65%
+>
+Learning reading speed...
+Page 136 of 204
+65%

@@ -1,28 +1,24 @@
-Source: img-0357.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-177.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+C
 解説
-
 Google Cloud Monitoring (旧 Stackdriver) では、「ワークスペース」を使うこ
-とで複数の GCP プロジェクトを 1 つの監視ビューにまとめることが可能で
-す。Apollo プロジェクトでワークスペースを作成し、Luna と Nova をその
-ワークスペースに追加すれば、3 プロジェクトにまたがるリソースのモニタ
-リングが統合的に可能になります。CPU やメモリ、ディスクなどのリソー
-ス使用状況を一元的に可視化でき、管理効率が大幅に向上します。
-
+とで複数の GCP プロジェクトを1つの監視ビューにまとめることが可能で
+す。Apollo プロジェクトでワークスペースを作成し、 Luna と Nova をその
+ワークスペースに追加すれば、 3 プロジェクトにまたがるリソースのモニタ
+リングが統合的に可能になります。 CPUやメモリ、ディスクなどのリソー
+ス使用状況を一元的に可視化でき、 管理効率が大幅に向上します。
 不正解の解説
-
-a, 通知構成だけではメトリクスの統合管理やダッシュボードの一括表示はで
+a. 通知構成だけではメトリクスの統合管理やダッシュボードの一括表示はで
 きません。
-
-b. TAM ロールの割り当ては権限管理であり、統合的な監視環境の構築には
+b. IAM ロールの割り当ては権限管理であり、 統合的な監視環境の構築には
 不十分です。
-
-d 単なるリンク集ではリアルタイムの一括監視や分析には対応できません。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                       Page 177 of 204 @ 86%
+d. 単なるリンク集ではリアルタイムの一括監視や分析には対応できません。
+>
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 177 of 204 86%

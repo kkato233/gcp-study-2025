@@ -1,31 +1,24 @@
-Source: img-0351.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-175.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
-c
-
+C
 解説
-
 BigQuery のオンデマンド料金モデルでは、実際に「スキャンされたデータ
-量」に基づいて料金が発生します。--dry_rn フラグを使用してクエリをド
+「量」に基づいて料金が発生します。 --dry_run フラグを使用してクエリをド
 ライラン実行すれば、クエリ自体を実行せずにスキャン予定のバイト数を確
 認できます。そのバイト数を Google の Pricing Calculator に入力することで、
 正確な料金予測が可能になります。
-
 不正解の解説
-
-a スキーマからの手計算ではデータ圧縮率や NULL の存在などが考慮され
+a. スキーマからの手計算ではデータ圧縮率や NULL の存在などが考慮され
 ず、精度が低いです。
-
 b. パーティション設計は効率化には有効ですが、コスト見積もり手段として
 は間接的すぎます。
-
-d 実行済みクエリのコストは参考にはなりますが、事前見積もりの目的には
+d. 実行済みクエリのコストは参考にはなりますが、 事前見積もりの目的には
 適していません。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                       Page 175 of204 @ 85%
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 175 of 204 85%
+>

@@ -1,52 +1,33 @@
-Source: img-0044.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-047.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 正解
-
-c
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+不正解の解説
+= Aa
+☐ ☑
+... ☑
+C
 解説
-
 オンプレミス環境から Google Cloud API
 にアクセスする場合、サービスアカウン
-トとその鍵ファイル (JSON 形式) を
+トとその鍵ファイル (JSON 形式)を
 使った認証が公式に推奨されています。
-
 この方式は、アプリケーションが非対話
 的に API を呼び出すシナリオに適してお
 り、適切な権限管理や鍵のローテーショ
 ンも可能です。
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
-FRIESE HBL
-
-a パスワード埋め込みはセキュリティ上
+a. パスワード埋め込みはセキュリティ上
 極めて危険で、認証のベストプラクティ
 スではありません。
-
-b. TP 制限はネットワーク制御であり、
+b. IP 制限はネットワーク制御であり、認
 証の代替にはなりません。
-
-dす ユーザートークンの流用はライフサイ
+d. ユーザートークンの流用はライフサイ
 クルや権限制御が不明確で、安全な方法
 とは言えません。
-
-1
-Be
-
-カテゴリ : Configuring access and security
-
-Page 47 of 204 @ 22%
-
-Ra
-us
-
+カテゴリ: Configuring access and security
+>
+Learning reading speed...
+Page 47 of 204● 22%

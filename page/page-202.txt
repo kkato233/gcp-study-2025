@@ -1,25 +1,21 @@
-Source: img-0432.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-202.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題 50
-
-ある企業では、新しいフリーランサー向け SNS アプリケーションを仮想マ
-シンベースで稼働させる計画です。このアプリはステートレ     で、アク
+ある企業では、 新しいフリーランサー向け SNS アプリケーションを仮想マ
+シンベースで稼働させる計画です。このアプリはステートレス設計で、アク
 セス増加に応じて自動でインフラが拡張・縮小できる仕組みが求められてい
-ます。最も適した構成はどれですか ?
-
+ます。 最も適した構成はどれですか?
 a. マネージドインスタンスグループにデプロイし、オートスケーリングを設
 定する
-
 b. Cloud Storage にコードを保存し、ユーザーごとに Cloud Function をトリ
 ガーする
-
-c. 仮想マシンに手動で複数インスタンスを作成し、負荷状況に応じて手動で
+c. 仮想マシンに手動で複数インスタンスを作成し、 負荷状況に応じて手動で
 スケールする
-
 d. AppSheet で UI を作成し、アクセスに応じて手動で VM 数を増やす
-
-Learning reading speed.                       Page 202of204 @ 99%
+Learning reading speed...
+Page 202 of 204
+99%
+>

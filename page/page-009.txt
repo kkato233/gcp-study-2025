@@ -1,28 +1,31 @@
-Source: img-0006.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-009.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-us
-
-   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 打 €
-
-正解                      a. カスタムテンプレートはあれば便利で      Q
-b                         TAS VM 作成の前提ではありません。
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+E: Aa
+☐ ☑
+正解
+b
+解説
+a. カスタムテンプレートはあれば便利で
+すが、VM 作成の前提ではありません。
 c. フローログ出力はネットワーク設定後
-解説                                 に必要であり、最初のステップには含ま
-
-gcloud CLI から Compute Engine リソース      れません。
-
-(VM など) を作成するには、まず関連 —d. Cloud Scheduler の権限はこの作業とは
-
-API (compute.googleapis.com) を有効化       無関係で、不要な準備です。
-
-しておく必要があります。この設定が行
-
-われていないと、CLI 経由のすべての     カテゴリ : Setting up a cloud solution
-、、 Compute操作が失敗します。                       environment                                           へ
-
+に必要であり、 最初のステップには含ま
+れません。
+d. Cloud Scheduler の権限はこの作業とは
+無関係で、不要な準備です。
+カテゴリ: Setting up a cloud solution
+environment
+gcloud CLI から Compute Engine リソース
+(VM など)を作成するには、まず関連
+API (compute.googleapis.com)を有効化
+しておく必要があります。 この設定が行
+われていないと、 CLI 経由のすべての
+Compute 操作が失敗します。
+<
 不正解の解説
-
-Learning reading speed.                                              Page 9 of 204 @ 3%
+Learning reading speed...
+Page 9 of 204 3%
+... ☑

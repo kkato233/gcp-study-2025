@@ -1,25 +1,19 @@
-Source: img-0077.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-078.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-mM
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
 問題 38
-
-フィンテック企業「EduPrime」は、Cloud Spanner を利用して教育プラットフォームを
-運用しています。パフォーマンス改善のため、リソース追加のタイミングを適切に判断
-したいと考えています。 どの条件でアクションを起こすのがベストですかぅ
-
-a. CPU 使用率が 50% を超えたらクエリキャッシュをリフレッシュする
-b.CPU 使用率が 50% を超えたらインデックスを再構築する
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+Aa
+フィンテック企業 「EduPrime」 は、 Cloud Spanner を利用して教育プラットフォームを
+運用しています。 パフォーマンス改善のため、リソース追加のタイミングを適切に判断
+したいと考えています。 どの条件でアクションを起こすのがベストですか?
+a. CPU 使用率が50% を超えたらクエリキャッシュをリフレッシュする
+b. CPU 使用率が50% を超えたらインデックスを再構築する
 c. CPU 使用率が 80% を超えたらクエリパラメータを調整する
-
-d. CPU 使用率が 65% を超えたらノードを追加
-
-Learning reading speed.                                             Page 78 of 204 @ 37%
-
-us
+d. CPU 使用率が65% を超えたらノードを追加
+<
+Learning reading speed...
+Page 78 of 204● 37%
+... ☑

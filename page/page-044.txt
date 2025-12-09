@@ -1,45 +1,33 @@
-Source: img-0041.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-044.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+Kindle Library
 問題 21
-
-医療データ 可視化アプリケーションを提
-供する「MediViz」は、App Engine 上で
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+医療データ可視化アプリケーションを提
+供する「MediViz」 は、 App Engine 上で
 稼働しているサービスから、他部門が所
 有する別プロジェクトの BigQuery デー
 タセットに対してクエリを実行し、結果
-を読み取る必要があります。適切な権限
+を読み取る必要があります。 適切な権限
 設定として最も正しい対応はどれです
-Dp?
-
-a 自チームのサービスアカウントに
-BigQuery Admin を付与し、すべてのプロ
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
+か?
+a. 自チームのサービスアカウントに
+BigQuery Admin を付与し、 すべてのプロ
 ジェクトにアクセス可能にする
-
+E: Aa ☐ ☑
 b. 自チームのサービスアカウントを相手
 プロジェクトの IAM 設定から除外し、
 セキュリティ強化を図る
-
-c.相手チームに BigQuery Data Viewer
+c. 相手チームに BigQuery Data Viewer
 ロールをサービスアカウントに付与して
 もらう
-
 d. App Engine 上で使用するサービスアカ
-ウントにてCloud SQL Viewer ロールを割り
+ウントに Cloud SQL Viewer ロールを割り
 当て、データ連携を行う
-
-Page 44 of204 @ 20%
-
-Oo
-
-Ra
-us
-
+<
+Learning reading speed...
+Page 44 of 204● 20%
+>

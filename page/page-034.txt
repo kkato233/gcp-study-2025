@@ -1,40 +1,32 @@
-Source: img-0032.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-034.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... ☑
+Kindle Library
 問題16
-
-航空物流システム「AeroTrack」では、
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+航空物流システム 「AeroTrack」では、
 フライト在庫情報を管理するサーバーが
-Compute Engine 上で稼働しており、UDP
+Compute Engine上で稼働しており、 UDP
 636 番ポートを使った TLS 通信を受信し
-ています。各空港拠点からこのボポートへ
+ています。 各空港拠点からこのポートへ
 のアクセスを許可するために必要な
 Google Cloud の構成として、最も適切な
-ものはどれですか ぅ
-
-a. UDP ポート 636 で受信を許可する VM
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
-
+ものはどれですか?
+= Aa
 ローカルファイアウォール設定を行う
-
 b. allow-udp-636 という名前の Cloud
-Router を作成し、UDP トラフィックの伝
-描を制御する
-
-c. Cloud NAT を構成し、UDP 636 番ポボー
+Router を作成し、 UDP トラフィックの伝
+播を制御する
+c. Cloud NAT を構成し、 UDP 636 番ポー
 トのインターネットアクセスを許可する
 d. VM に任意のネットワークタグを追加
 し、そのタグに対して UDP の 636 番
-ボートを許可するインバウンドファイア
+ポートを許可するインバウンドファイア
 ウォールルールを作成する。
-
-Page 34 of 204 @ 15%
-
-Aa 0
-
+☐ ☑
+<
+a. UDP ポート 636で受信を許可する VM
+Learning reading speed...
+Page 34 of 204 15%

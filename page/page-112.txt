@@ -1,25 +1,21 @@
-Source: img-0155.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-112.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題5
-
 レシピ共有サイト「フーディファイ」は、CPU 使用率に応じて自動スケー
-ルするウェブアプリを構築予定です。画像などの静的コンテンツは Cloud
+ルするウェブアプリを構築予定です。 画像などの静的コンテンツは Cloud
 Storage に保存し、トラフィックを効率的に分散・配信したいと考えていま
-す。最も適切な構成はどれですか ?
-
-a. 外部 HTTP(S) ロードバランサ+マネージド SSL + URL マップで Cloud
+す。 最も適切な構成はどれですか?
+a. 外部 HTTP(S) ロードバランサ+ マネージド SSL + URL マップで Cloud
 Storage を静的コンテンツバックエンドとして設定
-
 b. 外部 TCP ロードバランサ+専用プロキシサーバを介して Cloud Storage か
 らファイル配信
-
-c. 内部 HTTP ロードバランサを用い、IAP でアクセス制御を行う構成
-
-d. 外部 HTTP(S) ロードバランサ+ URL マップ+各 Compute Engine インスタ
+c. 内部 HTTP ロードバランサを用い、 IAP でアクセス制御を行う構成
+d. 外部 HTTP(S) ロードバランサ+ URL マップ + 各 Compute Engine インスタ
 ンスに手動で SSL 証明書を配置
-
-Learning reading speed.                       Page 112 of 204 @ 53%
+Learning reading speed...
+Page 112 of 204
+53%
+>

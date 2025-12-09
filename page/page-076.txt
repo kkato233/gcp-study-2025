@@ -1,32 +1,24 @@
-Source: img-0075.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-076.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+Kindle Library
 問題 37
-
-旅行ガイド共有サービス 「TripPages」は、観光シーズンにアクセスが集中する傾向が
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa ☐
+... ☑
+旅行ガイド共有サービス「TripPages」 は、 観光シーズンにアクセスが集中する傾向が
 あり、Cloud Spanner を使用したバックエンドの負荷に対応するため、スケーリングを
-自動化したいと考えています。特に CPU 使用率が一定値を超えた場合、自動でリソー
-スを拡張する仕組みを構築するには、どの方法が最適ですか ?
-
-a. Cloud Scheduler で 30 分ごとに CPU 使用率を確認し、超過時はエンジニアに Slack 通
+自動化したいと考えています。 特に CPU 使用率が一定値を超えた場合、 自動でリソー
+スを拡張する仕組みを構築するには、どの方法が最適ですか?
+a. Cloud Scheduler で 30分ごとに CPU 使用率を確認し、超過時はエンジニアに Slack 通
 知を送る構成を作成する
-
 b. Cloud Monitoring のメトリクスを日次で BigQuery にエクスポートし、分析結果を元に
 手動でスケーリングする
-
-c. Cloud Monitoring のアラートがwebhook を呼び出し、Cloud Function 経由でスケーリン
+c. Cloud Monitoring のアラートが webhook を呼び出し、Cloud Function 経由でスケーリン
 グを自動化する
-
 d. Cloud Logging のログを Storage に保存し、ログサイズが一定を超えたら通知をトリ
 ガーに手動でインスタンスを追加する
-
-Learning reading speed.                                             Page 76 of 204 @ 36%
-
-Ra
-us
+>
+Learning reading speed...
+Page 76 of 204.36%

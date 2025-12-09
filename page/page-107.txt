@@ -1,35 +1,26 @@
-Source: img-0139.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-107.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
-c
-
+C
 解説
-
 GCP では、リソースの作成前にプロジェクトが必要です。
-
 gcloud projects create でプロジェクトを作成し、
-
-gcloud services enable compute.googleapis.com で Compute Engine API を有効化、
+gcloud services enable compute.googleapis.com Compute Engine API.
 gcloud compute instances create を使って VM を作成する、
-
-という手順が公式に推奨されています。明示的に段階を踏むことでエラーを
+という手順が公式に推奨されています。 明示的に段階を踏むことでエラーを
 回避し、安定した環境構築が可能です。
-
 不正解の解説
-
-a. API Gateway は HTTP サービス公開のためのもので、Compute Engine の
+a. API Gateway は HTTP サービス公開のためのもので、 Compute Engine の
 VM とは直接関係しません。
-
-b. 自動有効化に頼る方法は信頼性に欠け、設定ミスやプロジェクト権限不足
+b. 自動有効化に頼る方法は信頼性に欠け、 設定ミスやプロジェクト権限不足
 の原因になります。
-
 d. Artifact Registry と Cloud Functions はコンテナやイベント駆動処理に関する
 もので、VM 作成には関係がありません。
-
-カテゴリ : Setting up a cloud solution environment
-
-Learning reading speed.                       Page 107 of 204 @ 50%
+カテゴリ: Setting up a cloud solution environment
+>
+Learning reading speed...
+Page 107 of 204
+50%

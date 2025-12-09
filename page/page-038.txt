@@ -1,46 +1,37 @@
-Source: img-0036.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-038.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
-Learning reading speed.
-
+... B
+>
+Kindle Library
 問題 18
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
 国際会議向けのライブ配信システムを運
-営する「SreamNex」は、配信拠点で稼
+営する 「StreamNex」 は、 配信拠点で稼
 働する Apache サーバーのネットワーク
 送信にかかるコストが月に $100 を超え
 た際に、関係者に自動でメール通知した
-いと考えています。対象は特定のサー
+いと考えています。 対象は特定のサー
 バーのみであり、他のリソースの費用は
-含めたくありません。最も精度が高く、
-適切な対応方法はどれですか ?
-
+含めたくありません。 最も精度が高く、
+適切な対応方法はどれですか?
+<
 a. Pub/Sub にネットワーク転送イベント
-を発行し、Apache 用サブプスクリプショ
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
+を発行し、Apache 用サブスクリプショ
 ンで料金情報を抽出して通知する。
-
+Aa
+☐ ☑
 b. Apache サーバーに監視エージェント
-をインストールし、転送バイト数をロー
+をインストールし、 転送バイト数をロー
 カルで集計して月末にレポート送信する。
 c. 課金データを BigQuery にエクスポー
-トし、Apache のネットワーク送信量を
-集計 す る Cloud Function を Cloud
-Scheduler で毎時実行し、超過時にメール
+トし、 Apache のネットワーク送信量を
+集計する Cloud Function を Cloud
+Scheduler で毎時実行し、 超過時にメール
 送信する。
-
 d. VPC フローログを収集して Storage に
-保管し、Cloud Dataflow で料金推定を
+保管し、 Cloud Dataflow で料金推定を
 行って通知するバッチを構成する。
-
-Page 38 of 204 @ 17%
-
-Oo
-
-a
-き
+Learning reading speed...
+Page 38 of 204 ⚫ 17%

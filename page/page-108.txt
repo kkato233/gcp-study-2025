@@ -1,27 +1,20 @@
-Source: img-0142.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-108.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 問題3
-
-あなたは、ある小売系スタートアップの e コマース基盤を gcloud CLI で操作
-する担当者です。社内プロキシの使用が必須ですが、セキュリティ要件とし
-てプロキシ認証情報 (ユーザー名とパスワード) をログに出力させたくあり
-ません。安全に設定するにはどうすべきでしょうかぅ
-
-a. gcloud config set proxy/username と gcloud config set proxy/password コマンド
-を使って設定ファイフ    証情報を保存する
-
-b. 認証情報を SHA-256 でハッシュ化し、証明書用設定ファイルに保存して
+あなたは、ある小売系スタートアップのeコマース基盤を gcloud CLI で操作
+する担当者です。 社内プロキシの使用が必須ですが、 セキュリティ要件とし
+てプロキシ認証情報 (ユーザー名とパスワード)をログに出力させたくあり
+ません。安全に設定するにはどうすべきでしょうか?
+a. gcloud config set proxy/username & gcloud config set proxy/password
+を使って設定ファイルに認証情報を保存する
+b. 認証情報を SHA-256 でハッシュ化し、 証明書用設定ファイルに保存して
 参照させる
-
 c. システムの環境変数として CLOUDSDK_PROXY_USERNAME および
 CLOUDSDK_PROXY_PASSWORD を設定する
-
-d. 認証情報を直接 </.config/gcloud/configurations/config_default に手書きする
-
-Learning reading speed.                       Page 108 of 204 @ 51%
-
-(>)
+d. 認証情報を直接 ~/.config/gcloud/configurations/config_default に手書きする
+Learning reading speed...
+Page 108 of 204● 51%
+>

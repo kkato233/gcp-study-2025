@@ -1,30 +1,23 @@
-Source: img-0171.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-117.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
 正解
-
-c
-
+C
 解説
-
 HPA を使ってリクエスト負荷に応じた Pod 数の自動スケーリングを行い、
-可用性を維持します。一方で VPA を提案モードで設定すると、個々の Pod
-に最適な CPU やメモリサイズを推奨してくれるため、リソース利用効率も
+可用性を維持します。 一方で VPA を提案モードで設定すると、 個々の Pod
+に最適な CPUやメモリサイズを推奨してくれるため、 リソース利用効率も
 向上し、運用負荷を軽減できます。
-
 不正解の解説
-
-a.ノードのみ調整しても Pod のリソース割り当てが固定では柔軟性が不足し、
+a. ノードのみ調整しても Podのリソース割り当てが固定では柔軟性が不足し、
 可用性の最適化には不十分です。
-
 b. 手動設定とレビューでは頻繁な変動に対応できず、人的エラーも発生しや
 すくなります。
-
-d. 手動チューニングは運用コストが高く、自動的なスケーリングと提案機能
+d. 手動チューニングは運用コストが高く、 自動的なスケーリングと提案機能
 を活用できない構成です。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                       Page 117 of 204 @ 56%
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 117 of 204 56%
+>

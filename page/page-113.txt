@@ -1,27 +1,23 @@
-Source: img-0158.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-113.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
-
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1 【2025年…
+正解
+a
 解説
-
 Cloud Storage を静的コンテンツのバックエンドとして外部 HTTP(S) ロード
 バランサに設定し、マネージド SSL 証明書を利用することで、効率的かつ
-安全にコンテンツ配信が可能です。これにより Compute Engine の負荷を軽
+安全にコンテンツ配信が可能です。 これにより Compute Engine の負荷を軽
 減できます。
-
 不正解の解説
-
 b. TCP ロードバランサは L4 で URL ルーティングができず、静的ファイル
 配信には不向きです。
-
 c. 内部ロードバランサはインターネット公開向けではありません。
-
+>
 d. SSL 証明書を各インスタンスに手動設定すると管理負荷が大きくなります。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
-
-acloud solution
-
-Learning reading speed.                       Page 113 of 204 @ 54%
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
+a cloud solution
+Learning reading speed...
+Page 113 of 204
+54%

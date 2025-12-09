@@ -1,33 +1,24 @@
-Source: img-0053.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-057.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
-
-c
-
-ut
-5
-
+C
+... ☑
 解説
-
-Automatic Scalins はリクエストトラフィックに応じたスケーリングに対応しており、
+Automatic Scaling はリクエストトラフィックに応じたスケーリングに対応しており、
 min_idle_instances を 4 に設定することで、少なくとも4つのアイドルインスタンスを常
 時維持し、急なアクセスにも即応できる状態を保ちます。
-
 不正解の解説
-a. Manual Scaling はスケーリングが無効で、突発的なトラフィックに和柔軟に対応できま
+a. Manual Scaling はスケーリングが無効で、 突発的なトラフィックに柔軟に対応できま
 せん。
-
 b. idle_timeout は稼働時間を延ばすだけで、リクエスト数に応じたスケーリングや待機
 数の保証にはなりません。
-へ       d. Flexible Environment は構成が複雑でコストも高く、スケーリング制御には不向きです。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                               Page 57 of 204 @ 27%
-
-Ra
-us
+d. Flexible Environment は構成が複雑でコストも高く、スケーリング制御には不向きです。
+<
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 57 of 204● 27%

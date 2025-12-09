@@ -1,34 +1,23 @@
-Source: img-0101.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-101.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
 b
-
-mM
-5
-
-Hee
-
+... ☑
+解說
 Pub/Sub は高いスループットと自動スケーリングを持つメッセージングサービスであり、
-
 Cloud Functions と組み合わせることでリアルタイムにイベント処理が可能です。大量の
-票データが発生しても柔軟に対応でき、遅延なく集計が行えます。
-
+投票データが発生しても柔軟に対応でき、遅延なく集計が行えます。
 不正解の解説
-
-a.Firestore と Cloud Functions の定期実行はリアルタイム性に欠けます。
-
-c. 専用インスタンスは負荷増加時にスケールできず、処理遅延のリスクがあります。
-d.JSON ファイルのバッチ処理は即時性がなく、ユーザー体験を損ないます。
-
-カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
-
+a. Firestore と Cloud Functions の定期実行はリアルタイム性に欠けます。
+c. 専用インスタンスは負荷増加時にスケールできず、 処理遅延のリスクがあります。
+d. JSON ファイルのバッチ処理は即時性がなく、ユーザー体験を損ないます。
+<
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-
-Learning reading speed.                                Page 101 of204 @ 48%
-
-Ra
-us
+Learning reading speed...
+Page 101 of 204 ● 48%

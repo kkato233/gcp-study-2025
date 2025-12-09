@@ -1,35 +1,25 @@
-Source: img-0073.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-075.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-ut
-5
-
-             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
+Kindle Library
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+Aa
 正解
-
 a
-
+<
+... ☑
 解説
-Cloud Monitoring では仮想マシンの CPU 使用率を含む各種メトリクスを自動収集でき、
+Cloud Monitoring では仮想マシンのCPU使用率を含む各種メトリクスを自動収集でき、
 ワークスペース上でアラートポリシーを構成するだけでしきい値超過時の通知が可能で
-す。メール通知先も簡単に設定でき、標準機能として信頼性・保守性ともに高い方法で
-す
-
+す。メール通知先も簡単に設定でき、 標準機能として信頼性・保守性ともに高い方法で
+す。
 不正解の解説
-
 b. 手動確認は即時対応が不可能で、監視の目的を果たせません。
-
-c. スクリプトによる Slack 連携は初期開発・保守の負担が大きく、標準機能で代替可能
+c. スクリプトによる Slack 連携は初期開発・保守の負担が大きく、 標準機能で代替可能
 です。
-
-d. 外部ログサービスの連携はコストや運用の複雑化を招き、標準監視機能を活用した方
+d. 外部ログサービスの連携はコストや運用の複雑化を招き、 標準監視機能を活用した方
 が効率的です。
-
-カテゴリ : Ensuring successful operation of a cloud solution
-
-Learning reading speed.                                             Page 75 of 204 @ 35%
-
-Ra
-us
+カテゴリ: Ensuring successful operation of a cloud solution
+Learning reading speed...
+Page 75 of 204.35%

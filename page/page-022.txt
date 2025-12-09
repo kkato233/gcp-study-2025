@@ -1,42 +1,31 @@
-Source: img-0020.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-022.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+Kindle Library
 問題 10
-
+<
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
+E: Aa
+☐ ☑
 海底ケーブルの運用を行う国際通信会社
-TSubmaNet| では、試験用の Google
+「SubmaNet」では、 試験用の Google
 Cloud プロジェクトで作成したカスタム
 IAM ロールを、本番運用中の別プロジェ
 クトにそのまま適用したいと考えていま
-す。作業は迅速に完了させる必要があり
-ます。この要件を最も効率的に満たす方
-法はどれですか?ぅ
-
+す。 作業は迅速に完了させる必要があり
+ます。 この要件を最も効率的に満たす方
+法はどれですか?
 a. GCP 管理コンソールで IAM ポリシー
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
-
 の JSON をエクスポートし、手動で対象
 プロジェクトに貼り付けて適用する。
-
-b. gcloud iam roles copy を使用し、本番プ
+b. gcloud iam roles copy を使用し、 本番プ
 ロジェクトを宛先として指定する。
-
 c. Cloud Shell でエディタを起動し、
 YAML 形式でロール定義を再記述してデ
 プロイする。
-
 d. Terraform 構成を新規作成し、手作業
 でカスタムロールを定義して apply する。
-
-Page 22 of204 @ 10%
-
-Oo
-
-a
-き
+Learning reading speed...
+Page 22 of 204● 10%
+... B

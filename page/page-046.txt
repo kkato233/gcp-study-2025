@@ -1,44 +1,31 @@
-Source: img-0043.png
-OCR Method: Tesseract OCR (jpn+eng)
+Source: page-046.png
+OCR Method: Google Cloud Vision API
 ================================================================================
 
-W Kindle Library
-
+... B
+Kindle Library
 問題 22
-
-金融系のレポボート生成システムをオンプ
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+金融系のレポート生成システムをオンプ
 レミス環境で運用している企業
-「Einovate」は、AutoML などの Google
+[Finovate] AutoML
+Google
 Cloud API をアプリケーションから呼び
-出す必要があります。安全かつ確実に認
+出す必要があります。 安全かつ確実に認
 証を行う方法として、最も適切なのはど
-れですか ?
-
-a.アプリに Google Cloud ユーザーのパス
-ワードを埋め込み、OAuth トークンを発
-
-Learning reading speed.
-
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
-
-mM
-5
-
+れですか?
 行して使用する
-
-b.オンプレミスの IP アドレスを vec
+Aa ☐ ☑
+b. オンプレミスの IP アドレスをVPC
 ファイアウォールで許可し、アクセス元
 を制限することで認証代わりとする
-
 c. 適切な権限を持つサービスアカウント
 の鍵ファイルを作成して利用する
-
 d. Cloud Identity 経由で一度ログインした
 ユーザーのトークンをキャッシュし、そ
 れをアプリに流用する
-
-Page 46 of 204 @ 21%
-
-Ra
-us
-
+<
+a. アプリに Google Cloud ユーザーのパス
+ワードを埋め込み、 OAuth トークンを発
+Learning reading speed...
+Page 46 of 204 21%
