@@ -1,0 +1,28 @@
+Source: img-0306.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+kubectl describe pod コマンドを使用して PENDING 状態の Pod の詳細を確認
+することで、スケジューラがその Pod をノードに割り当てられない理由
+(リソーメス不足、ノード制約、Affinity 条件の不一致など) META ET
+スケジューリングフェーズの課題は Pod 単位で直接確認するのが最も効率
+的です。
+
+不正解の解説
+
+a. PodDisruptionBudget は主に Pod の強制削除や再起動制限時に影響するもの
+で、スケジューリングの課題には直接関係しません。
+
+b. ReplicaSet の世代は Deployment 更新の反映に関係しますが、PENDING 状
+散の原因特定には直結しません。
+
+d. DNS 名や Service Discovery は、Pod が稼働している前提の通信課題に関係
+し、スケジューリング段階の PENDING には関係ありません。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 161 of 204 @ 78%

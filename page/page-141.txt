@@ -1,0 +1,29 @@
+Source: img-0244.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+a
+
+解説
+
+GCP コンソールから Windows インスタンスに対してユーザーを作成し、
+RDP クライアントを使用して接続するのが、公式に推奨される最も簡単で
+安全な接続方法です。必要なポート (3389) も自動で設定できます。
+
+不正解の解説
+
+b. Chrome リモートデスクトップは追加のソフトと設定が必要であり、初其
+接続としては類雑です。
+
+c. 外部 USB 経由の認証は標準的な方法ではなく、セキュリティや操作性に
+課題があります。
+
+d. 自作ツールによる API 経由接続は運用リスクが高く、管理者以外には推
+奨されません。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 141 of 204 @ 68%

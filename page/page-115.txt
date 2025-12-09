@@ -1,0 +1,28 @@
+Source: img-0165.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+300TB の動画には物理転送デバイスである Transfer Appliance が最適。
+Redshift から BigQuery へのデータ移行には専用の BigQuery Data Transfer
+Service が推奨されます。S3 からの PNG ファイルは Storage Transfer Service
+で対応可能です。
+
+不正解の解説
+
+a. USB ドライブや FIP は大容量・大量データ転送には非効率で信頼性も低
+いです。
+
+c.API 経由の一括アップロードは大容量動画には現実的ではありません。
+
+d. Dataflow の動画分割は複雑かつ非効率で、CSV エクスポートは手作業が
+増えます。
+
+カテゴリ :Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 115 of 204 @ 55%

@@ -1,0 +1,48 @@
+Source: img-0015.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+c
+
+解説
+
+Kubernetes の設定は kubectl config コマン
+ドで管理されており、use-context で確認
+対象の環境に切り替えた後、config view
+を実行することで、そのクラスタに関す
+る詳細な構成 (エンドボポイント、ユー
+ザー情報、名前空間など) を簡単に確認
+できます。
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+不正解の解説
+
+a. ノード上のログではクラスタ全体の構
+成は確認できず、手間もかかります。
+
+b. Helm チャートはアプリ構成用であり、
+クラスタ設定の確認には適しません。
+
+d. Terraform の状態ファイルからの読み
+取りは非効率かつ構成の一部しか把握で
+きません。
+
+カテゴリ : Ensuring successful operation of
+
+a cloud solution
+
+Page 17 of 204 @ 7%
+
+Ra
+us
+

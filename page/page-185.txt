@@ -1,0 +1,30 @@
+Source: img-0383.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+a
+
+解説
+
+Google アカウントを持たない契約者への Compute Engine アクセスには、
+SSH 鍵認証が最適です。契約者が自分で鍵を生成しあなたがその公開鍵
+を VM に登録することで、秘密鍵を契約者のみが保持するセキュアなアク
+セスが可能になります」
+
+不正解の解説
+
+b 秘密鍵をあなたが生成・共有する方法は、秘密鍵漏洩リスクが高く非推奨
+です。
+
+c. IAP 経由の接続には Google アカウントか必要であり、契約者には適用で
+きません。
+
+d. 一時ユーザー+ Cloud Shell は Google アカウントが前提で、要件を満たし
+ません。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                       Page 185 of 204 @ 90%

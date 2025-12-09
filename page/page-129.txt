@@ -1,0 +1,26 @@
+Source: img-0208.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+gcloud config set compute/zone europe-westl-d を実行することで、以降の
+Compute Engine 関連コマンドでゾーン指定を省略でき、CLI 操作が簡略化さ
+HEF, Google が推奨する正式な方法です。
+
+不正解の解説
+
+a. gcloud init は構成セットアップ向けですが、虐存構成にゾーンを恒久的に
+設定する用途には不向きです。
+
+b. core/region の設定はゾーン決定とは異なり、ゾーンの指定とは関連性があ
+りません。
+
+d. 環境変数によるゾーン設定は一時的であり、すべての geloud サブコマン
+ドに対して確実に適用されるわけではありません。
+
+カテゴリ : Setting up a cloud solution environment
+
+Learning reading speed.                       Page 129 of 204 @ 62%

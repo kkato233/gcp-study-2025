@@ -1,0 +1,37 @@
+Source: img-0280.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 25
+
+あるアパレルデザインプラットフォームで、特定のテーブルに対する読み取
+り遅延が発生しています。 以下のようなテーブル設計です。データは主に
+designer_id を使っつてアクセスされています。最も効果的な改善策はどれです
+かぅ
+
+CREATE TABLE Designers (
+designer_id INT64 NOT NULL,
+signup_date DATE,
+
+first_name STRING(255),
+last_name STRING(255),
+birth_date DATE,
+
+avatar_image BYTES(255)
+
+) PRIMARY KEY (designer_id)
+
+a.signup_date に対してフィルタをかけるクエリを増やし、スキャン範囲を狭
+めるようアプブリ側で調整する
+
+b. avatar_image カラムを JSON に変換し、文字列として格納することで列圧
+縮率を上げる
+
+c.各レコードに読み取り頻度のメタデータを追加し、頻出データのみキャッ
+シュするロジックを導入する
+
+d. 単調増加する主キーを避けるように設計を変更する
+
+Learning reading speed.                       Page 152 of 204 @ 73%

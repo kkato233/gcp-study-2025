@@ -1,0 +1,29 @@
+Source: img-0401.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Spot VM は大幅なコスト削減が期待できる一方で、いつ中断されるかわから
+ないため、Managed Instance Group (MIG) と組み合わせることで可用性とス
+ケーラビリティを担保できます。CPU 使用率をもとにスケーリングでき、
+長時間のバッチ処理にも柔軟に対応可能です。
+
+不正解の解説
+
+a. Cloud Functions は短時間・軽量処理向けであり、20 時間かかるバッチには
+不適です。
+
+c. Cloud SQOL はデータベースであり、バッチロジックを格納・実行するのは
+設計上不適切です。
+
+d. Cloud CDN は静的コンテンツの配信に用いるもので、バッチ処理や自動実
+行の用途には使えません。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 191 of 204 @ 93%

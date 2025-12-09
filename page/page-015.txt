@@ -1,0 +1,46 @@
+Source: img-0013.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+c
+
+Het
+gcloud CLI ® gcloud compute networks
+
+subnets expand-ip-range コマンドを使えば、
+
+既存のサブネットに対して TP HBA eB
+げることができます。工存の構成やリ
+ソースに影響を与えずに、追加の IP ア
+ドレスを確保できます。
+
+不正解の解説
+a. VPC ピアリングは異なる VPC 間の通
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+信には有効ですが、TP AE EK © HEU
+ません。
+
+b. 複数サブネットの作成は複雑なルー
+ティング設定が必要となり、構成維持に
+は不向きです。
+
+d. ノード再構築は非効率でダウンタイム
+のリスクがあり、現実的ではありません。
+
+カテゴリ : Planning and configuring a cloud
+solution + Deploying and implementing a
+
+cloud solution
+
+Page 15 of 204 @ 6%
+
+Aa 0
+

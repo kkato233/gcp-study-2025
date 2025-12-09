@@ -1,0 +1,47 @@
+Source: img-0016.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題8
+
+気象観測データを処理する国立気象研究
+センターでは、Google Cloud 上の
+Compute Engine を利用して多地点の天候
+シミュレーションを実行しています。こ
+
+れらのインスタンスで生成されるログを、
+
+BigQuery の「app-logs」データセットに
+自動的に集約し、日々の解析に活用した
+いと考えています。開発負担を最小に抑
+えつつコスト効率を重視する場合、最適
+な構成はどれですか ?
+
+a. Cloud Storage にログファイルを出力さ
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+tt, Dataproc で毎晩バッチ処理をして
+BigQuery に読み込む。
+
+b. Stackdriver Profiler を用いてログを分析
+し、手動で BigQuery にアップロードす
+る。
+
+c. Cloud Logging で Compute Engine OU
+グのみを対象にしたフィルタを作成し、
+エクスポート先に BigQuery の app-logs
+データセットを指定する。
+
+d Monitoring ダッシュボードからログを
+定期エクスポートするスクリプトを作成
+して実行する。
+
+Page18of204 @ 7%
+
+Aa 0
+

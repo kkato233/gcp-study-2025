@@ -1,0 +1,46 @@
+Source: img-0026.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題 13
+動画制作プラットフォームを運営する
+「ViqSphere」 は、既 存 の 「vidsphere-
+
+encode-core] プロジェクトと類似の処理
+基盤を、独立したアニメーション編集
+チーム向けに構築する予定です。各チー
+ムのアクセス権や請求を明確に分けて運
+用したい場合、最適な対応はどれです
+Dp?
+
+a. vidsphere-encode-core プロジェクトに
+Animation チーム用の IAM ポリシーを追
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+加し、必要な権限を共有する。
+
+b. デザインチーム用に新しいプロジェク
+ト (Bil : zephyr-design-hub) を 作成し、
+リソースを展開する。
+
+c. 既存プロジェクトにタグで 「design-
+team=true] を付け、監査とコスト分離を
+実現する構成にする。
+
+d vidsphere-encode-core と同じプロジェ
+クト ID で新プロジェクトを作成し、
+チーム間で Editor 権限を共有する。
+
+Page 28 of 204 @ 12%
+
+na
+PE
+

@@ -1,0 +1,23 @@
+Source: img-0373.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題40
+
+電力消費量を可視化するアプリ「GreenWatt」 は、Compute Engine 上にホス
+トされる予定で、Google Cloud の各種 API と連携して運用されます。開発環
+境では Application Default Credentials (ADC) を用いて認証しており、本番
+環境でもこの方式を維持しつつ、安全かつ推奨される構成を採用したいと考
+えています。最小限の変更で済み、セキュアな方法はどれですかぅ
+
+a アプリケーションに OAuth2 認証フローを実装し、ユーザーにログインさ
+せる
+
+認証ファイルを生成してアプリのビルド時にバイナリ内に組み込む
+c. 認証キーを Cloud Storage に格納し、アプリ起動時にダウンロードさせる
+d. Compute Engine の VM に割り当てられたサービスアカウントに、適切な
+権限を設定する
+
+Learning reading speed.                       Page 182of204 @ 89%

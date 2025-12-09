@@ -1,0 +1,27 @@
+Source: img-0189.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+VM 作成時に「ID と API アクセス」セクションでサービスアカウントを指
+定することで、VM がそのアカウントの権限で Cloud SOL などのリソースに
+安全かつ自動的にアクセスできます。JSON キーの管理も不要となり、セ
+キュアな構成です。
+
+不正解の解説
+
+a. GCS 経由でのキー読み込みは手動操作が必要で、セキュリティ上のリス
+クも伴います。
+
+b. IAM の後付け設定は即時反映されず、誤設定によるアクセスエラーの原
+因になりやすいです。
+
+d. Secrets Manager は機密情報管理に適しますが、VM からのキー取得手順は
+複雑で推奨されません。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                       Page 123 of 204 @ 59%

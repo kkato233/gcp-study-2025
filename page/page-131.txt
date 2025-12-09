@@ -1,0 +1,24 @@
+Source: img-0214.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+a
+
+解説
+
+実際に必要なのは「請求アカウント側の権限付与」と「プロジェクトの請求
+アカウント紐付け」。具体的には、マーケ部の担当者に請求アカウントで
+Billing Account User (または適切な請求ロール) を付与し、その請求アカウ
+ントに AdWave プロジェクトをリンクする。これで費用を部門専用の請求
+アカウントで一元負担できる。
+
+不正解の解説
+b.ラベルでは請求の分離はできない。c. アラートは通知用途で請求先の分離
+にはならない。d.Logging に出しても請求先は分かれない。
+
+カテゴリ : Setting up a cloud solution environment
+
+Learning reading speed.                       Page 131 of 204 @ 63%

@@ -1,0 +1,33 @@
+Source: img-0070.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+d
+
+mM
+5
+
+同一リージョン内の複数ゾーンにリソースを分散配置し、 ロードバランサーでトラ
+フィックを分散させることで、ゾーン障害時でも継続的にサービス提供が可能です。こ
+れによりコストを抑えつつ高可用性を実現できます。
+
+不正解の解説
+
+a. 監視 VM は障害検知には有効ですが、サービスの継続には直接寄与しません。
+
+b.単一ゾーン内の冗長化はゾーン障害には無力です。
+
+c. グローバルロードバランサーは多リージョン向けであり、今回の要件には過剰かつコ
+スト高となります。
+
+y        カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 73 of 204 @ 34%
+
+Ra
+us

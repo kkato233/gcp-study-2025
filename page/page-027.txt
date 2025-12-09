@@ -1,0 +1,46 @@
+Source: img-0025.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+b
+
+解説
+
+Google Workspace では、すでに個人
+Google アカウントとして登録されている
+メールアドレスに対して、組織からの引
+き継ぎ招待を行うことが推奨されていま
+す。これにより、当該アカウントを組織
+の管理下に置きつつ、上既存データの移行
+や一貫したポリシー適用が可能となりま
+す。
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+不正解の解説
+
+a.別ドメインの使用は回避策にすぎず、
+ユーザーの混乱を招く可能性があります。
+c-IAM ロールの削除では Google
+Workspace 上のアカウント重複の課題は
+解決されません。
+
+d. Google サポートはアカウント上書きに
+対応しておらず、対応として現実的では
+ありません。
+
+カテゴリ : Configuring access and security
+
+Page27of204 @ 12%
+
+na
+PE
+

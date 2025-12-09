@@ -1,0 +1,28 @@
+Source: img-0300.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+c
+
+解説
+
+アプリログを Cloud Logging に送信することで、集中管理と長期保存、検
+索・フィルタリングが可能になります。 さらに Cloud Monitoring と連携して
+アラートを設定すれば、異常発生時に即座に通知を受けられ、運用効率と信
+頼性が大幅に向上します。
+
+不正解の解説
+
+a.cron とメール送信は手動的で即時性に欠けます。
+
+b. ヘルスチェックの関値変更ではアプリ内部ログの把握はできません。
+
+d. debug snapshot は主に開発向け機能であり、本番運用の監視には不適切で
+す。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 159 of 204 @ 77%

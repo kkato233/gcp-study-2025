@@ -1,0 +1,25 @@
+Source: img-0196.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Cloud Build はバックエンドで Cloud Build サービスエージェントという専用
+サービスアカウントを使って操作を実行します。Cloud Build サービスエー
+ジェントに必要な IAM ロールを付与することで、GCP 上のリソースに対し
+正しくアクセスできるようになります。
+
+不正解の解説
+
+b はセキュリティ上の懸念が大きく、推奨されません。
+
+cは不要に複雑で、管理コストや設定ミスのリスクが高まります
+
+dはCloud Build の実行主体と異なるサービスの認証方式を混用しており、適
+切な構成ではありません。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                       Page 125 of 204 @ 60%

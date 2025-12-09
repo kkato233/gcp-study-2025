@@ -1,0 +1,41 @@
+Source: img-0014.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題7
+国際物流企業の IT 部門では、各大陸ご
+とに独立した Kubernetes クラスターを運
+
+用しています。あるトラブル調査のため、
+
+現在使用していない「アフリカ地域クラ
+スター」の詳細な構成内容 (API エンド
+ポイント、認証情報、ネームスペースな
+ど) を確認する必要があります。どの操
+作が最も簡潔で効果的ですか ぅ
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
+
+a. kubelet のログファイルを SSH 経由で
+対象ノードから取得して確認する。
+
+b. Helm チャートをリバースエンジニア
+リングして構成内容を推測する。
+
+c. kubectl config use-context を使って対象
+環境に切り替えた後、 kubectl config view
+を実行する。
+
+d. Terraform state ファイルを手動で解析
+し、過去の構成を読み取る。
+
+Page16of204 @ 7%
+
+Oo
+
+a
+き

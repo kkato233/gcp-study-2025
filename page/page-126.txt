@@ -1,0 +1,22 @@
+Source: img-0199.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題12
+
+地中熱エネルギー管理を行う研究施設では、センサーデータ収集用のアプリ
+ケーションを GKE クラスタ上で運用しています。これらのクラスタは、別
+プロジェクトに保存されているコンテナイメージを Artifact Registry から取
+得する必要があります。最も安全かつ適切な設定方法はどれですか ぅ
+
+a. Artifact Registry 上で VPC ビアリングを構成し、GKE と直接通信させる
+b.Cloud NAT を経由してイメージ取得用の専用ネットワークを構築する
+
+c. GKE ノードで使用するサービスアカウントに Artifact Registry Reader ロー
+ルを割り当てる
+
+d. Artifact Registry 側に VPC Service Controls を設定してアクセスを許可する
+
+Learning reading speed.                       Page 126 of 204 @ 60%

@@ -1,0 +1,29 @@
+Source: img-0370.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+a
+
+解説
+
+Cloud Identity-Aware Proxy (IAP) を SSH および TCP リソース向けに構成す
+れば、VM にパブリック TP を付与することなく、安全に SSH 接続が可能で
+す。IAM によるアクセス制御が行え、セキュアで和柔軟な運用が実現します。
+
+不正解の解説
+
+b. 一時的とはいえパブリック IP を許可する運用は人的ミスを招きやすく、
+セキュリティリスクも高いです。
+
+c. VPN 構成は初期設定と管理のコストが高く、スケーラビリティにも課題
+があります。
+
+d. Cloud DNS のドメイン名は名前解決の補助であり、パブリック IP がなけ
+れば接続には利用できません。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                       Page 181 of 204 @ 88%

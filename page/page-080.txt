@@ -1,0 +1,27 @@
+Source: img-0079.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 39
+
+ある企業では、Compute Engine を使った新しい CUCD パイプラインを Infrastructure as
+Code (laC) で整備中です。セキュリティベストプラクティスとして、適切なパーミッ
+ション管理を行いたいと考えています。最も適切な構成はどれですか ?
+
+TM
+5
+Aa
+
+a.単一のサービスアカウントを環境ごとに複製し、ユーザーごとのアクセスを管理する
+b. Cloud Scheduler と Cloud Functions によってサービスアカウントキーを毎日ローテー
+ションし権限を制御する
+
+c. 各パイプライン専用のサービスアカウントを作成し、最小限の権限を付与。鍵ファイ
+ルは Secret Manager で管理する
+
+d サービスアカウントのキーは不要として、Compute Engine のメタデータに IAM 情報
+を直接書き込む
+
+Learning reading speed.                                             Page 80 of 204 @ 38%

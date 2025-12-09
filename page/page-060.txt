@@ -1,0 +1,29 @@
+Source: img-0056.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+mM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 29
+
+教育向け SNS「StudyCircle」では、各ユーザーの学習履歴やプロフィール情報をリレー
+ショナルデータとして保存しています。データ量は少なく、システムは単ー-リージョン
+で運用されており、万が一の誤削除や上書きに備えたポイントインタイムリカバリを重
+視しています。コスト効率も重要な条件です。最適な構成はどれですか ぅ
+
+a. Cloud Firestore (Datastore モード) を使用し、定期スナップショットを Cloud Storage
+にエクスポートする。
+
+b.Cloud SQL (MySQL) を使用し、バイナリログを有効化する。
+
+c. Memorystore for Redis に全データを保存し、毎時バックアップを実施する。
+
+d. Cloud Bigtable を構成し、変更ログを外部に出力してポイントリカバリに利用する。
+
+Learning reading speed.                                             Page 60 of 204 @ 28%
+
+Ra
+us

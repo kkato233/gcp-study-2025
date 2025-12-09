@@ -1,0 +1,29 @@
+Source: img-0364.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+c
+
+解説
+
+ダッシュボードの異常は集計処理の失敗による可能性が高いため、まず
+BigQuery のウェブ UI や CLI のジョブ履歴を確認して失敗しているクエリや
+エラー内容を特定するのが最も直接的かつ効果的です。
+
+不正解の解説
+
+a.ジョブ履歴ページでは処理ステータス全体は見えますが、エラー内容や和失
+敗原因の詳細までは追いにくいため補助的です。
+
+b. Cloud Logging はログ収集には有効ですが、BigQuery ジョブ固有のエラー
+確認には適しておらずやや冗長になります。
+
+d. Dataflow はストリーミング処理向けであり、夜間バッチ集計処理とは無関
+係です。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 179 of 204 @ 87%

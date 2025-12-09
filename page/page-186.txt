@@ -1,0 +1,26 @@
+Source: img-0386.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 42
+
+あるフィットネスサービス「Peak Health Gym」では、ワークアウト動画を
+オンプレミスで保管していますが、今後は長期保管のために Cloud Storage
+へ移行し、動画が生成されたらすぐにアップロードされるよう自動化を目指
+しています。どのような構成取るべきでしょうかぅ
+
+a. gcloud storage コマンドを使ってオンプレミスと Cloud Storage を同期する
+スクリプトを作成し、cron ジョブとしてスケジューリングする。
+
+b. Cloud SQL に動画のメタデータを書き込み、App Engine で定期的にファイ
+ルを取得する処理を実装する。
+
+c. Cloud Monitoring でオンプレミスのファイル変化を検知し、自動で Cloud
+Run を起動してアップロードさせる。
+
+d. BigQuery に動画情報を登録し、連携する Dataflow で Cloud Storage へ書き
+出す構成を作る。
+
+Learning reading speed.                       Page 186 of 204 @ 91%

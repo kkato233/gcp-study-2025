@@ -1,0 +1,29 @@
+Source: img-0048.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+Aa
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 25
+
+地震予測研究機関 「SeismoLab」は、GKE クラスタ上に複数の研究グループ用ワーク
+ロードを運用しています。地質データを扱う AT 解析チームが、Nvyidia Tesla P100 GPU
+を使って深層学習を実行したいと求めています。できるだけコストを抑え、上既存のイン
+フラを活用しつつこの要件に対応する最も適切な方法はどれですか ぅ
+
+a. 既存のクラスタに GPU 対応のノードブプールを追加し、Pod に cloud.google.com/gke-
+accelerator: nvidia-tesla-p100 の nodeSelector を設定する。
+
+b. GKE クラスタに TensorFlow 専用の新しいネームスペースを作成し、Pod 内で GPU Ail
+用を指定する
+
+c. GPU ドライバを含むカスタム OS イメージを使用してクラスタを再構築する
+
+d. すべての Pod に cloud.google.com/accelerator: enabled を設定し、GPU 利用を一律で許
+可する
+
+Learning reading speed.                               Page 52 of 204 @ 24%

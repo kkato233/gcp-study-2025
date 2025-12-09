@@ -1,0 +1,31 @@
+Source: img-0145.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+c
+
+解説
+
+プロキシ認証情報を環境変数 (CLOUDSDK_PROXY_USERNAME および
+CLOUDSDK_PROXY_PASSWORD) として設定することで、gscloud CLI 設
+定ファイルに誰証情報を残さず、ログに出力されるリスクを回避できます。
+これらの誰証情報はプロセスの実行中のみ有効で、ログやファイルに書き込
+まれません。
+
+不正解の解説
+
+a 設定ファイルに書き込むと、設定確認や自動ダンプ時に認証情報がログに
+記録される危険があります。
+
+b.ハッシュを証明書設定に流用するのは目的外の使い方で、認証情報の扱い
+として不適切です。
+
+d. 手書きで設定ファイルに記録すると、そのファイルが第三者に参照される
+可能性が高く、セキュリティリスクが大きいです。
+
+カテゴリ : Setting up a cloud solution environment
+
+Learning reading speed.                       Page 109 of 204 @ 52%

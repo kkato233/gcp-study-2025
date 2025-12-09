@@ -1,0 +1,24 @@
+Source: img-0398.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 44
+
+ある企業では月 1 回、20 時間かかるバッチ処理をオンプレミスで実行して
+WEF, 今後はコスト削減のためクラウドに移行したいと考えています。最
+適な方法はどれですかぅ
+
+a.単ーリージョンの Cloud Functions に分割して処理を委任する。
+
+b. Spot VM 対応の mstance Template を作成し、Managed Instance Group で
+CPU 使用率を調整してバッチを移行する。
+
+c. Cloud SOL のインスタンス上にバッチロジックを組み込み、トリガー駆動
+で実行する。
+
+d.Cloud CDN にキャッシュされたスクリプトを利用して、定期実行を自動化
+する。
+
+Learning reading speed.                       Page 190 of 204 @ 93%

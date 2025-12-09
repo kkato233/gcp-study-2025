@@ -1,0 +1,33 @@
+Source: img-0076.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+
+c
+
+Cloud Monitoring のアラートポリシーで CPU ERO BEL. APRICR UA
+合に webhook を通じて Cloud Function を呼び出すことで、Cloud Spanner のノード数をプ
+ログラム的に増減できます。この構成により、リアルタイムかつ自動でスケーリングを
+実現できます。
+
+不正解の解説
+
+a 手動通知はリアルタイム性がなく、スケーリングの自動化要件を満たしません。
+
+b. 日次分析は遅延が大きく、即時性に欠けるため非効率です。
+
+d ログサイズによる判断は CPU 負荷とは無関係で、スケーリング条件として不適切で
+a>     す。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                                             Page 77 of 204 @ 37%
+
+Ra
+us

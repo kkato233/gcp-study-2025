@@ -1,0 +1,25 @@
+Source: img-0251.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Cloud Storage のライフサイクル管理 (Lifecycle Management) を JSON で設
+定することで、オブジェクトを 90 日経過後に Coldline へ自動移行し、さら
+に 365 日後に自動削除できます。完全自動化により、最小限の管理コストで
+要件を満たせます」
+
+不正解の解説
+
+a. 定期スクリプトは手動管理が必要で、ミスのリスクが高いです。
+
+b 手動移行と削除は効率が悪く、運用負担が大きくなります。
+
+d. gsutil rewrite は主にストレージクラス変更朋であり、削除ボリシーの自動
+化には不適切です。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 143 of 204 @ 69%

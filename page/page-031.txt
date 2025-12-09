@@ -1,0 +1,47 @@
+Source: img-0029.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+c
+
+Het
+
+gcloud config set container/cluster chat-prod
+& KGS S&L, geloud CLIが今後の
+kubectl 関連コマンドで chat-prod クラス
+タを対象として使用するようデフォルト
+設定されます。これにより、毎回-
+cluster chat-prod を指定する手間が不要に
+なります。
+
+不正解の解説
+a. get-credentials は認証情報の取得や
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
+
+kubeconfig の更新に使用しますが、デ
+フォルトクラスタの設定にはなりません。
+b. config set project は Google Cloud プロ
+ジェクトのデフォルト指定用であり、ク
+ラスタ指定とは別の設定です。
+
+dd kubectl config rename-context は
+kubeconfig 上のコンテキスト名を変更す
+るだけで、gscloud CLI が対象クラスタと
+みなすことには影響しません。
+
+カテゴリ : Setting up a cloud solution
+
+environment
+
+Page 31 of 204 @ 14%
+
+Ra
+us
+

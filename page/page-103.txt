@@ -1,0 +1,18 @@
+Source: img-0447.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+              GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD …        = Aa 打 3
+正解
+b
+Wee
+VPC ビアリングは低コストで低遅延な内部接続を実現します。管理も簡単で
+す。
+不正解の解説
+a. VPN は管理コストが高く遅延が発生しやすいです。
+c. Cloud Router だけでは通信は確立しません。
+d. Interconnect は過剰な設備投資になります。
+、 カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a
+にく ) cloud solution                                                                                                         、
+
+Learning reading speed.                         Page 103 of 204 @ 48%

@@ -1,0 +1,25 @@
+Source: img-0089.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+   GOOGLE CLOUD 認定資格ASSOCIATE CLOUD ENGINEER 実…  = Aa O 83
+正解
+c
+HE
+
+Private Google Access をサブネットに有効化すると、外部インターネットへの経路がな
+くても VM が Google の API (Cloud Storage を含む) へプライベート TP 経由で安全にア
+クセスできます。これによりセキュリティ要件を満たしつつ必要なサービス利用が可能
+になります。
+
+不正解の解説
+a. VPC Service Controls はアクセス制限の機能であり、通信経路の確保には役立ちません。
+b. DNS のみの変更ではプライベート TP への通信が保証されず、接続に失敗します。
+d. Cloud Router と VPN は経路制御に使いますが、ストレージアクセスのための最適解
+~     ではありません。                                                            a
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 89 of 204 @ 42%

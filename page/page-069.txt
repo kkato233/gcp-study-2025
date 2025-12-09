@@ -1,0 +1,27 @@
+Source: img-0065.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+   GOOGLE CLOUD 認定資格ASSOCIATE CLOUD ENGINEER 実…  = Aa O 83
+正解
+d
+解説
+
+BisQuery の外部テーブル機能を使えば、データを移動せずに複数ツースのデータを結
+合・分析できます。特定ユーザーの条件でフィルタをかける SQL も簡単に実行でき、
+アドホックな分析ニーズに対して高い柔軟性を発揮します。
+
+不正解の解説
+
+a. ローカル分析はスケーラビリティが低く、クラウドの利点を活かせません。
+
+b. Apache Beam はストリーミング用途に最適ですが、一時的な結合分析にはオーバー
+ヘッドが大きいです。
+
+c. REST API での結合はパフォーマンスが低く、大量データ処理には不適切です。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 69 of 204 @ 33%

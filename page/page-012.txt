@@ -1,0 +1,19 @@
+Source: img-0009.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 打 3
+
+問題5                                      a. CronJob で定期的にモニタリング Pod          Q
+宇宙観測用データ処理施設 「OrbitScope」    を起動し、使用後に削除する
+では、Kubernetes ベースの GKE VFA       b. ReplicationController で Pod 数を制御し
+ターを構築中です。施設の各ノードから    ながらノードに分配する
+天文データ処理状況を常時モニタリング     c. ReplicaSet で Pod の複製を行い、ノー
+し、外部の解析システムにメトリクスを    ド全体に分散する
+送信する必要があります。クラスターの      d. DaemonSet でモニタリング Pod を展開
+拡張にも対応できるよう、各ノードにモ    する
+ニタリング Pod を自動的に配置するため
+
+/ 。 ) の最適な方法はどれですか?
+
+Learning reading speed.                                Page 12 of204 @ 5%

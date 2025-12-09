@@ -1,0 +1,25 @@
+Source: img-0102.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 50
+
+あなたは project-alpha (VPC: alpha-vpc) と project-beta (VPC: beta-vpc) という 2 つの
+Google Cloud プロジェクトを管理しています。それぞれにフロントエンドとバックエン
+ドが配置されています。効率的かつコスト効果の高い通信手段はどれですか>ぅ
+
+a.Cloud VPN を使い、VPC 問で安全な通信を行う
+b.VPC ビアリングを構成する
+
+c. Cloud Router で動的ルーティングを設定する
+
+d. Cloud Interconnect で専用線を敷設する
+
+Learning reading speed.                                  Page 102of204 @ 48%
+
+us

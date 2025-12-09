@@ -1,0 +1,32 @@
+Source: img-0055.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+
+a
+
+TM
+5
+
+解説
+
+Cloud Storage のライフサイクルルールを利用することで、一定期間経過したオブジェク
+トを自動的に別のストレージクラス (ここでは Archive Storage) に移行できます。これ
+によりデータを保持しながらコスト削減を実現できます。
+
+不正解の解説
+
+b. ローカル保存は自動化されておらず、コスト削減の面でもクラウド活用に劣ります。
+c. 削除は将来の参照が不可能になり、非推奨です。
+
+d. DLP APIT はセキュリティ対策であり、ストレージ最適化には関係がありません,
+
+ーー          カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                                             Page 59 of 204 @ 28%
+
+Ra
+us

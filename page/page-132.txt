@@ -1,0 +1,26 @@
+Source: img-0217.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題15
+
+あなたは「テック・クラフト」という企業のインフラ担当です。 同社の
+SNS アプリ「SnapWave」は急速に人気を集めており、インフラの拡張が求
+められています。テック・クラフトは HTTPS で提供する Web アプリケー
+ションのトラフィックを負荷分散し、SSL 終端 (TLS 終了) をロードバラン
+サー側で処理したいと考えています。Google の推奨に沿った構成はどれで
+すかぅ
+
+a. GKE クラスタに直接 HTTPS 証明書をインストールして各 Pod で処理させ
+る
+
+b. Cloud DNS に A レコードを追加してリージョンごとに手動でトラフィッ
+クを振り分ける
+
+c. HTTPS) ロードバランサーを設定する
+
+d. Cloud NAT を使用して SSL 終端を行う
+
+Learning reading speed.                       Page 132 of 204 @ 63%

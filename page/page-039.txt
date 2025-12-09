@@ -1,0 +1,47 @@
+Source: img-0037.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+c
+
+解説
+
+BigQuery にエクスポートされた課金デー
+タはサービス単位での利用明細が取得で
+きるため、Apache 関連のネットワーク
+送信費用を正確に抽出できます。Cloud
+Scheduler と Cloud Function を組み合わせ
+ることで、自動化された定期監視と即時
+通知が実現できます。
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+不正解の解説
+
+a. Pub/Sub 単独では課金データを取得で
+きず、料金集計には不向きです。
+
+b. ローカル集計は信頼性が低く、Google
+Cloud の課金体系との整合も取れません。
+d. VPC フローログからの料金推定は不正
+確で、BigQuery 課金データの方が実態に
+即しています。
+
+カテゴリ : Ensuring successful operation of
+
+a cloud solution
+
+Page 39 of 204 @ 18%
+
+Ra
+us
+

@@ -1,0 +1,48 @@
+Source: img-0046.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+b
+
+解説
+
+Autopilot クラスタはノード管理や運用負
+荷を自動化し、さらにプライベートクラ
+スタにすることでノードへのインター
+ネット通信を遮断可能です。さらに
+Shielded Node がデフォルトで有効化され
+ており、ノードの整合性保護も備わって
+います。最もセキュアかつ運用しやすい
+構成です。
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+FRIESE Wet
+
+a パブリッククラスタではノードがイン
+ターネットに晒され、非公開要件を満た
+しません。
+
+c. Shielded Node は整合性保護に有効です
+が、ノードの公開状態を防ぐには不十分
+です。
+
+d. Standard クラスタは Autopilot に比べ管
+理負荷が高く、自動化による運用効率が
+得られません。
+
+カテゴリ : Configuring access and security
+
+Page 49 of 204 @ 23%
+
+Ra
+us
+

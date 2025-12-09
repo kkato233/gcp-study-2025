@@ -1,0 +1,29 @@
+Source: img-0090.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+Aa
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題44                                                                                 Q
+オンラインポートフォリオサービス「テックフォリオ」を運営するあなたは、
+
+techfolio.com およびそのサブドメイン (wwwrtechfolio.com、home.techfolio.com) をロー
+
+ドバランサーの IP アドレスに向けたいと考えています。DNS の最適な設定方法はどれ
+
+ですか ぅ
+
+a. techfolio.com に AAAA レコードを設定し、www と home には TXT レコードを設定す
+る
+
+b. techfolio.com に MX レコードを設定し、www と home に SRV レコードを設定する
+
+c. techfolio.com に PTR レコードを設定し、www と home に SOA レコードを設定する
+
+d. techfolio.com に A レコード、www と home に CNAME レコード
+
+Learning reading speed.                                             Page 90 of 204 @ 43%

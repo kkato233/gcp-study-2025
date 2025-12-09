@@ -1,0 +1,30 @@
+Source: img-0332.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Standard ストレージは高頻度アクセスに最適であり、最初の 30 APACS
+に参照される IoT データの保存に適しています。 その後はほとんどアクセス
+されないため、非常に低コストで長期保存に適した Archive ストレージに移
+行するのが最も合理的です。Google Cloud Storage のライフサイクルルール
+を活用することで、このような自動移行が可能になります。
+
+不正解の解説
+
+b. Multi-Regional や Regional は地理的冗長性に関する選択でちり、アクセス
+頻度とコスト最適化の要件に合致しません。
+
+c. Coldline > Nearline の移行は逆効果で、頻度の低いアクセスに対し高コス
+トになる可能性があります。
+
+d. Standard ストレージに 3 年間保持し続けると、頻度に対してコストが割高
+になり非効率です。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 169 of204 @ 82%

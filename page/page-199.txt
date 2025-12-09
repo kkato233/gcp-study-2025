@@ -1,0 +1,32 @@
+Source: img-0423.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+d : HTTP(S) ロードバランサは、レイヤー 7 でのルーティング・SSL 終端・
+セキュリティ対策が可能です。さらに、A レコードをパブリック DNS に
+定することで、世界中のユーザーが 「StreamView」にアクセスできます。
+Google Cloud の推奨構成です。
+
+不正解の解説
+
+a : TCP ロードバランサは低レベルでの転送に向いていますが、HTTP(S) の
+ようなセキュアな Web サービス向きではなく、NS レコードも構成目的に合
+いません。
+
+b: UDP はリアルタイムゲームや DNS 用途で使われるプロトコルで、HTTP
+ベースの配信には不適。PTR レコードは逆引き用であり、公開向け構成に
+は不要です。
+
+c : Cloud CDN はバックエンドにロードバランサが必要で、単体での構成は
+不可。また、ゾーンファイル編集は旧来の手法であり、現在は Cloud DNS
+を用いた A レコード設定が主流です。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 199 of 204 @ 97%

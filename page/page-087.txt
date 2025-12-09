@@ -1,0 +1,32 @@
+Source: img-0086.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+正解
+
+解説
+
+スポット VM (旧称 : プリエンプティブル VM) は、短時間で終了する可能性がある代
+常に安価です。フォールトトレラントなバッチ処理には最適な選択肢で、コス
+
+トを大幅に削減できます。まずは擬似的な中断をテストし、影響びがなければ本番運用に
+
+適用できます。
+
+不正解の解説
+able はいずれもスポット VM のコスト優位性を活かせず、効率的な削減策とは言えま
+せん。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 87 of 204 @ 41%
+
+Ra
+us

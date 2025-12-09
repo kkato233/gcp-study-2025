@@ -1,0 +1,35 @@
+Source: img-0051.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+
+c
+
+mM
+5
+
+GKE のノードプブール機能を使って既存クラスタに異なるマシンタイプのノードブプール
+を追加すれば、皮存サービスに影響を与えず新規 Pod を展開できます。Pod のリソース
+要求に基づき適切なノードへ自動スケジューリングされるため、ゼロダウンタイムで拡
+張可能です。
+
+不正解の解説
+
+a. クラスタ移行は手間とダウンタイムのリスクが伴います。
+
+b.ノードのマシンタイプ変更は直接行えず、クラスタ再作成が必要で非効率です。
+
+d. 新規クラスタ構築とサービス停止による移行は運用負荷が高く、既存機能で回避可能
+~     です。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 55 of 204 @ 26%
+
+Ra
+us

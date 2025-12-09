@@ -1,0 +1,46 @@
+Source: img-0003.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題 2
+
+多国籍な医療リサーチ機関 「MedNova」
+は、新たに買収したゲノム解析スタート
+アップ「GeneFlux」の Google Cloud 環境
+を引き継ぎました。 両社ともに数百の
+GCP プロジェクトとそれぞれ独立した請
+求アカウントを運用しており、経理部門
+は来月から統一された請求書でコストを
+管理したいと求めています。最も迅速で
+現実的な対応筑はどれですか ?
+
+a. GeneFlux と MedNova の各プロジェク
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
+
+トから個別に CSV 形式で請求データを
+ダウンロードして集計する。
+
+b. TutorVerse のプロジェクトすべてを
+Leamly の課金アカウントと直接リンク
+する。
+
+c. GeneFlux の全プロジェクトを MedN
+ova の GCP 組織に移動し、移行後に課金
+アカウントを再設定する。
+
+d. 新たに第三の GCP 組織を作成し、両
+社のプロジェクトと課金アカウントをそ
+こへ集約する。
+
+Page 6 of 204 @ 2%
+
+Oo
+
+Ra
+us
+

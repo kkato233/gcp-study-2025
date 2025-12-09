@@ -1,0 +1,42 @@
+Source: img-0022.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題 1
+
+スマート農業プラットフォームを開発す
+る「AgriCore」 では、収穫状況やセン
+サーデータを Cloud Spanner に保存して
+います。システム監視を担当するオペ
+レーションチームには、パフォーマンス
+メトリクスのみを確認できるようにした
+い一方で、作物データや農業ログなど実
+データにはアクセスさせたくありません。
+この要件を満たす最適な IAM 設定はど
+れですか ?
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+a.運用チームに Monitoring Viewer ロール
+を付与する
+
+b.運用チームにだ Cloud Spanner Admin
+ロールを付与し、モニタリングはダッ
+シュボード上で制御する
+
+c.運用チームに Cloud Spanner Viewer
+ロールを付与して、メトリクスとデータ
+の両方を確認できるようにする
+
+d 運用チームに Logging Admin ロールを
+付与して、全ログとメトリクスにアクセ
+スできるようにする
+
+Page 24 of 204 @ 10%
+
+Aa 0
+

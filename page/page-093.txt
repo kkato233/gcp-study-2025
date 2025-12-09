@@ -1,0 +1,36 @@
+Source: img-0093.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+
+c
+
+mM
+5
+
+解説
+
+Cloud Storage のオブジェクトバージョン管理を有効にし、ライフサイクルルールを使う
+ことで、最新の 5 バージョンを保持し、古いバージョンは1 年以上経過後に自動的に低
+コストストレージクラスに移行できます。さらに保持ポリシーを設定することで、最低
+5 年間は削除されないよう保証できます。これにより、長期保持とコスト最適化を同時
+
+に実現できます。
+
+不正解の解説
+
+a, Cloud Function による手動ロジックは運用負担が大きく、GCP の自動機能を活かがせて
+いません。
+
+~       b. Scheduler の定期削除では保持要件を保証できず、要件を満たせません。
+ノ    d 手動移行は管理ミスや漏れのリスクが高く、運用コストもかさみます。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                                             Page 93 of 204 @ 44%
+
+Ra
+us

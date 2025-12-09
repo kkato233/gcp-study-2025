@@ -1,0 +1,38 @@
+Source: img-0345.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Google Cloud におけるリアルタイム・スケーラブル・耐障害性の高い構成と
+して、
+
+Pub/Sub : 大規模デバイスからのリアルタイムなメッセージ受信
+
+Dataflow : ストリーミング処理やデータ変換・フィルタリングのリアルタイ
+ム実行
+
+Cloud Storage : 構造化 / 非構造化データを長期保存可能な安価で信頼性の高
+い保存先
+
+という構成は、Google の公式リファレンスアーキテクチャにも準拠してい
+ます。
+
+不正解の解説
+
+a. IoT Core は 2023 年に廃止され、Cloud SQL はストリーミングやスケーラ
+ブルな同時書き込みに向いていません。
+
+c. BigQuery のストリーミング挿入は可能ですが、Cloud Functions は高頻度処
+理に非効率で、安定性に欠けます。
+
+d. Cloud Storage への直接書き込みと Composer による定期処理はバッチ型の
+構成であり、リアルタイム要件を満たしません。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 173 of 204 @ 84%

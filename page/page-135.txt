@@ -1,0 +1,29 @@
+Source: img-0226.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+Cloud VPN はオンプレミスと Google Cloud 間に安全な IPSec VPN トンネル
+を構築し、プライベート IP アドレスによる双方向通信を実現します。これ
+により、リアルタイム性が重視されるゲームのようなアプリケーションでも
+低遅延かつセキュアな通信が可能となり、拡張性の高いインフラを構築でき
+ます。
+
+不正解の解説
+
+a. HTTP(S) ロードバランサはインターネット経由の通信に適しており、低遅
+延・プライベート接続には不向きです。
+
+b. Cloud Functions はイベント駆動型であり、常時接続やリアルタイム通信に
+は適していません。
+
+d. Cloud Storage はオブジェクトストレージであり、API 経由の通信は遅延が
+発生しやすく、ゲームサーバー間通信には不適切です。
+
+カテゴリ :Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 135 of 204 @ 65%

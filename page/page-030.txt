@@ -1,0 +1,30 @@
+Source: img-0028.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+mM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 14                                       chat-prod を実行する
+
+あなたは chat-prod という名前の GKE 7      b. gcloud config set project chat-prod を実行
+
+ラスタを Cloud SDK (gcloud CLI) で継     する
+
+続的に操作したいと考えています。以後    c. gcloud config set container/cluster chat-
+
+の CLI 作業ではクラスタ名を毎回指定せ    prod を実行する
+
+ずに済むようにしたい場合、最も適切な      d. kubectl config rename-context $(kubectl
+
+設定方法はどれですか?                           config current-context) chat-prod を実行す
+る
+
+a. gcloud container clusters get-credentials
+
+Learning reading speed.                                Page 30 of 204 @ 13%
+
+Ra
+us

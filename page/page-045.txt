@@ -1,0 +1,18 @@
+Source: img-0042.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+            GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実… Aa 打 23
+正解                                      ります。
+c
+不正解の解説
+解説                                     a. Admin ロールは過剰権限で、セキュリ
+App Engine 上で動作するサービスが他プ       ティポリシー違反のリスクがあります。
+ロジェクトの BigQuery データセットに       b. IAM からの除外はアクセスそのものを
+アクセスするには、該当サービスアカウ     遮断する行為であり、要件に反します。
+ントに対して「BigQuery Data Viewer]        d. Cloud SQL Viewer は BigQuery とは無関
+ロールをアクセス先のプロジェクト側で    係であり、誤ったロール選定です。
+(<)     付与する必要があります。これにより、                                       /ゝ
+Nay,      対象データセットの読み取りが可能にな     カテゴリ : Configuring access and security        St
+
+Learning reading speed.                                     Page 45 of 204 @ 21%

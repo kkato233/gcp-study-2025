@@ -1,0 +1,24 @@
+Source: img-0174.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題8
+
+ある企業では、Cloud Bigtable 上で行われるすべての読み書き操作のログを、
+SIEM に転送してセキュリティ臣視・分析に活用したいと考えています。最
+も適切かつ公式に推奨される構成はどれですか ぅ
+
+a. Cloud Monitoring のアラートジョブを作成し、読み書き検出時に Webhook
+経由で SIEM に通知する
+
+b. Audit Logs で Data Read/Write と Admin Read を有効にし、Cloud Logging か
+ら Pub/Sub 経由で SIEM に送る
+
+c. Audit Logs で Admin Write ログのみを有効にし、Cloud Function 経由で
+SIEM に転送する
+
+d. Ops Agent を導入し、ログを Dataflow パイプラインを通じて SIEM に送る
+
+Learning reading speed.                       Page 118 of 204 @ 56%

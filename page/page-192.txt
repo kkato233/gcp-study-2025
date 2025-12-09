@@ -1,0 +1,27 @@
+Source: img-0404.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 35
+
+地球温暖化対策用 loT プラットフォーム「EcoGrid」では、世界各地に設置
+されたセンサーノード和群を Compute Engine 上の仮想マシンで制御・集計し
+ています。セキュリティチームは、各ノードで稼働している OS に関する脆
+弱性情報を定期約にレビューし、システムの脆弱性を早期に把握したいと考
+えています。これを実現するための最適な対応はどれですか?ぅ
+
+a. OS イメージを定期的に更新し、変更点を Cloud Source Repositories
+する
+
+b. OS Config エージェントをインスタンスにインストールし、セキュリティ
+担当者に roles/osconfig.vulnerabilityReportViewer 権限を付与する
+
+c-インスタンスの Syslog を Cloud Monitoring 経由で確認し、セキュリティロ
+グとして出力する
+
+d. Cloud Run にスキャンスクリプトをデプロイ し、週次で VM をリモートス
+キャンする
+
+Learning reading speed.                       Page 192of204 @ 94%

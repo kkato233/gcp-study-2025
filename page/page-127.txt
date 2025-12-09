@@ -1,0 +1,27 @@
+Source: img-0202.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+GKE ノードが使用するサービスアカウントに roles/artifactregistry.reader を付
+与することで、Artifact Registry からコンテナイメージを安全かつ確実に取得
+できます。この設定は GCP のベストプラクティスに基づいたアプローチで
+す
+
+不正解の解説
+
+a. VPC ピアリングでは IAM 制御を行えず、Artifact Registry のアクセス制御
+とは関係ありません。
+
+b. Cloud NAT はインターネット通信を可能にしますが、IAM ベースの誰可
+設定を省略できません。
+
+d. VPC Service Controls はデータ漏洩対策用の境界制御であり、単体でのアク
+セス許可はできません。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                       Page 127 of 204 @ 61%

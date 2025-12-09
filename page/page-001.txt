@@ -1,0 +1,35 @@
+Source: img-0091.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+正解
+d
+
+TM
+5
+
+解説
+
+ルートドメイン (techfolio.com) には CNAME レコードは使用できないため、A レコー
+ドでロードバランサーの IP アドレスを直接指定します。サブドメイン (www や home)
+には CNAME レコードを使ってルートドメインを参照させることが DNS 設定のベスト
+
+プラクティスです。
+不正解の解説
+a.AAAA はIPv6 用レコードであり、TXT はテキスト情報用で、どちらも IP アドレス指
+定には不適切です 。
+b. MX はメール交換用、SRV はサービスロケーション用のレコードであり、ウェブト
+~     ラフィックのルーティングには使いません。
+^ | PTR は逆引き用、SOA はゾーン管理用のレコードで、名前解決の直接指定には関係
+ありません。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                               Page 1 of 204 @ 43%
+
+Ra
+us

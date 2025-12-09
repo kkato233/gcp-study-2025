@@ -1,0 +1,28 @@
+Source: img-0434.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+a マネージドインスタンスグループ (MIG) は、仮想マシンを使ったステー
+トレスなアプリケーションに最適です。負荷に応じて自動で VM の数を調
+整でき、高可用性とコスト効率の両立が可能です。
+
+不正解の解説
+
+b. Cloud Storage と Cloud Functiion はファイルベースのイベント処理向けであ
+り、継続的な Web アプリのホスティングには不適です。
+
+c. 手動でのインスタンス増減は運用が非効率かつスケールの俊敏性に欠けま
+す
+
+d. AppSheet はノーコードツールであり、本格的な SNS アプリのホスティン
+グには適していません。
+
+カテゴリ :Planning and configuring a cloud solution + Deploying and implementing
+
+acloud solution
+
+Learning reading speed.                       Page 203 of 204 @ 99%

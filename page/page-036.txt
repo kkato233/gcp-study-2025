@@ -1,0 +1,40 @@
+Source: img-0034.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題 17
+
+自動車メーカー「NeoDrive」は、設計
+データを扱うためにオンプレミスの
+CAD システムと Google Cloud の
+Compute Engine を併用し、専用 VPN で
+接続しています。新たに起動するインス
+タンスでは、インターネットへの接続を
+一切許可せず、社内ネットワーク経由の
+みで通信させたいと考えています。この
+要件に最も適した構成はどれですか ?
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
+
+a インスタンスに Cloud NAT を割り当て
+て外部送信を制御する
+
+b. VPC ネットワークにICMP トラフィッ
+クを制限するカスタムルールを追加する
+c. VPN トンネルに専用の出口ルートを定
+義し、すべての通信を通す
+
+d インスタンスをパブリック IP なしで
+作成する。
+
+Page 36 of 204 @ 16%
+
+Oo
+
+a
+き
+

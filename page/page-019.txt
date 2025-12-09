@@ -1,0 +1,46 @@
+Source: img-0017.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+c
+
+解説
+
+Cloud Logging のログエクスポート機能
+を使えば、特定のログ (今回の場合は
+Compute Engine) だけを BigQuery へ直接
+転送できます。フィルタを設定するだけ
+
+で構成でき、リアルタイム性とコスト効
+率の両立が可能です。
+不正解の解説
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        = Aa
+
+a. Dataproc を使ったバッチ処理は過剰で
+コストが高く、リアルタイム性もありま
+せん。
+
+b.Profiler は性能分析ツールであり、ログ
+転送や解析用途には不適です。
+
+d. Monitoring にはログの定期エクスポー
+ト機能はなく、手動スクリプトでは管理
+負担が大きくなります。
+
+カテゴリ : Ensuring successful operation of
+
+a cloud solution
+
+Page 19 of 204 @ 8%
+
+Oo
+
+a
+き

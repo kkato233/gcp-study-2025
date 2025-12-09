@@ -1,0 +1,28 @@
+Source: img-0406.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+OS の脆較性情報を正確に取得するには、各 Compute Engine インスタンスに
+OS Config エージェントをインストールし、セキュリティ担当者に
+roles/osconfig.vulnerabilityReportViewer を付与するのが最適です。これにより、
+Google Cloud の脆能性レポート機能を利用して、セキュリティ関連のインサ
+イトを GUI または API 経由で一元管理できます。
+
+不正解の解説
+
+a. OS イメージの更新履歴だけでは、稼働中のインスタンスの脆弱性を把握
+することはできません。
+
+c. Syslog では脆弱性レポートそのものは確認できず、セキュリティ評価には
+不十分です。
+
+d. Cloud Run は VM に直接アクセスできず、腕弱性検査用途には適していま
+せん。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 193 of 204 @ 94%

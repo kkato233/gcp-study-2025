@@ -1,0 +1,32 @@
+Source: img-0095.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+正解
+
+c
+
+Google Cloud Marketplace を利用すれば、PMP を数クリックで簡単にデプロイ可能です。
+UI 上での操作により、自動的に必要なリソースが作成され、導入にかかる時間と労力
+を大幅に削減できます。
+
+不正解の解説
+
+a 手動デプロイは時間がかかり、管理も複雑です。
+
+b.Docker イメージのビルドと配置は手間が多く、即時導入には不向きです。
+d. 構成管理ツールは柔軟ですが、初期導入の迅速性には欠けます。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing a cloud
+
+solution
+
+Learning reading speed.                                             Page 95 of 204 @ 45%
+
+Ra
+us

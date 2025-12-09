@@ -1,0 +1,44 @@
+Source: img-0011.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+d
+
+解説
+
+DaemonSet を使用することで、GKE クラ
+スターのすべてのノードに対して 1 つず
+つ Pod を確実に展開できます。新たな
+ノードが追加された際にも自動的に対応
+でき、モニタリング用途に最適な構成で
+す。
+
+不正解の解説
+a. CronJob は一時的なタスク実行に使う
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+Aa 0
+もので、常時モニタリングには適しませ
+
+ん。
+
+b. ReplicationController は廃止傾向にあり、
+ノードごとの配置制御はできません。
+
+c. ReplicaSet は Pod の数は制御できます
+が、ノードごとの分散配置は保証されま
+せん。
+
+カテゴリ : Planning and configuring a cloud
+solution + Deploying and implementing a
+
+cloud solution
+
+Learning reading speed.
+
+Page 13 of 204 @ 5%
+

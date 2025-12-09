@@ -1,0 +1,29 @@
+Source: img-0052.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+mM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 27
+
+都市間輸送アプリ「TransFleet」 では、ユーザーの利用が通勤時間帯に集中する傾向が
+あります。予測できない急増にも即応できるよう、常にはつのインスタンスを待機状態
+に保ちながら、リクエスト数に応じて自動でスケーリングする設定が求められています。
+この要件に最も適したスケーリング方式はどれですかぅ
+
+a. Manual Scaling で instance_class を B4 にし、スケーリングは無効にする構成をとる。
+
+b. Basic Scaling で idle_timeout を4時間に設定し、インスタンスの長時間維持を狙う。
+
+c. Automatic Scaling で min_idle_instances を 4 に設定する。
+
+d. Flexible Environment で常時稼働インスタンスを4に固定し、定期的に再デプロイする
+構成にする。
+
+Learning reading speed.                               Page 56 of 204 @ 26%
+
+Ra
+us

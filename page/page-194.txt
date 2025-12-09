@@ -1,0 +1,25 @@
+Source: img-0409.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 46
+
+ある TT 企業では、以下のシステムを Google Cloud へ移行しようとしていま
+す。スケーラビリティと運用の簡素化を最重視する場合、最適な移行方針は
+どれですかぅ
+
+MySQL: トランザクションと在庫管理
+
+Apache Kafka: リアルタイムイベント処理
+
+PostgreSQL: 分析とレポート
+
+a. MySQL = Filestore、 Kafka > Bigtable、 PostgreSQL — Firestore
+b. MySQL — Cloud Spanner, Kafka — Pub/Sub, PostgreSQL — BigQuery
+
+c. MySQL > Bigtable、 Kafka つ Cloud Tasks, PostgreSQL — Cloud Spanner
+d. MySQL — Datastore, Kafka — Vertex Al, PostgreSQL — Data Fusion
+
+Learning reading speed.                       Page 194 of 204 @ 95%

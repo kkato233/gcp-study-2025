@@ -1,0 +1,23 @@
+Source: img-0285.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 26
+
+ある写真共有アプリで、新しくアップロードされた画像を自動的に処理する
+機能を追加しようとしています。Cloud Storage に画像がアップロードされた
+ときに自動で関数を実行するにはどうすればよいですか ?
+
+a. Cloud Functions を使い、Cloud Storage バケットをトリガーに設定する
+
+b. Cloud Run に手動リクエストを送る形で画像処理を行う定期ジョブを構築
+する
+
+c. Cloud Build に画像ファイルを入力とするビルドトリガーを作成する
+
+d. Cloud Spanner を監視対象とし、バケット内のファイル名を定期スキャン
+して処理する
+
+Learning reading speed.                       Page 154 of 204 @ 74%

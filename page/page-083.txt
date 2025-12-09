@@ -1,0 +1,32 @@
+Source: img-0082.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+mM
+5
+
+正解
+
+a
+
+roles/logging.privateLogViewer を付与することで、GCP の管理アクティビティやデータ
+アクセスといったプライベートログの閲覧が可能になります。加えて、IAM 変更ログ
+の確認を依頼することで、監査対象の遂明性と完全性が担保されます。
+
+不正解の解説
+
+b はログの静的な提出手段であり、インタラクティブな調査には不向きです。
+
+c はログ形式によって検索や絞り込みが困難になり、セキュリティ上の管理も類雑にな
+ります。
+
+dは誤操作や権限逸脱のリスクがあり、監査人に対して不適切な権限付与となります。
+
+カテゴリ : Configuring access and security
+
+Learning reading speed.                                             Page 83 of 204 @ 39%
+
+Ra
+us

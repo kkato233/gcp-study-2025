@@ -1,0 +1,34 @@
+Source: img-0412.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Cloud Spanner はスケーラブルで高可用な分散りリレーショナル DB で、トラ
+ンザクションや在庫管理に最適です。
+
+Pub/Sub は Kafka の代替として GCP 標準のイベントストリーミング基盤で、
+リアルタイム処理に強みがあります。
+
+BigQuery はサーバーレスで大規模データ分析に適したデータウェアハウス
+です。PostgreSQL で行っていた分析処理の移行先として最適です。
+
+不正解の解説
+
+a: Filestore や Firestore はそれぞれファイル保存や NoSQL 向けで、トランザ
+クションや分析には不適切です。Bigtable はリアルタイムイベントには過剰
+です。
+
+c: Bigtable は MySQL 代替に向かず、Cloud Tasks はキュー処理特化で Kafka
+の代替には不十分。Spanner は分析には過剰です。
+
+d: Datastore や Vertex AI は対象用途と無関係で、Data Fusion は ETL 用途であ
+り、分析 DB として適しません。
+
+カテゴリ : Planning and configuring a cloud solution + Deploying and implementing
+
+a cloud solution
+
+Learning reading speed.                       Page 195 of 204 @ 95%

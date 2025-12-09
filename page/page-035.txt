@@ -1,0 +1,46 @@
+Source: img-0033.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+d
+
+解説
+
+外部からの UDP 636 ポートでのアクセス
+を許可するには、対象 VM にネットワー
+クタグを付け、そのタグに対するインバ
+ウンドファイアウォールルールを作成す
+るのが正しい構成です。このルールによ
+り、指定されたトラフィックのみが通過
+できるようになります。
+
+不正解の解説
+a. VM 内部の設定だけでは GCP のネット
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+ワークレベルでの許可がされず、外部か
+らの接続はブロックされます。
+
+b. Cloud Router は BGP 経路情報の伝搬に
+使用され、ポボート単位の通信許可とは関
+係ありません。
+
+c. Cloud NAT は外部への送信トラフィッ
+クに関係しており、外部からの受信には
+無関係です。
+
+カテゴリ : Planning and configuring a cloud
+solution + Deploying and implementing a
+
+cloud solution
+
+Page 35 of 204 @ 16%
+
+Aa 0
+

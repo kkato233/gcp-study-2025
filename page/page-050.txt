@@ -1,0 +1,41 @@
+Source: img-0047.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+問題 24
+
+気象情報サービス「StormSense」では、
+インフラ構成の改善提案をチーム全体で
+議論・レビューできるようにする必要が
+あります。提案内容は再現可能な形式で
+管理され、将来的な変更履歴の追跡や
+ロールバックも可能にしたいと考えてい
+ます。Google のベストプラクティスに基
+づいた最適な方法はどれですか ぅ
+
+a. Terraform 構成ファイルを作成し、ZIP
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+圧縮して Cloud Storage にアップロードす
+る
+
+b. Deployment Manager 構成を作成し、
+PDE 形式で共有フォルダに保存する
+
+c. Deployment Manager テンプレートを作
+成し、Cloud Source Repositories に保存す
+る。
+
+d コンソールで手動操作した設定内容を
+エクスポートし、Google Sheets CHAT
+る
+
+Page 50 of 204 @ 23%
+
+Aa 0
+

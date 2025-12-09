@@ -1,0 +1,22 @@
+Source: img-0030.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+Ra
+us
+
+   GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…  = Aa 0
+
+問題15                              a. Cloud Spanner に AVRO ファイルを変         Q
+海洋観測データセンター「AquaA   換・格納し、SQL で解析する
+nalytics」 は、深海センサーから得られた     b. Firestore にデータをインボポートし、ク
+7TB の AVRO 形式データを Cloud    エリを変換して分析する
+Storage 上に保存しています。SQL のみ    c. Hadoop クラスターを構築し、Pig スク
+での分析に慣れた研究員がこのデータを    リプトでクエリを実行する
+即座に解析したいと考えています。イン     d. BigQuery の外部テーブル機能を使い、
+フラ変更やデータ移動を最小限に抑えつ    Cloud Storage 上の AVRO ファイルに直
+つ、コスト効率よく対応するために最適    接クエリを実行する
+
+(eo) な方法はどれですか?
+
+Learning reading speed.                                  Page 32 of 204 @ 14%

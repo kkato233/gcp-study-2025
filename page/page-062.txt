@@ -1,0 +1,26 @@
+Source: img-0058.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 30
+
+火山観測ドローンの制御基盤を GCP 上で構築する計画が進んでいます。制御ノードに
+は遠隔からの不正アクセスを防ぎつつ、ハードウェアの信頼性検証ができる仕組みが求
+められています。Google Cloud の推奨構成として最適なのはどれですか ?
+
+a.ノードごとにセルフホストの TLS 証明書を手動で展開する
+
+b. プライベートな Autopilot クラスタを作成する
+
+c. Cloud VPN 越しにノードヘアクセスし、毎回起動時に Integrity Check を手動実行する
+d フルマネージドの Anthos クラスタを外部認証プロキシと組み合わせて利用する
+
+Learning reading speed.                                             Page 62of204 @ 29%
+
+Ra
+us

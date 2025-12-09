@@ -1,0 +1,27 @@
+Source: img-0367.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 39
+
+メンタルヘルス支援アプリ「MindMate」のインフラチームでは、Google
+Cloud の Compute Engine 上に複数の Linux VM を構築し、今後も段階的に増
+設していく計画です。これらの VM には一切パブリック IP を割り当てず、
+管理者が自宅などのローカル環境から安全に SSH 接続できるようにしたい
+と考えています。この目的に最も適した構成はどれですか ぅ
+
+a. Cloud Identity-Aware Proxy (IAP) を SSH および TCP リソース向けに構成
+する
+
+b. Compute Engine で全 VM に一時的にパブリック IP を割り当て、SSH 接続
+後にTP を削除する運用を定める
+
+c. VPN ゲートウェイを手動構築し ポートフォワーディングで各 VM へ接
+続できるようにする
+
+d. ローカル SSH キーを使い、Cloud DNS に登録したドメイン名から SSH で
+接続するルールを決める
+
+Learning reading speed.                       Page 180 of 204 @ 88%

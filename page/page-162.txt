@@ -1,0 +1,27 @@
+Source: img-0309.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 30
+
+ShopVerse という EC サイトを支えるインフラ環境では、開発チーム「dev1」
+に対して、GCP 上の唯一の Compute Engine インスタンスにセキュアかつ管
+理性の高い SSH アクセスを提供する必要があります。インスタンスには個
+別のアクセス制御が求められており、運用効率とセキュリティの両立が重視
+されています。最適な構成はどれですかぅ?
+
+a. グループ単位で SSH 接続用の VPN サーバを構築し、そこ経由でアクセス
+させる
+
+b. メールアドレスで SSH キーを管理する独自スクリプトを作成し、毎週更
+新する
+
+c. OS Login を有効化し、devl チームに compute.osLogin ロールを付与して
+Cloud Shell 経由で接続させる
+
+d. SSH ボートに IP フィルタを設定し、事前に登録された IP からのみ手動ア
+クセスを許可する
+
+Learning reading speed.                       Page 162of204 @ 78%

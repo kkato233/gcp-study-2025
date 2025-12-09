@@ -1,0 +1,29 @@
+Source: img-0294.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+正解
+
+c
+
+解説
+
+請求データを Cloud Storage にエクスポートし、Google スプレッドシートと
+連携することで、非エンジニアの部門スタッフでも容易に日次・月次の費用
+を可視化できます。Excel 互換の関数やグラフで柔軟な分析が可能です。
+
+不正解の解説
+
+a. Cloud Logging は監査やログ分析用であり、請求情報の集計には向きませ
+ん。
+
+b. Cloud Monitoring はリソースの稼働状況可視化には適していますが、コス
+ト分析には不適です。
+
+d. Pub/Sub は通知やストリーミング用途であり、履歴データの集計には不向
+きです。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 157 of 204 @ 76%

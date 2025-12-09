@@ -1,0 +1,30 @@
+Source: img-0100.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+mM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 49
+
+あなたのチームは「QuickVote」というリアルタイム投票アプリを開発しています。
+
+ユーザーからの投票数は時間帯によって大きく変動し、一時的に大量のデータが発生す
+ることがあります。投票データの保存および処理をスケーラブルに行いたいと考えてい
+ます。最も適切なアーキテクチャはどれですか ぅ
+
+a. Eirestore に投票データを保存し、Cloud Functions を定期的にバッチ処理として実行す
+る
+
+b.Pub/Sub に投票データを送信し、Cloud Functions でリアルタイムに処理する
+
+c. Compute Engine の専用インスタンスにすべての投票を送信し、一括処理する
+
+d. Cloud Storage に投票データを JSON ファイルで保存し、日次バッチで分析する
+
+Learning reading speed.                                  Page 100 of 204 @ 47%
+
+Ra
+us

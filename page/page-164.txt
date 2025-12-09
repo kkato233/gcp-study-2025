@@ -1,0 +1,29 @@
+Source: img-0315.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 31
+
+ナチュラルサプリメントを製造する HealthNature 社では、データ分析結果を
+毎日 Cloud Storage に自動保存する運用を行っています。これらのレポート
+は data-warehouse-team プロジェクトにある仮想マシン (VM) から、 report-
+bucket-main バケットにアップロードされます。セキュリティと継続性の両
+るため、最も適切な設定はどれですか ?
+
+立を
+
+a. VM が使用するサービスアカウントに対して、対象バケットの「Storage
+Object Creator] 権限を割り当てる
+
+b. VM 上で gsutil を使って署名付き URL を生成し、そこからオプジェクト
+を POST リクエストでアップロードする
+
+c. VM インスタンスから Cloud Build 経由でアップロード処理を実行し、ビ
+ルド権限を介して書き込みを行う
+
+d. report-bucket-main を公開バケットに設定し、HTTP 経由で curl アップロー
+ドを許可する
+
+Learning reading speed.                       Page 164 of 204 @ 79%

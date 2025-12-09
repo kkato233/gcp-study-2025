@@ -1,0 +1,27 @@
+Source: img-0178.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+解説
+
+Cloud Bigtable のすべての読み書き操作ログを監査するには、AuditLogs のう
+ち Data Read/Write と Admin Read を有効化します。これらは Cloud Logging
+に蓄積され、さらに Pub/Sub を介して SIEM に送る構成が、Google のベスト
+プラクティスとして推奨される方法です。
+
+不正解の解説
+
+a. Monitoring のアラートでは読み書き操作レベルのログ取得には対応してお
+らず、監査目的には不適切です。
+
+c. Admin Write のみでは読み書き操作のログが漏れてしまい、要件を満たせ
+ません。
+
+ Ops Agent + Dataflow は構成が過剰かつ複雑で、監査用途として推奨され
+る方法から外れます。
+
+カテゴリ : Ensuring successful operation of a cloud solution
+
+Learning reading speed.                       Page 119 of 204 @ 57%

@@ -1,0 +1,24 @@
+Source: img-0094.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+TM
+5
+
+             GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…
+
+問題 46
+ある TT 企業は、新しいプロジェクト管理プラットフォーム (PMP) を Google Cloud 上
+に素早く導入したいと考えています。最も効率的な手順はどれですか ?
+
+a. オープンソースの PMP を GitHub からダウンロードし、手動で GKE にデプロイする
+b.PMP の Docker イメージを手動でビルドし、Compute Engine に配置する
+
+c. Cloud Marketplace で検索し、Marketplace から直接デプロイする
+
+d. ベンダーのドキュメントを参考にして Ansible や Chef で構成管理を行い導入する
+
+Learning reading speed.                                             Page 94 of 204 @ 45%
+
+Ra
+us

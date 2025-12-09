@@ -1,0 +1,47 @@
+Source: img-0039.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+W Kindle Library
+
+正解
+
+a
+
+解説
+
+マネージドインスタンスグループ
+(MIG) には、HTTP ヘルスチェックを用
+いた Autohealing 機能が備わっており、
+
+指定した間隔と失敗回数に基づいてイン
+スタンスの置き換えを自動化できます。
+
+構成もシンプルで、要件を直接満たせま
+す。
+
+不正解の解説
+
+Learning reading speed.
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実…        =i
+
+b. サードパーティ製ツールは運用コスト
+が高く、Google Cloud のネイティブ機能
+に比べて冗長です。
+
+c. GKE の Pod 再スケジューリングはコ
+ンテナ向けであり、Compute Engine イン
+スタンスの修復には適していません。
+
+d 手動対応では即時性がなく、自動修復
+という要件を満たしません。
+
+カテゴリ : Ensuring successful operation of
+
+acloud solution
+
+Page 41 of 204 @ 19%
+
+Aa 0
+

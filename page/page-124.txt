@@ -1,0 +1,24 @@
+Source: img-0192.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実践問題集VOL.1【2025年 …
+
+問題 1
+
+自動データ処理を行う衛星画像解析システムでは、CUCD パイプラインに
+Cloud Build を採用しています。Cloud Build から Cloud Storage や Pub/Sub と
+いった他の GCP リソースへ安全にアクセスさせる必要があります。正しい
+認証構成として最も適切な方法はどれですか ぅ
+
+a.Cloud Build サービスエージェントに必要な IAM ロールを付与する
+
+b. デプロイ元の Git リポジトリに認証情報を保存し、環境変数として参照す
+る
+
+c. Cloud Scheduler を使って Cloud Build ジョブごとに権限を付け直すよう構
+成する
+
+d. Cloud Functions の認証トークンを Cloud Build に渡すように設定する
+
+Learning reading speed.                       Page 124 of 204 @ 59%
