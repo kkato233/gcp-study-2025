@@ -15,6 +15,6 @@ b. MySQL → Cloud Spanner, Kafka →Pub/Sub, PostgreSQL → BigQuery
 c. MySQL →>> Bigtable, Kafka →Cloud Tasks, PostgreSQL → Cloud Spanner
 d. MySQL →Datastore, Kafka → Vertex AI, PostgreSQL Data Fusion
 →
-Learning reading speed...
+
 Page 194 of 204 95%
 >

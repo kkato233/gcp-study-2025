@@ -15,6 +15,6 @@ b. Google Drive にデータファイルを保存し、共有アクセスを設�
 c. Cloud SQL に保存し、複数のリードレプリカで読み込み負荷を分散する
 d. Bigtable に保存し、 タイムスタンプをキーにする
 <
-Learning reading speed...
+
 Page 96 of 204 ⚫ 45%
 ... ◉

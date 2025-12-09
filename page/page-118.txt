@@ -14,7 +14,7 @@ b. Audit Logs Data Read/Write Admin Read Cloud Logging
 c. Audit Logs で Admin Write ログのみを有効にし、 Cloud Function 経由で
 SIEM に転送する
 d. Ops Agent を導入し、 ログを Dataflow パイプラインを通じて SIEM に送る
-Learning reading speed...
+
 Page 118 of 204
 56%
 >

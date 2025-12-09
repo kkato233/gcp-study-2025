@@ -20,5 +20,5 @@ c. Redis はインメモリ用途であり、 永続的なリレーショナル�
 d. Bigtable は大規模データ向けで、コストと運用の面で小規模アプリには不向きです。
 カテゴリ: Ensuring successful operation of a cloud solution
 >
-Learning reading speed...
+
 Page 61 of 204● 29%

@@ -18,6 +18,6 @@ c. 内部ロードバランサはインターネット公開向けではあり�
 d. SSL 証明書を各インスタンスに手動設定すると管理負荷が大きくなります。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 113 of 204
 54%

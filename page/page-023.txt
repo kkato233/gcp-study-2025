@@ -26,5 +26,5 @@ d. Terraform は再現性は高いものの、新
 カテゴリ: Configuring access and security
 <
 不正解の解説
-Learning reading speed...
+
 Page 23 of 204● 10%

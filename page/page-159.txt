@@ -16,6 +16,6 @@ b. ヘルスチェックの閾値変更ではアプリ内部ログの把握は�
 d. debug snapshot は主に開発向け機能であり、 本番運用の監視には不適切で
 す。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 159 of 204 77%
 >

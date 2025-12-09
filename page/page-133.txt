@@ -20,7 +20,7 @@ d. Cloud NAT は外部インターネットへのアウトバウンド接続に�
 SSL 終端やロードバランシングには適していません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 133 of 204
 64%
 >

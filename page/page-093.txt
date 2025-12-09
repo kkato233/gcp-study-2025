@@ -21,5 +21,5 @@ b. Scheduler の定期削除では保持要件を保証できず、要件を満�
 d. 手動移行は管理ミスや漏れのリスクが高く、 運用コストもかさみます。
 カテゴリ: Ensuring successful operation of a cloud solution
 >
-Learning reading speed...
+
 Page 93 of 204 ⚫ 44%

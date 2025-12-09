@@ -22,7 +22,7 @@ c: Cloud CDN はバックエンドにロードバランサが必要で、単体�
 を用いたAレコード設定が主流です。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 199 of 204
 97%
 >

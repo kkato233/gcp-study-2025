@@ -19,6 +19,6 @@ c. Bigtable のデータを BigQuery にロードし、 CloudSpanner は REST AP
 d. Cloud Storage と Bigtable を外部テーブルとして BigQuery に登録し、 SQL で結合・抽
 出する
 <
-Learning reading speed...
+
 Page 68 of 204 32%
 ... ☑

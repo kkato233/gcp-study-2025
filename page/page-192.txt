@@ -18,5 +18,5 @@ c. インスタンスの Syslog を Cloud Monitoring 経由で確認し、 セ�
 >
 d. Cloud Run にスキャンスクリプトをデプロイし、 週次で VM をリモートス
 キャンする
-Learning reading speed...
+
 Page 192 of 204 94%

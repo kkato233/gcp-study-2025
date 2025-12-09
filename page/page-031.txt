@@ -31,7 +31,7 @@ kubeconfig 上のコンテキスト名を変更す
 みなすことには影響しません。
 カテゴリ:Setting up a cloud solution
 environment
-Learning reading speed...
+
 Page 31 of 204 • 14%
 ... B
 >

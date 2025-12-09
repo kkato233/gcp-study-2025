@@ -23,6 +23,6 @@ c. パブリックな Standard クラスタを作成
 し、Shielded Node を有効化する
 d. プライベートなStandard クラスタを作
 成し、 Shielded Node を有効化する
-Learning reading speed...
+
 Page 48 of 204● 22%
 ... B

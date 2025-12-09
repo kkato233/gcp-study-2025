@@ -17,7 +17,7 @@ b. IAP は Web アプリケーションの認証には有効ですが、 RDP 接
 c. Startup Script によるコマンド実行は可能ですが、タイミングやエラー処理
 が難しく、確実性に欠けます。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 145 of 204
 70%
 >

@@ -13,7 +13,7 @@ b. Cloud NAT を経由してイメージ取得用の専用ネットワークを�
 c. GKE ノードで使用するサービスアカウントに Artifact Registry Reader ロー
 ルを割り当てる
 d. Artifact Registry 側に VPC Service Controls を設定してアクセスを許可する
-Learning reading speed...
+
 Page 126 of 204
 60%
 >

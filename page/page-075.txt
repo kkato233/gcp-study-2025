@@ -21,5 +21,5 @@ c. スクリプトによる Slack 連携は初期開発・保守の負担が大�
 d. 外部ログサービスの連携はコストや運用の複雑化を招き、 標準監視機能を活用した方
 が効率的です。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 75 of 204.35%

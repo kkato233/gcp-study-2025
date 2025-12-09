@@ -30,5 +30,5 @@ d. Standard クラスタは Autopilot に比べ管
 理負荷が高く、 自動化による運用効率が
 得られません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 49 of 204● 23%

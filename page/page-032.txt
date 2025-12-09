@@ -27,6 +27,6 @@ Cloud Storage 上の AVRO ファイルに直
 接クエリを実行する
 ☐ ☑
 <
-Learning reading speed...
+
 Page 32 of 204.14%
 >

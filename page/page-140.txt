@@ -17,5 +17,5 @@ c. 外部 USB デバイスに認証ファイルを保存し、 それを RDP 経
 d. 自作の Windows 管理ツールで API 経由でポート転送し、仮想デスクトッ
 プに接続する
 >
-Learning reading speed...
+
 Page 140 of 204 68%

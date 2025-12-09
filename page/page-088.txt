@@ -17,6 +17,6 @@ b. Cloud DNS で storage.googleapis.com の名前解決をプライベート IP 
 c. カスタム VPC のサブネットに Private Google Access を有効化する
 d. Cloud Router を構成し、 ストレージ用トラフィックを VPN 経由で転送する
 <
-Learning reading speed...
+
 Page 88 of 204 41%
 ... ☑

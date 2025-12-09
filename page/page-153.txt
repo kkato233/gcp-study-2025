@@ -20,7 +20,7 @@ c. アプリケーションレベルでのキャッシュ制御は有効な戦�
 データベース構造のボトルネックは解消されません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 153 of 204
 74%
 >

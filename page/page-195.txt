@@ -23,6 +23,6 @@ d: Datastore や Vertex AI は対象用途と無関係で、 Data Fusion は ETL
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
 >
-Learning reading speed...
+
 Page 195 of 204
 95%

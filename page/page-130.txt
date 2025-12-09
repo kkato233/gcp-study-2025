@@ -17,5 +17,5 @@ c. モニタリングエディタ IAM ロールを付与し、マーケティン
 d. ログ閲覧者 IAM ロールを AdWave プロジェクトに付与し、 費用情報を
 Cloud Logging に送信する
 >
-Learning reading speed...
+
 Page 130 of 204 62%

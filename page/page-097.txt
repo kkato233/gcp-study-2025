@@ -20,5 +20,5 @@ c. Cloud SQL は大量の書き込み負荷に耐えられず、 スケール性
 <
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 97 of 204 ⚫ 46%

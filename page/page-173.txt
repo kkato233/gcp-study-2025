@@ -24,7 +24,7 @@ d. Cloud Storage への直接書き込みと Composer による定期処理は�
 構成であり、リアルタイム要件を満たしません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 173 of 204
 84%
 >

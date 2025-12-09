@@ -18,7 +18,7 @@ b. api-gateway や endpoints は特定のサービス構成確認用であり、
 d. endpoints list --global は有効 API の列挙ではなく、 サービスの定義単位の情
 報表示に過ぎません。
 カテゴリ: Setting up a cloud solution environment
-Learning reading speed...
+
 Page 105 of 204
 49%
 >

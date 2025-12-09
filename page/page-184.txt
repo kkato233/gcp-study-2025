@@ -18,6 +18,6 @@ c. 契約者に VPN 設定ファイルを共有し、 プロジェクト内のIA
 d. VM に一時ユーザーを作成しておき、契約者に gcloud CLI を使わせて
 Cloud Shell から接続させる
 >
-Learning reading speed...
+
 Page 184 of 204
 90%

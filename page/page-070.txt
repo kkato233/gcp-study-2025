@@ -15,6 +15,6 @@ c. まずは小規模 VM で開始し、負荷状況に応じて vCPU を手動�
 d. 特定の CPU アーキテクチャ (例: Broadwell) を選択し、後から CPU 数を変更可能
 にする
 <
-Learning reading speed...
+
 Page 70 of 204.33%
 ... ◉

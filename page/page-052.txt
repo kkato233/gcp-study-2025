@@ -17,7 +17,5 @@ b. GKE クラスタに TensorFlow 専用の新しいネームスペースを作�
 c. GPU ドライバを含むカスタムOSイメージを使用してクラスタを再構築する
 d. すべての Pod に cloud.google.com/accelerator: enabled を設定し、GPU 利用を一律で許
 可する
-<
-Learning reading speed...
+
 Page 52 of 204 ⚫ 24%
-... ☑

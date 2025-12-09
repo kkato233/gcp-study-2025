@@ -18,6 +18,6 @@ c. Admin Write のみでは読み書き操作のログが漏れてしまい、�
 d. Ops Agent + Dataflow は構成が過剰かつ複雑で、監査用途として推奨され
 る方法から外れます。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 119 of 204 57%
 >

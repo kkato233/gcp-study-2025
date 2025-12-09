@@ -19,5 +19,5 @@ c. 最初の 30 日間は Coldlineストレージを使い、 その後は Nearl
 d. 最初の 30 日間は Standard ストレージを使い、 その後も変更せず3年間そ
 のまま保持する
 >
-Learning reading speed...
+
 Page 168 of 204 81%

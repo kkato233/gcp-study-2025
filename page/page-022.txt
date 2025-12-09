@@ -26,6 +26,6 @@ YAML 形式でロール定義を再記述してデ
 プロイする。
 d. Terraform 構成を新規作成し、手作業
 でカスタムロールを定義して apply する。
-Learning reading speed...
+
 Page 22 of 204● 10%
 ... B

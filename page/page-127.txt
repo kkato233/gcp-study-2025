@@ -18,7 +18,7 @@ b. Cloud NAT はインターネット通信を可能にしますが、 IAM ベ�
 d. VPC Service Controls はデータ漏洩対策用の境界制御であり、単体でのアク
 セス許可はできません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 127 of 204
 61%
 >

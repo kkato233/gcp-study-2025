@@ -18,7 +18,7 @@ d. Dataflow の動画分割は複雑かつ非効率で、 CSV エクスポート
 増えます。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 115 of 204
 55%
 >

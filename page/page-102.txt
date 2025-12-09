@@ -14,6 +14,6 @@ b. VPC ピアリングを構成する
 c. Cloud Router で動的ルーティングを設定する
 d. Cloud Interconnect で専用線を敷設する
 <
-Learning reading speed...
+
 Page 102 of 204 ⚫ 48%
 ... ☑

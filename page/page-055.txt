@@ -17,8 +17,7 @@ b. ノードのマシンタイプ変更は直接行えず、クラスタ再作�
 d. 新規クラスタ構築とサービス停止による移行は運用負荷が高く、 既存機能で回避可能
 ... ☑
 です。
-<
-カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
-solution
-Learning reading speed...
+
+カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud solution
+
 Page 55 of 204 26%

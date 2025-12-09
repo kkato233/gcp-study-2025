@@ -18,7 +18,7 @@ Transfer PNG
 c. クラウドストレージ API を使い全データを一括アップロードする
 d. Dataflow を使い動画を分割して転送、 Redshift は CSV エクスポートで移
 行、 PNG は手動アップロード
-Learning reading speed...
+
 Page 114 of 204
 54%
 >

@@ -20,7 +20,7 @@ d. Cloud Storage はオブジェクトストレージであり、 API 経由の�
 発生しやすく、 ゲームサーバー間通信には不適切です。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 135 of 204
 65%
 >

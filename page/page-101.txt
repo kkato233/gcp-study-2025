@@ -19,5 +19,5 @@ d. JSON ファイルのバッチ処理は即時性がなく、ユーザー体験
 <
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 101 of 204 ● 48%

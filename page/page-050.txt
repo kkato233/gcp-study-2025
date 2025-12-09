@@ -27,6 +27,6 @@ d. コンソールで手動操作した設定内容を
 る
 <
 a. Terraform 構成ファイルを作成し、ZIP
-Learning reading speed...
+
 Page 50 of 204● 23%
 ... ☑

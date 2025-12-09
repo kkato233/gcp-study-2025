@@ -21,6 +21,6 @@ d. Pub/Sub : メッセージングシステムであり、 データベースと
 いません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 201 of 204
 98%

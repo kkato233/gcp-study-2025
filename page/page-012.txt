@@ -5,7 +5,7 @@ OCR Method: Google Cloud Vision API
 ... B
 Kindle Library
 問題 5
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+
 宇宙観測用データ処理施設 「OrbitScope」
 では、 Kubernetes ベースの GKE クラス
 ターを構築中です。 施設の各ノードから
@@ -15,16 +15,18 @@ GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
 拡張にも対応できるよう、各ノードにモ
 ニタリング Pod を自動的に配置するため
 の最適な方法はどれですか?
-Aa
+
 a. CronJob で定期的にモニタリング Pod
 を起動し、 使用後に削除する
+
 b. ReplicationController で Pod 数を制御し
 ながらノードに分配する
+
 c. ReplicaSet で Pod の複製を行い、ノー
 ド全体に分散する
+
 d. DaemonSet でモニタリング Pod を展開
 する
-<
-Learning reading speed...
+
 Page 12 of 204 ⚫ 5%
 T

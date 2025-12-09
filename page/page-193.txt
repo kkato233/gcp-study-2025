@@ -19,6 +19,6 @@ c. Syslog では脆弱性レポートそのものは確認できず、 セキュ
 d. Cloud Run は VM に直接アクセスできず、脆弱性検査用途には適していま
 せん。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 193 of 204 94%
 >

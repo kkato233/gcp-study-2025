@@ -16,7 +16,7 @@ b. Cloud DNS にAレコードを追加してリージョンごとに手動でト
 クを振り分ける
 c. HTTP(S) ロードバランサーを設定する
 d. Cloud NAT を使用して SSL 終端を行う
-Learning reading speed...
+
 Page 132 of 204
 63%
 >

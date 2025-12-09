@@ -20,7 +20,7 @@ d. BigQuery や Dataflow は分析やストリーム処理向けであり、フ�
 動・同期には不適です。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 187 of 204
 91%
 >

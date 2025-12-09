@@ -16,6 +16,6 @@ b.logs.reader 権限を付与し、 監査チームには定期レポートと�
 c. Cloud Storage にログをアーカイブし、署名付き URL で一時アクセスを提供する
 d. IAM ポリシー変更権限を一時的に共有し、 操作内容を自己確認させる
 <
-Learning reading speed...
+
 Page 82 of 204 39%
 ... ☑

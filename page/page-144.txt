@@ -14,6 +14,6 @@ c. Terraform スクリプトで Startup Script を定義し、パスワード設
 を実行する
 d. VM 作成時にメタデータにキー windows-password を追加してパスワードを
 設定する
-Learning reading speed...
+
 Page 144 of 204 69%
 >

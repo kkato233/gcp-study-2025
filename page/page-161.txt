@@ -19,6 +19,6 @@ b. ReplicaSet の世代は Deployment 更新の反映に関係しますが、 PE
 d. DNS 名や Service Discovery は、 Pod が稼働している前提の通信課題に関係
 し、スケジューリング段階の PENDING には関係ありません。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 161 of 204 78%
 >

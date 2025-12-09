@@ -18,7 +18,7 @@ b. IAM の後付け設定は即時反映されず、 誤設定によるアクセ
 d. Secrets Manager は機密情報管理に適しますが、 VM からのキー取得手順は
 複雑で推奨されません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 123 of 204
 59%
 >

@@ -5,12 +5,11 @@ OCR Method: Google Cloud Vision API
 >
 Kindle Library
 問題 26
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実・・
-Aa
-物流管理システムを運用する「TransMove 社」では、既存の GKE クラスタで t2-
-standard-4 タイプのノードを使用しています。 今後、 より多くのメモリを必要とする
-x4-highmem-16 ノードを利用する Pod を追加したいと考えています。 サービスの停止な
-くスムーズに対応するための最適な方法はどれですか?
+
+物流管理システムを運用する「TransMove 社」では、既存の GKE クラスタで 
+t2-standard-4 タイプのノードを使用しています。 今後、 より多くのメモリを必要とする
+x4-highmem-16 ノードを利用する Pod を追加したいと考えています。 
+サービスの停止なくスムーズに対応するための最適な方法はどれですか?
 a. 新規に x4-highmem-16 ノードのみのクラスタを構築し、 既存 Pod をすべて移行してか
 ら古いクラスタを停止する
 b. t2-standard-4 ノードのマシンタイプをアップグレードするためにクラスタ全体を再作
@@ -19,5 +18,5 @@ c. 既存のクラスタに x4-highmem-16ノードを使った新しいノード
 Pod をデプロイする
 d. x4-highmem-16 ノードと t2-standard-4 ノードの混在クラスタを新規構築し、サービス
 を一時停止して Pod を移動する
-Learning reading speed...
+
 Page 54 of 204● 25%

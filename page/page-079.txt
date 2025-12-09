@@ -21,5 +21,5 @@ c. クエリパラメータ調整は最適化の一環ではありますが、 C
 足対応には直接効果がありません。
 カテゴリ: Ensuring successful operation of a cloud solution
 >
-Learning reading speed...
+
 Page 79 of 204● 37%

@@ -14,7 +14,7 @@ b. デプロイ元の Gitリポジトリに認証情報を保存し、 環境変
 c. Cloud Scheduler を使って Cloud Build ジョブごとに権限を付け直すよう構
 成する
 d. Cloud Functions の認証トークンを Cloud Build に渡すように設定する
-Learning reading speed...
+
 Page 124 of 204
 59%
 >

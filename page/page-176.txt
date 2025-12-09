@@ -19,6 +19,6 @@ Luna と Nova を追加する
 d. 必要な API を有効化し、各プロジェクトのStackdriver ダッシュボード
 URL をリンク集としてまとめる
 >
-Learning reading speed...
+
 Page 176 of 204
 86%

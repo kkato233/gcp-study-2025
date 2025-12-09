@@ -14,6 +14,6 @@ b. プライベートな Autopilot クラスタを作成する
 c. Cloud VPN 越しにノードへアクセスし、毎回起動時に Integrity Check を手動実行する
 d. フルマネージドのAnthos クラスタを外部認証プロキシと組み合わせて利用する
 <
-Learning reading speed...
+
 Page 62 of 204● 29%
 ... ☑

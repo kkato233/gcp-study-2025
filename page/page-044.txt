@@ -28,6 +28,6 @@ d. App Engine 上で使用するサービスアカ
 ウントに Cloud SQL Viewer ロールを割り
 当て、データ連携を行う
 <
-Learning reading speed...
+
 Page 44 of 204● 20%
 >

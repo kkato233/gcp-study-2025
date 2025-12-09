@@ -2,9 +2,6 @@ Source: page-041.png
 OCR Method: Google Cloud Vision API
 ================================================================================
 
-... B
-<
-Kindle Library
 正解
 a
 解説
@@ -27,5 +24,5 @@ d. 手動対応では即時性がなく、自動修復
 a cloud solution
 す。
 不正解の解説
-Learning reading speed...
+
 Page 41 of 204.19%

@@ -6,7 +6,7 @@ OCR Method: Google Cloud Vision API
 Kindle Library
 正解
 d
-GOOGLE CLOUD 認定資格 ASSOCIATE CLOUD ENGINEER 実･･･
+
 解説
 DaemonSet を使用することで、GKE クラ
 スターのすべてのノードに対して1つず
@@ -14,20 +14,21 @@ DaemonSet を使用することで、GKE クラ
 ノードが追加された際にも自動的に対応
 でき、モニタリング用途に最適な構成で
 す。
+
 不正解の解説
 a. CronJob は一時的なタスク実行に使う
-Aa
-☐ ☑
-もので、常時モニタリングには適しませ
-ん。
+もので、常時モニタリングには適しません。
+
 b. ReplicationController は廃止傾向にあり、
 ノードごとの配置制御はできません。
+
 c. ReplicaSet は Pod の数は制御できます
 が、ノードごとの分散配置は保証されま
 せん。
+
 カテゴリ: Planning and configuring a cloud
 solution Deploying and implementing a
 cloud solution
-<
-Learning reading speed...
+
+
 Page 13 of 204 ⚫ 5%

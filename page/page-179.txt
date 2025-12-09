@@ -17,6 +17,6 @@ b. Cloud Logging はログ収集には有効ですが、 BigQuery ジョブ固�
 d. Dataflow はストリーミング処理向けであり、 夜間バッチ集計処理とは無関
 係です。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 179 of 204 87%
 >

@@ -16,6 +16,6 @@ c. Automatic Scaling で min_idle_instances を 4 に設定する。
 d. Flexible Environment で常時稼働インスタンスを4に固定し、定期的に再デプロイする
 構成にする。
 <
-Learning reading speed...
+
 Page 56 of 204 26%
 ... ☑

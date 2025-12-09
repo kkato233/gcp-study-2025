@@ -20,7 +20,7 @@ d. Standard ストレージに3年間保持し続けると、 頻度に対して
 になり非効率です。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 169 of 204
 82%
 >

@@ -29,7 +29,7 @@ c. Cloud Run を使用して定期的にログを
 d. Logging Agent を強化し、 ログデータを
 Redis キャッシュに保存して低頻度アク
 セスに備える。
-Learning reading speed...
+
 Page 20 of 2049%
 ... B
 >

@@ -24,7 +24,7 @@ c. kubectl config use-context を使って対象
 作が最も簡潔で効果的ですか?
 d. Terraform state ファイルを手動で解析
 し、過去の構成を読み取る。
-Learning reading speed...
+
 Page 16 of 204 ⚫ 7%
 ... B
 >

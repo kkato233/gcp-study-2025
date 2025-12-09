@@ -17,6 +17,6 @@ c. 新しい GCP プロジェクトを作成し、そこで App Engine アプリ
 d. Cloud Load Balancing でリージョン間の分散を構成し、 App Engine の配置
 リージョンを自動調整する
 >
-Learning reading speed...
+
 Page 136 of 204
 65%

@@ -21,6 +21,6 @@ d. Artifact Registry と Cloud Functions はコンテナやイベント駆動処
 もので、VM 作成には関係がありません。
 カテゴリ: Setting up a cloud solution environment
 >
-Learning reading speed...
+
 Page 107 of 204
 50%

@@ -18,6 +18,6 @@ c. VPN ゲートウェイを手動構築し、 ポートフォワーディング
 d. ローカル SSH キーを使い、 Cloud DNS に登録したドメイン名からSSHで
 接続するルールを決める
 >
-Learning reading speed...
+
 Page 180 of 204
 88%

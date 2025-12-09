@@ -18,6 +18,6 @@ b. サードパーティ製ツールは不要で、GCP ネイティブ機能で�
 c. Cloud Functions は一時的な処理には有効ですが、 持続的なスケーリングに
 は不向きです。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 139 of 204 67%
 >

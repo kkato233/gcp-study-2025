@@ -22,5 +22,5 @@ c. フォルダレベルのメタデータでキー使用時間を 24 時間制�
 <
 d. Stackdriver Logs-based アラートでキー作成を監視し、 検出時に Slack に通知して手動
 で無効化する
-Learning reading speed...
+
 Page 66 of 204 ⚫ 31%

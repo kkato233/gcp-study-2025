@@ -19,5 +19,5 @@ c. gcloud projects list でプロジェクト ID を確認し、gcloud services 
 project <project ID> を実行する
 d. gcloud endpoints list --global を実行し、該当プロジェクトの API 構成を確
 認する
-Learning reading speed...
+
 Page 104 of 204 ⚫ 49%

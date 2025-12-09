@@ -28,5 +28,5 @@ d. VM に任意のネットワークタグを追加
 ☐ ☑
 <
 a. UDP ポート 636で受信を許可する VM
-Learning reading speed...
+
 Page 34 of 204 15%

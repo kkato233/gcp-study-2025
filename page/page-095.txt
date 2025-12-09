@@ -19,5 +19,5 @@ d. 構成管理ツールは柔軟ですが、 初期導入の迅速性には欠�
 <
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 95 of 204 45%

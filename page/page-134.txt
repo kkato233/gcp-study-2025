@@ -17,6 +17,6 @@ c. オンプレミスと Google Cloud 間に Cloud VPN を構成する
 d. オンプレミスから Google Cloud Storage に直接アクセスし、API 経由で通
 信させる
 >
-Learning reading speed...
+
 Page 134 of 204
 64%

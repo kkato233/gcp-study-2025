@@ -18,6 +18,6 @@ b. スプレッドシートはドキュメント管理には使えますが、 I
 d. 手動バックアップでは IaCの利点である自動構築・一貫性を活かせません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 189 of 204
 92%

@@ -14,7 +14,7 @@ Coldline へ移行する
 c. リージョンストレージを使用し、 30日後に Coldline へ移行する
 d. Archive ストレージを最初から使用し、 必要に応じて Standard に戻すライ
 フサイクルルールを設定する
-Learning reading speed...
+
 Page 170 of 204
 83%
 >

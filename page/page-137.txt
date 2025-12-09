@@ -21,7 +21,7 @@ d. Cloud Load Balancing はリージョン間のアプリ構成自体を動的�
 せん。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 137 of 204
 66%
 >

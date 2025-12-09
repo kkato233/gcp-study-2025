@@ -14,7 +14,7 @@ a. SSH 接続後に cron でログ収集スクリプトを実行し、結果を 
 b. ヘルスチェックで閾値を下げて監視する
 c. Cloud Logging にログを送信し、アラートポリシーを設定する
 d. gcloud debug snapshot を用いてリアルタイムデバッグを開始する
-Learning reading speed...
+
 Page 158 of 204
 76%
 >

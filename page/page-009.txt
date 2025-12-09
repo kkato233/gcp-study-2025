@@ -26,6 +26,6 @@ API (compute.googleapis.com)を有効化
 Compute 操作が失敗します。
 <
 不正解の解説
-Learning reading speed...
+
 Page 9 of 204 3%
 ... ☑

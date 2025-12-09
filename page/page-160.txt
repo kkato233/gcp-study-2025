@@ -18,5 +18,5 @@ c. PENDING 状態の Pod ecojourney-backend-deployment-alb2c3-x9y8z を調査し
 d. Service Discovery で DNS名が正しく登録されているか nslookup で検証す
 る
 >
-Learning reading speed...
+
 Page 160 of 204 77%

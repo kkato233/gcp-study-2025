@@ -20,5 +20,5 @@ c. REST API での結合はパフォーマンスが低く、 大量データ処�
 <
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 69 of 204.33%

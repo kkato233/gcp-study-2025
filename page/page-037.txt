@@ -31,5 +31,5 @@ cloud solution
 >
 不正解の解説
 a. Cloud NAT はパブリック IP を持たない
-Learning reading speed...
+
 Page 37 of 204 17%

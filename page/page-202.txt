@@ -15,7 +15,7 @@ b. Cloud Storage にコードを保存し、ユーザーごとに Cloud Function
 c. 仮想マシンに手動で複数インスタンスを作成し、 負荷状況に応じて手動で
 スケールする
 d. AppSheet で UI を作成し、アクセスに応じて手動で VM 数を増やす
-Learning reading speed...
+
 Page 202 of 204
 99%
 >

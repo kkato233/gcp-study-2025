@@ -21,6 +21,6 @@ c. VM 内部では IAM 制御が効かず、 ホワイトリスト化できな�
 d. Firewall 制御はネットワークレイヤに限定され、 IAM によるストレージアクセス管理
 には対応できません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 65 of 204 ⚫ 31%
 ... ☑

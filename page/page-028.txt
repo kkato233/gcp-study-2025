@@ -27,5 +27,5 @@ team=true」 を付け、監査とコスト分離を
 d. vidsphere-encode-core と同じプロジェ
 クト ID で新プロジェクトを作成し、
 チーム間で Editor 権限を共有する。
-Learning reading speed...
+
 Page 28 of 204 12%

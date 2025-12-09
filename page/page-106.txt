@@ -18,6 +18,6 @@ c. gcloud CLI で新規プロジェクトを作成し、 Compute Engine API を�
 てから、対象プロジェクトでVM を作成する
 d. Artifact Registry で VM イメージを事前に作成し、それを Cloud Functions
 経由で展開する
-Learning reading speed...
+
 Page 106 of 204 50%
 >

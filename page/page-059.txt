@@ -17,6 +17,6 @@ b. ローカル保存は自動化されておらず、コスト削減の面で�
 c. 削除は将来の参照が不可能になり、 非推奨です。
 d. DLP API はセキュリティ対策であり、ストレージ最適化には関係がありません。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 59 of 204 ⚫ 28%
 ... ☑

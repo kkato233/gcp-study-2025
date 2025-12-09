@@ -17,7 +17,7 @@ c. OS Login を有効化し、 dev1 チームに compute.osLogin ロールを付
 Cloud Shell 経由で接続させる
 d. SSH ポートにIP フィルタを設定し、事前に登録されたIPからのみ手動ア
 クセスを許可する
-Learning reading speed...
+
 Page 162 of 204
 78%
 >

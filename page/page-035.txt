@@ -30,7 +30,7 @@ c. Cloud NAT は外部への送信トラフィッ
 solution Deploying and implementing a
 cloud solution
 a. VM 内部の設定だけでは GCP のネット
-Learning reading speed...
+
 Page 35 of 204.16%
 ... B
 >

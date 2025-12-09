@@ -28,5 +28,5 @@ c. Hadoop 環境の構築 運用は複雑でコ
 solution Deploying and implementing a
 cloud solution
 <
-Learning reading speed...
+
 Page 33 of 204 15%

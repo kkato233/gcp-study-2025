@@ -14,6 +14,6 @@ a. Cloud Console のジョブ履歴ページでバッチ処理の実行ステー
 b. Cloud Logging でスケジュール処理のログエントリをフィルタリングする
 c. BigQuery のインターフェースで夜間ジョブのエラーを確認する
 d. Dataflow の監視インターフェースでデータフロー状況を確認する
-Learning reading speed...
+
 Page 178 of 204 87%
 >

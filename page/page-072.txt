@@ -17,6 +17,6 @@ b. us-centrall-a ゾーンのマネージドインスタンスグループに冗
 c. グローバル HTTP (S) ロードバランサーを使って複数リージョンにトラ
 フィックを分散する
 d. us-centrall-b にもリソースを配置し、 両ゾーンで負荷分散する
-Learning reading speed...
+
 Page 72 of 204 34%
 Σ

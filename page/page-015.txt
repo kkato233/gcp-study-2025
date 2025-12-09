@@ -28,6 +28,6 @@ solution Deploying and implementing a
 cloud solution
 <
 a. VPC ピアリングは異なる VPC 間の通
-Learning reading speed...
+
 Page 15 of 204 ⚫ 6%
 ... B

@@ -16,6 +16,6 @@ c. Cloud Functions を利用して VM インスタンスをイベント駆動で
 d. マネージドインスタンスグループ (MIG) で CPU 使用率に基づいたオー
 トスケーリングを設定する
 >
-Learning reading speed...
+
 Page 138 of 204
 67%

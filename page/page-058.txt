@@ -19,6 +19,6 @@ c. Cloud Logging でアクセスのないファイルを検出し、 週次バ�
 リプトを実行する。
 d. Data Loss Prevention API で画像内のメタデータを検出し、 個別に削除タイミングを設
 定する。
-Learning reading speed...
+
 Page 58 of 204● 27%
 ... ☑

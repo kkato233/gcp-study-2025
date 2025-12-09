@@ -13,6 +13,6 @@ b. Pub/Sub にデータをストリーミングし、 Dataflow で処理後、 C
 c. BigQuery に直接ストリーミング挿入し、Cloud Functions で毎秒集計を行う
 d. Cloud Storage に直接ファイルを書き込み、Cloud Composer で定期処理を行
 う
-Learning reading speed...
+
 Page 172 of 204 84%
 >

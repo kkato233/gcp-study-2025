@@ -14,7 +14,7 @@ b. gcloud config set core/region europe-westl を実行し、 ゾーンを関連
 c. **gcloud config コマンドでデフォルトゾーンに europe-westl-d を設定する
 ** d. ~/.bashrc に export CLOUDSDK_COMPUTE_ZONE=europe-westl-d` を書
 いて環境変数として設定する
-Learning reading speed...
+
 Page 128 of 204
 61%
 >

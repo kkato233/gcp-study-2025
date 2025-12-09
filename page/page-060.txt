@@ -16,6 +16,6 @@ b. Cloud SQL (MySQL) を使用し、 バイナリログを有効化する。
 c. Memorystore for Redis に全データを保存し、毎時バックアップを実施する。
 d. Cloud Bigtable を構成し、変更ログを外部に出力してポイントリカバリに利用する。
 <
-Learning reading speed...
+
 Page 60 of 204● 28%
 ... ☑

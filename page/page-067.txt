@@ -20,6 +20,6 @@ c. メタデータだけではキーの有効期間制限の強制や他プロ�
 <
 d. ログ監視と手動対応では遅すぎて、 鍵の露出や誤用時に即時制御できません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 67 of 204.32%
 ... ☑

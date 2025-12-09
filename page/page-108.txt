@@ -15,6 +15,6 @@ b. 認証情報を SHA-256 でハッシュ化し、 証明書用設定ファイ�
 c. システムの環境変数として CLOUDSDK_PROXY_USERNAME および
 CLOUDSDK_PROXY_PASSWORD を設定する
 d. 認証情報を直接 ~/.config/gcloud/configurations/config_default に手書きする
-Learning reading speed...
+
 Page 108 of 204● 51%
 >

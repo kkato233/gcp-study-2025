@@ -30,5 +30,5 @@ d. 運用チームに Logging Admin ロールを
 付与して、全ログとメトリクスにアクセ
 スできるようにする
 <
-Learning reading speed...
+
 Page 24 of 204● 10%

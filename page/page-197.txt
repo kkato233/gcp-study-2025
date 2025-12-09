@@ -18,6 +18,6 @@ c: 手動レビューは非効率でミスも発生しやすく、スケーラ�
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
 >
-Learning reading speed...
+
 Page 197 of 204
 96%

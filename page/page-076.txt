@@ -20,5 +20,5 @@ c. Cloud Monitoring のアラートが webhook を呼び出し、Cloud Function 
 d. Cloud Logging のログを Storage に保存し、ログサイズが一定を超えたら通知をトリ
 ガーに手動でインスタンスを追加する
 >
-Learning reading speed...
+
 Page 76 of 204.36%

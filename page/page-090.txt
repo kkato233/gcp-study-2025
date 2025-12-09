@@ -16,6 +16,6 @@ b.techfolio.com に MX レコードを設定し、 www と home に SRV レコ�
 c. techfolio.com に PTR レコードを設定し、www と home に SOA レコードを設定する
 d. techfolio.com にAレコード、 www と home に CNAME レコード
 <
-Learning reading speed...
+
 Page 90 of 204 43%
 ... ☑

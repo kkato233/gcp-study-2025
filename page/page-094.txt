@@ -13,6 +13,6 @@ b. PMP の Dockerイメージを手動でビルドし、Compute Engine に配置
 c. Cloud Marketplace で検索し、 Marketplace から直接デプロイする
 d. ベンダーのドキュメントを参考にして Ansible や Chef で構成管理を行い導入する
 <
-Learning reading speed...
+
 Page 94 of 204 ⚫ 45%
 ... ☑

@@ -20,7 +20,7 @@ d. Cloud Spanner はデータベースであり、ファイルアップロード
 検出する手段にはなりません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 155 of 204
 75%
 >

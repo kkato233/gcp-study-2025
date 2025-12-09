@@ -17,6 +17,6 @@ b. Cloud Monitoring はリソースの稼働状況可視化には適していま
 d. Pub/Sub は通知やストリーミング用途であり、 履歴データの集計には不向
 きです。
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 157 of 204 76%
 >

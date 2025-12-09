@@ -17,6 +17,6 @@ Run を起動してアップロードさせる。
 d. BigQuery に動画情報を登録し、連携する Dataflow で Cloud Storage へ書き
 出す構成を作る。
 >
-Learning reading speed...
+
 Page 186 of 204
 91%

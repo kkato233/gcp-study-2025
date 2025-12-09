@@ -20,5 +20,5 @@ b. IAM ロールの割り当ては権限管理であり、 統合的な監視環
 d. 単なるリンク集ではリアルタイムの一括監視や分析には対応できません。
 >
 カテゴリ: Ensuring successful operation of a cloud solution
-Learning reading speed...
+
 Page 177 of 204 86%

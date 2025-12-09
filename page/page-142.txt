@@ -15,7 +15,7 @@ b. gsutil move で90日ごとに Coldline バケットへ手動移行し、 1年
 る
 c. Lifecycle JSON 設定を用いて 90日で移行、365日で削除を自動化する
 d. gsutil rewrite で365日後に削除するように設定する
-Learning reading speed...
+
 Page 142 of 204
 68%
 >

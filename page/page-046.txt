@@ -27,5 +27,5 @@ d. Cloud Identity 経由で一度ログインした
 <
 a. アプリに Google Cloud ユーザーのパス
 ワードを埋め込み、 OAuth トークンを発
-Learning reading speed...
+
 Page 46 of 204 21%

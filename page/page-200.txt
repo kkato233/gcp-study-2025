@@ -12,7 +12,7 @@ a. Memorystore
 b. Dataproc
 c. Cloud SQL
 d. Pub/Sub
-Learning reading speed...
+
 Page 200 of 204
 98%
 >

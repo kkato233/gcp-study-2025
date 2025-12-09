@@ -25,6 +25,6 @@ d. リソースを固定最大で確保すると無駄
 が多く、コストも増加します。
 カテゴリ: Ensuring successful operation of
 a cloud solution
-Learning reading speed...
+
 Page 43 of 204● 20%
 ... ☑

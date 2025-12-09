@@ -30,5 +30,5 @@ ova の GCP 組織に移動し、移行後に課金
 d. 新たに第三の GCP 組織を作成し、両
 社のプロジェクトと課金アカウントをそ
 こへ集約する。
-Learning reading speed...
+
 Page 6 of 204 2%

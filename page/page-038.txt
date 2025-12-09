@@ -33,5 +33,5 @@ Scheduler で毎時実行し、 超過時にメール
 d. VPC フローログを収集して Storage に
 保管し、 Cloud Dataflow で料金推定を
 行って通知するバッチを構成する。
-Learning reading speed...
+
 Page 38 of 204 ⚫ 17%

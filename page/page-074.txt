@@ -18,5 +18,5 @@ b. Cloud Logging に保存されたログを週次で確認し、CPU 使用率�
 c. VM 内にインストールしたスクリプトで CPU 使用率を監視し、 Slack API で通知を送
 信する構成を作る
 d. VM に Syslog を送信し、そのログを外部のログ解析サービスに連携して監視する
-Learning reading speed...
+
 Page 74 of 204.35%

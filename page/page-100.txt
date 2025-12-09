@@ -16,6 +16,6 @@ b. Pub/Sub に投票データを送信し、 Cloud Functions でリアルタイ�
 c. Compute Engine の専用インスタンスにすべての投票を送信し、一括処理する
 d. Cloud Storage に投票データを JSON ファイルで保存し、 日次バッチで分析する
 <
-Learning reading speed...
+
 Page 100 of 204 • 47%
 ... ☑

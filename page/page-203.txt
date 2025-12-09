@@ -18,7 +18,7 @@ d. AppSheet はノーコードツールであり、本格的なSNSアプリの�
 グには適していません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 203 of 204
 99%
 >

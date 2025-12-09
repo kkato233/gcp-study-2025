@@ -20,6 +20,6 @@ d. Cloud CDN は静的コンテンツの配信に用いるもので、バッチ�
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
 >
-Learning reading speed...
+
 Page 191 of 204
 93%

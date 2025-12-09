@@ -16,6 +16,6 @@ cは不要に複雑で、 管理コストや設定ミスのリスクが高まり
 d は Cloud Build の実行主体と異なるサービスの認証方式を混用しており、 適
 切な構成ではありません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 125 of 204 60%
 >

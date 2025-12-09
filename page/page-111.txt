@@ -17,6 +17,6 @@ d. Compute Engine の cron はリアルタイム性に劣り、 サーバー管�
 >
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 111 of 204
 53%

@@ -35,5 +35,5 @@ d. クラウド側に Cloud CDN を配置し、
 を間接的に行う構成にする。
 >
 a. 自社データセンターとクラウド VPC
-Learning reading speed...
+
 Page 10 of 204 ⚫ 3%

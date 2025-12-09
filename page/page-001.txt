@@ -23,5 +23,5 @@ c. PTR は逆引き用 SOA はゾーン管理用のレコードで、 名前解�
 ありません。
 カテゴリ:Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 91 of 204.43%

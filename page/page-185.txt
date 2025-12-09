@@ -18,7 +18,7 @@ c. IAP 経由の接続には Google アカウントが必要であり、契約�
 d. 一時ユーザー + Cloud Shell は Google アカウントが前提で、要件を満たし
 ません。
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 185 of 204
 90%
 >

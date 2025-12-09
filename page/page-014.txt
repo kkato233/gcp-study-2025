@@ -23,5 +23,5 @@ c.gcloud CLI を使って既存サブネットの
 IP 範囲を拡張する
 d. サブネットを切り替えるために全ノー
 ドの再構築を行う
-Learning reading speed...
+
 Page 14 of 2046%

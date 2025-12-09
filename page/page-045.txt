@@ -26,5 +26,5 @@ d. Cloud SQL Viewer BigQuery
 付与する必要があります。 これにより、
 対象データセットの読み取りが可能にな
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 45 of 204● 21%

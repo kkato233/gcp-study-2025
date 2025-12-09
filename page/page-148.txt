@@ -18,6 +18,6 @@ c. mealmetrics-central-bucket をパブリックにし、 ランダムフォル�
 >
 d. VM のサービスアカウントに Storage Object Creator権限を対象バケットに
 付与する
-Learning reading speed...
+
 Page 148 of 204
 71%

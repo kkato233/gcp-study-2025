@@ -18,6 +18,6 @@ c. ローカル VM 上に IAM ポリシーを構成し、 Storage バケット�
 d. Compute Engine インスタンスのタグに対応する Firewall ルールを作成しストレージア
 クセスを制御
 <
-Learning reading speed...
+
 Page 64 of 204 ● 30%
 ... ☑

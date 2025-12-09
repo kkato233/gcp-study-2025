@@ -32,5 +32,5 @@ d. Monitoring ダッシュボードからログを
 >
 <
 a. Cloud Storage にログファイルを出力さ
-Learning reading speed...
+
 Page 18 of 204● 7%

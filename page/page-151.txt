@@ -19,7 +19,7 @@ d. ヘルスチェックを無効にすると、障害検知と自動復旧が�
 の確保ができません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 151 of 204
 73%
 >

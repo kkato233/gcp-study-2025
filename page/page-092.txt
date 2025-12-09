@@ -23,5 +23,5 @@ c. Cloud Storage でオブジェクトバージョン管理を有効にし、ラ
 を禁止する
 d. Cloud Storage でバージョンを手動で管理し、1年経過後に低頻度アクセスストレージ
 に手動で移動する
-Learning reading speed...
+
 Page 92 of 204 ⚫ 44%

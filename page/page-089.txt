@@ -21,5 +21,5 @@ d. Cloud Router と VPN は経路制御に使いますが、ストレージア�
 <
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing a cloud
 solution
-Learning reading speed...
+
 Page 89 of 204● 42%

@@ -20,7 +20,7 @@ d. Archive は取り出しに時間がかかるため、 初期の高頻度ア�
 きで、またライフサイクルで自動的に Standard へ戻すことはできません。
 カテゴリ: Planning and configuring a cloud solution + Deploying and implementing
 a cloud solution
-Learning reading speed...
+
 Page 171 of 204
 83%
 >

@@ -18,6 +18,6 @@ c. Cloud Storage のファイル追加イベントをトリガーに Cloud Funct
 >
 d. Compute Engine の cron ジョブでバケットを監視し、 新ファイルを見つけ
 たら API を呼び出す
-Learning reading speed...
+
 Page 110 of 204
 52%

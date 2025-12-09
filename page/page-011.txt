@@ -32,5 +32,5 @@ d. Cloud CDN は静的コンテンツ配信に用
 カテゴリ: Planning and configuring a cloud
 solution Deploying and implementing a
 cloud solution
-Learning reading speed...
+
 Page 11 of 204● 4%

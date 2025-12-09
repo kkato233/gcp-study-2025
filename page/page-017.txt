@@ -27,5 +27,5 @@ d. Terraform の状態ファイルからの読み
 カテゴリ: Ensuring successful operation of
 a cloud solution
 <
-Learning reading speed...
+
 Page 17 of 204● 7%

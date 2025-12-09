@@ -18,6 +18,6 @@ c. 起動時の手動整合性検証は自動化に欠け、タイミング次�
 d. Anthos は高度な統合基盤ですが、 本要件に対してはコストや複雑性が過剰です。
 <
 カテゴリ: Configuring access and security
-Learning reading speed...
+
 Page 63 of 204.30%
 ... ☑

@@ -17,6 +17,6 @@ c. 各パイプライン専用のサービスアカウントを作成し、最�
 d. サービスアカウントのキーは不要として、 Compute Engine のメタデータに IAM 情報
 を直接書き込む
 <
-Learning reading speed...
+
 Page 80 of 204.38%
 ... ☑
