@@ -16,7 +16,6 @@ BigQuery の外部テーブル機能を利用すれ
 きます。
 不正解の解説
 a. Cloud Spanner は OLTP に最適化されて
-E: Aa
 おり、バッチ分析用途には不向きです。
 b. Firestore はドキュメント指向で、
 AVRO 形式や大量データ分析には適しま
