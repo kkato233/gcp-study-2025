@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Memorystore まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - TTL/エビクションポリシーの適切設定、キー空間の整理
 - ホットキー対策、シャーディング/クライアントプール
 - VM/サーバレスとのネットワーク経路最適化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

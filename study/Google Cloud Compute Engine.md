@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Google Compute Engine（GCE）まとめ
 
 ## 概要
@@ -37,3 +39,5 @@
 - MIG のオートスケールとヘルスチェックでムダな稼働を削減
 - ディスクは必要 IOPS/スループットに応じて PD 種別を選定、不要なスナップは自動削除
 - エグレスは Cloud CDN/リージョン設計/圧縮で最小化、Private Service Connect/ILB で内部化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # BigQuery まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - パーティション/クラスタ設計、選択列の厳密化、テーブルプレビューの活用
 - マテビュー/結果キャッシュ/スロット予約の活用
 - データレイアウト/ライフサイクル（Nearline/Coldline/アーカイブ）最適化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

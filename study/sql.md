@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Google Cloud データベース選定まとめ
 
 本ファイルは、主要な GCP データベース/ストアの用途、利点・欠点、価格面のメリット/デメリットを簡潔に整理したものです。
@@ -120,3 +122,5 @@
   - BigQuery: DWH/OLAP向けでOLTPに不向き
   - Cloud SQL: クロスリージョン強整合なし、単一プライマリに依存
   - Cloud Bigtable: マルチ行ACIDなし、最終的整合シナリオあり
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

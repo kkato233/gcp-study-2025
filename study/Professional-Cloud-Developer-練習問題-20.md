@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Google Professional Cloud Developer 練習問題（20問）
 
 出題範囲は `study` フォルダの各まとめ（Cloud Run/Functions/PubSub/SQL/Spanner/Firestore/Bigtable/BigQuery/GKE/GCE/Dataflow/Dataproc/Datastream/Memorystore など）に基づく内容です。各問は解答と短い解説付きです。
@@ -281,3 +283,5 @@ Cloud Run/Functions から VPC 内リソースへアクセスする。ネット�
 解答: A
 
 解説: スループットが予測可能なら Pub/Sub Lite でコスト最適化が可能。
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

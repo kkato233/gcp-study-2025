@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Run: トラフィック分割とリビジョン まとめ
 
 ## 要約
@@ -58,3 +60,5 @@ gcloud run services update-traffic <SERVICE_NAME> `
 - リリース段階で 0%/100% を切り替えると、即時にトラフィックが移行する。
 - 各リビジョンはメモリ/CPU/同時実行/環境変数を個別設定できるが、完全独立運用が必要なら別サービス化が明瞭。
 - ログ/メトリクスはリビジョン/タグ単位で観測可能。計測設計（Cookie/ヘッダ）を合わせておくと分析が楽。
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

@@ -1,3 +1,7 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 ![alt text](image.png)
 
 OpenTelemetry トレース パッケージをインストールして、マイクロサービスを計測可能にする。検査と分析のためにトレースを Trace に送信するようにアプリケーション コードを更新する。ユーザー リクエストを分析するために、Trace で分析レポートを作成する。
@@ -405,4 +409,6 @@ MySQL バックエンドでは、ゲームをホストしている Compute Engin
 
 データベースの特徴
 ＝＝＝＝＝
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
 

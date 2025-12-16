@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Datastream まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - フィルタリングで不要テーブル/列の除外、保持/圧縮設定
 - スキーマ進化の自動適用テンプレート活用、再処理設計
 - Private接続で安定/低コスト、リージョン配置の整合
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

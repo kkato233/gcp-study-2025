@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Run まとめ
 
 ## 概要
@@ -32,3 +34,5 @@
 - 最小/最大インスタンスと同時実行数を調整してコールドスタートと費用のバランス
 - イメージを軽量化し起動時間短縮、未使用リージョン無効化
 - キャッシュ/キューで平準化、ログ/メトリクスの保持期間チューニング
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

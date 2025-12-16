@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Functions まとめ
 
 ## 概要
@@ -31,3 +33,5 @@
 - 2nd gen の同時実行・最小インスタンスを調整してコールドスタートと費用のバランス
 - 入出力の同リージョン配置、VPC コネクタの帯域/課金考慮
 - 冪等/バッチ化で呼び出し回数を抑制、ログの保持期間・出力量を最適化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

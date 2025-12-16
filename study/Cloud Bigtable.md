@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Bigtable まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - 行キー設計でホットスポット回避、適切なスキーマ分割
 - ノード数を実測で調整、ストレージ/圧縮設定の最適化
 - バックアップ/レプリケーションの要件最小化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

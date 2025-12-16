@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Pub/Sub まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - Pub/Sub Lite の検討（スループットが予測可能な場合）
 - メッセージ設計（小さいペイロード、圧縮、バッチパブリッシュ）
 - サブスク側の並列/バッチ pull、適切な保持期間設定
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

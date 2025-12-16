@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Run Jobs まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - 並列度とメモリ/CPUを実測で最適化、起動時間短縮の軽量イメージ
 - 入出力の局所性確保（同リージョンのGCS/BigQuery）でネットワーク費削減
 - 冪等/再実行可能設計でリトライ回数を最小化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

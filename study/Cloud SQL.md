@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud SQL まとめ
 
 ## 概要
@@ -30,3 +32,5 @@
 - 接続プール/コネクタ活用でコスト効率（アプリ側プール、Serverless VPC Connector等）
 - 読み取りはレプリカへ、適切なマシンタイプ/ストレージIOPS選定
 - バックアップ/ログの保持期間見直し、メンテ時間帯の調整
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Dataproc まとめ
 
 ## 概要
@@ -35,3 +37,5 @@
 - Serverless Spark: 入出力の局所性（同リージョンGCS/BigQuery）、ジョブパーティション最適化
 - I/O最適化: キャッシュ/ブロードキャストの活用、不要データの早期フィルタ、チェックポイント設計
 - 観測性: メトリクス/ログを可視化し、ホットスポットやシャッフル量を継続的に削減
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Google Kubernetes Engine（GKE）まとめ
 
 ## 概要
@@ -34,3 +36,5 @@
 - Requests/Limit を実測ベースで調整、VPA/HPA導入
 - Autopilot を既定にしつつ、長時間CPUバウンドは Standard+Spot 併用
 - Ingress はL7/L4の適材適所、ログのサンプリング/保持期間最適化
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)

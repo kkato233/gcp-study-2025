@@ -1,3 +1,5 @@
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
+
 # Cloud Spanner まとめ
 
 ## 概要
@@ -35,3 +37,5 @@
 - リージョン/インスタンス構成を要件から最小限に設計
 - ホットスポット回避のキー設計と適切なインデックス設計
 - 需要に応じたノード/ストレージ調整と監視アラート
+
+[🏠 ホーム: Google Cloud 認定資格 Profesional Developer 勉強資料](../index.md)
