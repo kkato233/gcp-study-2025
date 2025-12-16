@@ -14,6 +14,7 @@ study 配下の学習資料をカテゴリ別に整理しています。必要�
 - [SQL 比較/選定まとめ](study/sql.md)
 
 ## サーバレス / イベント駆動
+- [サーバレス / イベント駆動 まとめ](study/Serverless-Event-Driven.md)
 - [Cloud Functions](study/Cloud%20Functions.md)
 - [Cloud Pub/Sub](study/Cloud%20PubSub.md)
 - [Cloud Run](study/Cloud%20Run.md)
