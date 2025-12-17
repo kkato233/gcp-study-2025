@@ -34,3 +34,5 @@ study 配下の学習資料をカテゴリ別に整理しています。必要�
 ## 練習問題 / その他
 - [Google Professional Cloud Developer 練習問題（20問）](study/Professional-Cloud-Developer-練習問題-20.md)
 - [test（メモ/断片集）](study/test.md)
+ - [Professional Cloud Developer 試験ガイド 日本語訳](shiken/shiken-translation.md)
+ - [Professional Cloud Developer 模擬試験 50問（解説付き）](shiken/shiken-exam-50.md)
