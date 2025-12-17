@@ -1,0 +1,28 @@
+Source: image-3.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+Restricting retum data
+Paginating results
+
+Caching results
+
+Handling errors (e.g., exponential backoff)
+・ Using service accounts to make Cloud API calls
+
+oo 0
+
+°
+
+43 Troubleshooting and observability. Considerations include:
+・ Instrumenting code to facilitate troubleshooting using metrics, logs, and traces
+
+in Google Cloud Observability
+
+Identifying and resolving issues using Google Cloud Observabilty
+
+Managing application issues using Error Reporting
+
+Using trace IDs to correlate trace spans across services
+
+Using Gemini Cloud Assist

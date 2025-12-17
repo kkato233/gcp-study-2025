@@ -1,0 +1,48 @@
+Source: image-0.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+Professional Cloud Developer
+
+Certification exam guide
+
+A Professional Cloud Developer builds and deploys scalable, secure, and highly available
+applications by using Google-recommended tools and best practices. This individual has
+experience with cloud-native applications, Google Cloud APIs, developer and Al tools,
+managed services, orchestration tools, serverless platforms, containerized applications, test
+and deployment strategies, problem determination and resolution, and datastores. This
+individual also has proficiency with at least one general-purpose programming language and
+can instrument their code to produce metrics, logs, and traces.
+
+Section 1: Designing highly scalable, available, and reliable cloud-native
+applications (~36% of the exam)
+
+11 Designing high-performing applications and APIs. Considerations include:
+
+・ Choosing the appropriate platform based on the use case and requirements
+(e.g. Compute Engine, GKE, Cloud Run)
+
+・ Building, refactoring, and deploying application containers to Cloud Run and
+GKE
+
+・ Understanding how Google Cloud services are geographically distributed (e.g.
+latency, regional services, zonal services)
+
+・ Configuring load balancers and applications for session affinity and performant
+content delivery
+Implementing caching solutions (e.g., Memorystore)
+Creating and deploying APIs (e.g., HTTP REST, gRPC [Google Remote Procedure
+Call)
+
+・ Using application rate limiting, authentication, and observability (e.g., Apigee,
+Cloud API Gateway)
+
+・ Integrating applications using asynchronous or event-driven approaches (e.g.,
+Eventarc, Pub/Sub)
+Optimizing for cost and resource usage
+Understanding data replication to support zonal and regional failover models
+Using traffic splitting strategies (e.g., gradual rollouts, rollbacks, A/B testing) on a
+new service on Cloud Run or GKE
+
+・ Orchestrating application services with Workflows, Eventarc, Cloud Tasks, and
+Cloud Scheduler

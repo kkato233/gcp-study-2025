@@ -1,0 +1,50 @@
+Source: image-2.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+22 Building. Considerations include:
+・ Using Cloud Build and Artifact Registry to build and store containers from source
+code
+・ Configuring provenance in Cloud Build (e.g., Binary Authorization)
+
+2.3 Testing. Considerations include:
+・ Writing unit tests with the help of Gemini Code Assist
+・ Executing automated integration tests in Cloud Build
+
+Section 3: Deploying applications (~20% of the exam)
+
+31 Deploying applications to Cloud Run. Considerations include:
+
+Deploying applications from source code
+
+Invoking Cloud Run services using triggers (e.g., Eventarc, Pub/Sub)
+Configuring event receivers (e.g., Eventarc, Pub/Sub)
+
+Exposing and securing APIs in applications (e.g., Apigee)
+
+Deploying a new API version in Cloud Endpoints considering backward
+compatibility
+
+3.2 Deploying containers to GKE. Considerations include:
+
+Deploying containerized applications
+
+Defining resource requirements for container workloads
+
+Implementing Kubernetes health checks to increase application availability
+Configuring the Horizontal Pod Autoscaler for cost optimization
+
+Section 4: Integrating applications with Google Cloud services (~21% of the exam)
+
+41 Integrating applications with data and storage services. Considerations include:
+・ Managing connections to various Google Cloud datastores (e.g., Cloud SQL,
+Firestore, Cloud Storage)
+・ Reading and writing data to and from various Google Cloud datastores
+・ Writing applications that publish and consume data using Pub/Sub
+
+42 Consuming Google Cloud APIs. Considerations include:
+・ Enabling Google Cloud services
+・ Making API calls by using supported options (e.g., Cloud Client Libraries, REST
+API, gRPC, API Explorer) taking into consideration:
+© Batching requests
+

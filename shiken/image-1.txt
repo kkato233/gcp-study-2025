@@ -1,0 +1,59 @@
+Source: image-1.png
+OCR Method: Tesseract OCR (jpn+eng)
+================================================================================
+
+12
+
+ling secure applications. Considerations include:
+
+Implementing data retention and organization policies (e.g., Cloud Storage
+Object Lifecycle Management, Cloud Storage use and lock retention policies)
+Using security mechanisms that identify vulnerabilities and protect services and
+resources (eg., Identity-Aware Proxy [IAP], Web Security Scanner)
+
+Responding to and resolving vulnerabilities, including those identified by Artifact
+Analysis and Security Command Center
+
+Storing, accessing, and rotating application secrets, credentials, and encryption
+keys (e.9. Secret Manager, Cloud Key Management Service, Workload Identity
+Federation)
+
+Authenticating to Google Cloud services (e.g., Application Default Credentials,
+JSON Web Token [JWT], OAuth 2.0, Cloud SQL Auth Proxy, AlloyDB Auth Proxy)
+Managing and authenticating end-user accounts (e.9。 Identity Platform)
+Securing cloud resources using Identity and Access Management (IAM) roles for
+service accounts
+
+Securing service-to-service communications (e.g., Cloud Service Mesh,
+Kubernetes Network Policies)
+
+Running services with least privileged access
+
+Securing application artifacts using Binary Authorization
+
+1.3 Storing and accessing data. Considerations include:
+
+Section
+
+Selecting the appropriate storage system based on the volume of data and
+performance requirements
+
+Designing appropriate schemas for structured databases (e.g., AlloyDB,
+Spanner) and unstructured databases (e.g., Bigtable, Datastore)
+
+Understanding the implications of eventual and strongly consistent replication of
+AlloyDB, Bigtable, Cloud SQL, Spanner, and Cloud Storage
+
+Creating signed URLs to grant access to Cloud Storage objects
+
+Writing data to BigQuery for analytics and Al/ML workloads
+
+: Building and testing applications (~23% of the exam)
+
+21 Setting up your development environment. Considerations include:
+
+Emulating Google Cloud services using the Google Cloud CL for local
+application development and local unit testing
+
+Using the Google Cloud console, Cloud SDK, Cloud Code, Gemini Cloud Assist,
+Gemini Code Assist, Cloud Shell, and Cloud Workstations
